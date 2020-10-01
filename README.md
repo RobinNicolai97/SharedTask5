@@ -4,7 +4,7 @@ For the final project, we chose the Task 5: Toxic Spans Detection. So in order t
 ## Purporse
 In our library, we work hard to make sure that bad words don't show up in places they shouldn't. So we make a system baseline meant for use in text generrators. And We found a text about bad words "badwords.txt" which can help us to fliter results from "tsd_train.csv".
 ## Install
-This project uses python3.8 and nltk library. Go check them out if you have them locally installed.
+This project uses python 3.8 and nltk library. Go check them out if you have them locally installed.
 ```
 sudo pip install -U nltk
 ```
