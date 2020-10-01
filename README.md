@@ -10,6 +10,7 @@ sudo pip install -U nltk
 ```
 ## Usage
 Firstly, we quoted the method of word tokenizer to tokenize text into words. Then, we are going to calculate the score from the three aspects of correct finds, missed finds, and incorrect finds to evaluate the system. Next, we open and read the csv file prepared in advance. Now, we can load the library of bad words("badwords.txt") to detect toxicity and create a list of bad words. Then，we loop through the lines in the file.
+Finally, we evaluated our system by calculating accuracy, precision, recall and f1-score.
 ## Run
 Just type baseline.py, and make sure that "badwords.txt" and "tsd_train.csv" are in the same directory.
 ## Contributors
