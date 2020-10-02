@@ -1,6 +1,7 @@
 import csv
 from nltk.tokenize import word_tokenize 
 from nltk import ngrams
+import re
 
 total_scores = [0,0,0] #correct finds, missed finds, incorrect finds
 
@@ -16,10 +17,13 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
             #print('Found the bad words:', matches, '\n')
             #print('Which are spans:')
             span = []
-            for match in matches:                  
-                position = row[1].find(match) #identifying the location of the matches, to be able to compare them to the gold label. 
+            for match in matches:
+                find_matches = re.finditer(match, row[1]) #identifying the location of the matches, to be able to compare them to the gold label.
+                matches_positions = [found.start() for found in find_matches]   
                 for i in range(len(match)):
-                    span.append(position + i )
+                    for pos in matches_positions:
+                        span.append(pos + i )
+                
             #print(span, '\n')
             right_answers = row[0].strip('][').split(', ') 
             #checking for true positives, false positives and false negatives. 
