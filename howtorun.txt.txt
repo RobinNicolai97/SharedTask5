@@ -1,0 +1,3 @@
+Just type baseline.py in the command line and make sure that
+"badwords.txt" and "tsd_train.csv" are in the
+same directory.
