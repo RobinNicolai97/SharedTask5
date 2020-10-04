@@ -11,11 +11,8 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
     bad_words_file = open("badwords.txt", encoding="utf8") #loading a library of bad words to identify toxicity
     bad_words_lib = [line.strip() for line in bad_words_file.readlines()] # creating a list of bad words
     for row in csv_reader:
-            #print("in the sentence: {0}, spans: {1} are toxic \n".format(row[1], row[0])) 
             matches = [ word for word in word_tokenize(row[1].lower()) if word in bad_words_lib] #check for each word in the message if it is in our library.
             matches += [ gram[0] + ' ' + gram[1] for gram in ngrams(word_tokenize(row[1].lower()), 2) if gram[0] + ' ' + gram[1] in bad_words_lib ] #check for each bigram in the message if it is in our library.
-            #print('Found the bad words:', matches, '\n')
-            #print('Which are spans:')
             span = []
             for match in matches:
                 find_matches = re.finditer(match, row[1]) #identifying the location of the matches, to be able to compare them to the gold label.
@@ -24,7 +21,6 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
                     for pos in matches_positions:
                         span.append(pos + i )
                 
-            #print(span, '\n')
             right_answers = row[0].strip('][').split(', ') 
             #checking for true positives, false positives and false negatives. 
             correct = 0
@@ -43,7 +39,6 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
     #calculating precision, recall and f1-score                 
     precision =  total_scores[0] / ( total_scores[0] + total_scores[2])
     recall = total_scores[0] / ( total_scores[0] + total_scores[1]) 
-    print(total_scores)
     print('precision:', precision)
     print('recall:', recall)
     print('f1-score:', 2 * ((precision * recall) / (precision + recall)))
