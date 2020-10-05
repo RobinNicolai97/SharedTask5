@@ -1,14 +1,14 @@
-##1	Background
+## 1	Background
 
 For the final project, we chose the Task 5: Toxic Spans Detection. In order to complete our final systems better, we made a system baseline and also provided an implementation of our system baseline for the task. In our library, we work hard to make sure that bad words don't show up in places they shouldn't. We make a system baseline meant for use in text generators. We found a list of banned words that Google used for their Android system . We call it "badwords.txt". It can help us filter results from "tsd_train.csv".
 
-##2	Install
+## 2	Install
 
 This project uses python 3.8 and nltk library. Go check them out if you have them locally installed.
 
 sudo pip install -U nltk
 
-##3	Usage
+## 3	Usage
 
 We are going to calculate the score from the three aspects of correct finds, missed finds, and incorrect finds to evaluate the system. We open and read the csv file provided by the task organizers, "tsd_train.csv", which they prepared in advance.
 
@@ -22,7 +22,7 @@ Then, we check for true positives, false positives and false negatives. We do th
 
 The baseline results in a precision of 0.67, a recall of 0.1 and an f-score of 0.17. The extremely low f-score largely stems from the fact that dictionary lookup only accounts for explicit toxicity and not implicit toxicity. In the gold label, implicitly toxic tweets are considered to be entirely toxic, so the recall decreases considerably.
 
-##4	Run
+## 4	Run
 
 python3 baseline.py
 
