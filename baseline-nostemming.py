@@ -1,7 +1,6 @@
 import csv
 from nltk.tokenize import word_tokenize 
 from nltk import ngrams
-from nltk.stem import PorterStemmer
 import re
 
 #Comments on our baseline:
@@ -12,25 +11,17 @@ import re
 #   Double checked - Works ( SEE TEXTFILE WITH PROOF)
 #
 answer = input('Do you want to use full toxic messages (empty brackets)? y/n: ')
-total_scores = [0,0,0] #correct finds, missed finds, incorrect 
-stemmer = PorterStemmer()
+total_scores = [0,0,0] #correct finds, missed finds, incorrect finds
 row = 0
 with open("tsd_trial.csv",  encoding="utf8") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',') # read csv-file
     line_count = 0          
     bad_words_file = open("badwords.txt", encoding="utf8") #loading a library of bad words to identify toxicity
-    bad_words_lib = []
-    for line in bad_words_file.readlines(): #stemming the words in the library
-        linetext = []
-        for word in line.split():
-            linetext.append(stemmer.stem(word.strip()))
-        bad_words_lib.append(' '.join(linetext))
-    bad_words_lib = set(bad_words_lib)
-    #bad_words_lib = [line.strip() for line in bad_words_file.readlines()] # creating a list of bad words
+    bad_words_lib = [line.strip() for line in bad_words_file.readlines()] # creating a list of bad words
     #f = open("missedwords.txt", "w", encoding="utf8")
     for row in csv_reader:
-            matches = [ word for word in word_tokenize(row[1]) if stemmer.stem(word.lower()) in bad_words_lib] #check for each word in the message if it is in our library.
-            matches += [ gram[0] + ' ' + gram[1] for gram in ngrams(word_tokenize(row[1]), 2) if stemmer.stem(gram[0].lower()) + ' ' + stemmer.stem(gram[1].lower()) in bad_words_lib ] #check for each bigram in the message if it is in our library.
+            matches = [ word for word in word_tokenize(row[1]) if word.lower() in bad_words_lib] #check for each word in the message if it is in our library.
+            matches += [ gram[0] + ' ' + gram[1] for gram in ngrams(word_tokenize(row[1]), 2) if gram[0].lower() + ' ' + gram[1].lower() in bad_words_lib ] #check for each bigram in the message if it is in our library.
             span = []
             for match in matches:
                 find_matches = re.finditer(match, row[1]) #identifying the location of the matches, to be able to compare them to the gold label.
@@ -83,11 +74,3 @@ with open("tsd_trial.csv",  encoding="utf8") as csv_file:
     print('f1-score:', 2 * ((precision * recall) / (precision + recall)))
     #f.close()
                     
-                
-                
-                
-                
-
-                
-            
-            
