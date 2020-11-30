@@ -3,14 +3,6 @@ from nltk.tokenize import word_tokenize
 from nltk import ngrams
 import re
 
-#Comments on our baseline:
-#- coverage of the lexicon  with respect to the training data- it does not seem that you have checked this potential shortcomings;
-
-# - problems in the way you compute the offsets. I see that some messages contains newlines. 
-#   Please double check if in these cases, the counting of the offsets of the characters is correctly implemented 
-#   Double checked - Works ( SEE TEXTFILE WITH PROOF)
-
-
 # Function for finding the matches between a word in the sentence and a word in our bad words library
 def match_finder(row, bad_words_lib):
     matches = [ word for word in word_tokenize(row[1]) if word.lower() in bad_words_lib] #check for each word in the message if it is in our library.
@@ -42,11 +34,7 @@ def find_right_answer(row, answer):
 
 # Function for counting the amount of correct and incorrect answers
 def add_scores(right_answers, span, total_scores):
-    #checking for true positives, false positives and false negatives. 
     correct = 0
-    missed = 0
-    incorrect = 0
-    spanlist = span
     span = set(span) #filtering out double finds 
     if len(span) != 0:
         for loc in span:
@@ -75,11 +63,9 @@ def main():
     total_scores = [0,0,0] #correct finds, missed finds, incorrect finds
     row = 0
     with open("tsd_trial.csv",  encoding="utf8") as csv_file:
-        csv_reader = csv.reader(csv_file, delimiter=',') # read csv-file
-        line_count = 0          
+        csv_reader = csv.reader(csv_file, delimiter=',') # read csv-file          
         bad_words_file = open("badwords.txt", encoding="utf8") #loading a library of bad words to identify toxicity
         bad_words_lib = [line.strip() for line in bad_words_file.readlines()] # creating a list of bad words
-        #f = open("missedwords.txt", "w", encoding="utf8")
 
         for row in csv_reader:
                 span, matches = match_finder(row, bad_words_lib)
