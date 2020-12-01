@@ -19,15 +19,14 @@ def match_finder(row, bad_words_lib):
 
 
 # Function for finding the number of right answers
-def find_right_answer(row, answer): 
+def find_right_answer(row): 
     right_answers = row[0].strip('][').split(', ') 
     if len(right_answers) == 1: #all characters of messages belong to the toxic span if list is empty
         right_answers = []
-        if answer.lower() == 'y':
-            i = 0
-            for char in row[1]:
-                right_answers.append(i)
-                i +=1  
+        i = 0
+        for char in row[1]:
+            right_answers.append(i)
+            i +=1  
     right_answers = [int(ans) for ans in right_answers] #make sure all answers are integers
     
     return right_answers
@@ -59,7 +58,6 @@ def scoring(total_scores):
 
 
 def main():
-    answer = input('Do you want to use full toxic messages (empty brackets)? y/n: ')
     total_scores = [0,0,0] #correct finds, missed finds, incorrect finds
     row = 0
     with open("tsd_trial.csv",  encoding="utf8") as csv_file:
@@ -69,7 +67,7 @@ def main():
 
         for row in csv_reader:
                 span, matches = match_finder(row, bad_words_lib)
-                right_answers = find_right_answer(row, answer)
+                right_answers = find_right_answer(row)
                 total_scores = add_scores(right_answers, span, total_scores)
                     
                     
