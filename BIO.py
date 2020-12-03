@@ -24,12 +24,14 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
 			i = 0
 			tag = ''
 			prev_tag = ''
+			string = ''
 			for char in row[1]:
 				if char == ' ':
 					if tag == 'B-toxic' and ( prev_tag == 'B-toxic' or prev_tag == 'I-toxic'):
 						tag = 'I-toxic'
 					if tag != 'newword':
 						f.write('\t'+tag+'\n')	
+					string = ''
 					prev_tag = tag
 					tag = 'newword'
 				elif char == '\n':
@@ -37,11 +39,13 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
 						f.write('\t'+tag+'\n')	
 					prev_tag = tag
 					tag = 'newword'
+					string = ''
 					
 				else:
 					if i in spans:
-						if tag == 'O':
+						if tag == '0':
 							f.write('\t'+tag+'\n')	
+							string = ''
 							prev_tag = tag
 							tag = 'B-toxic'
 							f.write(char)
@@ -55,20 +59,33 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
 							if prev_tag == 'B-toxic' or prev_tag == 'I-toxic':
 								tag = 'I-toxic'
 							f.write('\t'+tag+'\n')	
+							string = ''
 							prev_tag = tag
-							tag = 'O'
-							f.write(char)
-							
-							
+							tag = '0'
+							f.write(char)	
 						else:
-							tag = 'O'
-							f.write(char)
+							if not char.isalpha():
+								if 'https' in string[0:8]:
+									tag = '0'
+									f.write(char)
+								else:
+									if tag != 'newword':
+										f.write('\t'+tag+'\n')
+									string = ''
+									prev_tag = tag
+									tag = '0'
+									f.write(char)								
+							else:	
+								tag = '0'
+								f.write(char)
 				i += 1
+				string += char
 			if tag == 'B-toxic' and ( prev_tag == 'B-toxic' or prev_tag == 'I-toxic'):
 				tag = 'I-toxic'
 			f.write('\t'+tag+'\n')	
 			prev_tag = ''
 			tag = '' 
+			string = ''
 			f.write('\n')
 			
 						
