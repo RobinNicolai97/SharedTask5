@@ -45,8 +45,18 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
 							tag = 'B-toxic'
 							f.write(char)								
 					else:	
-						tag = 'B-toxic'
-						f.write(char)
+						if len(string) >0 and not string[-1].isalpha():
+							if tag == 'B-toxic' and ( prev_tag == 'B-toxic' or prev_tag == 'I-toxic' or prev_tag == 'newword'):
+								tag = 'I-toxic'
+							if tag != 'newword':
+								f.write('\t'+tag+'\n')
+							string = ''
+							prev_tag = tag
+							tag = 'B-toxic'
+							f.write(char)									
+						else:
+							tag = 'B-toxic'
+							f.write(char)
 				string += char
 			if tag == 'B-toxic' and ( prev_tag == 'B-toxic' or prev_tag == 'I-toxic' or prev_tag == 'newword'):
 				tag = 'I-toxic'
@@ -116,9 +126,18 @@ with open("tsd_train.csv",  encoding="utf8") as csv_file:
 									prev_tag = tag
 									tag = '0'
 									f.write(char)								
-							else:	
-								tag = '0'
-								f.write(char)
+							else:
+								if len(string) >0 and not string[-1].isalpha():
+									if tag != 'newword':
+										f.write('\t'+tag+'\n')
+									string = ''
+									prev_tag = tag
+									tag = '0'
+									f.write(char)								
+								
+								else:
+									tag = '0'
+									f.write(char)
 				i += 1
 				string += char
 			if tag == 'B-toxic' and ( prev_tag == 'B-toxic' or prev_tag == 'I-toxic'):
