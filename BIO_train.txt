@@ -454,15 +454,15 @@ problem	I-toxic
 Enough	I-toxic
 with	I-toxic
 the	I-toxic
-``	I-toxic
-Well	I-toxic
+"Well	I-toxic
 what	I-toxic
 about	I-toxic
 blah	I-toxic
 blah	I-toxic
-''	I-toxic
+"	I-toxic
 garbage	I-toxic
 .	I-toxic
+
 
 Please	0
 people	0
@@ -925,8 +925,8 @@ buffoon	I-toxic
 .	I-toxic
 But	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 hate	I-toxic
 Donald	I-toxic
 .	I-toxic
@@ -958,8 +958,8 @@ him	I-toxic
 ,	I-toxic
 which	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 .	I-toxic
 What	I-toxic
 I	I-toxic
@@ -995,6 +995,7 @@ he	I-toxic
 leaves	I-toxic
 office	I-toxic
 .	I-toxic
+
 
 There	0
 's	0
@@ -1081,6 +1082,7 @@ you	I-toxic
 Good	I-toxic
 job	I-toxic
 !	I-toxic
+
 
 Damn	B-toxic
 -	0
@@ -1277,21 +1279,22 @@ and	I-toxic
 suckees	I-toxic
 say	I-toxic
 ,	I-toxic
-``	I-toxic
-Enough	I-toxic
+"Enough	I-toxic
 !	I-toxic
-``	I-toxic
+"	I-toxic
 ,	I-toxic
 and	I-toxic
 demand	I-toxic
 this	I-toxic
 repugnant	I-toxic
 ,	I-toxic
-excrement-spewing	I-toxic
+excrement	I-toxic
+-spewing	I-toxic
 fool	I-toxic
 's	I-toxic
 ouster	I-toxic
 ?	I-toxic
+
 
 They	0
 elected	0
@@ -2712,6 +2715,7 @@ like	I-toxic
 yours	I-toxic
 .	I-toxic
 
+
 It	0
 's	0
 the	0
@@ -3289,6 +3293,7 @@ ass	I-toxic
 over	I-toxic
 .	I-toxic
 
+
 	
 3	0
 8	0
@@ -3373,8 +3378,7 @@ the	I-toxic
 Don	I-toxic
 's	I-toxic
 lips	I-toxic
-``	I-toxic
-There	I-toxic
+"There	I-toxic
 are	I-toxic
 many	I-toxic
 fine	I-toxic
@@ -3382,7 +3386,7 @@ people	I-toxic
 on	I-toxic
 both	I-toxic
 sides	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 He	I-toxic
 has	I-toxic
@@ -3409,6 +3413,7 @@ a	I-toxic
 pathetic	I-toxic
 racist	I-toxic
 .	I-toxic
+
 
 aa	B-toxic
 nadda	I-toxic
@@ -3464,10 +3469,13 @@ bs	I-toxic
 like	I-toxic
 carbon	I-toxic
 taxes	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 
-Do	B-toxic
-n't	I-toxic
+
+Don	B-toxic
+'t	I-toxic
 like	I-toxic
 a	I-toxic
 taste	I-toxic
@@ -3511,10 +3519,11 @@ does	I-toxic
 it	I-toxic
 ,	I-toxic
 it	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 .	I-toxic
-Dems=Repubs	I-toxic
+Dems	I-toxic
+=Repubs	I-toxic
 .	I-toxic
 Same	I-toxic
 crap	I-toxic
@@ -3522,6 +3531,7 @@ crap	I-toxic
 different	I-toxic
 diaper	I-toxic
 .	I-toxic
+
 
 All	0
 parish	0
@@ -3830,6 +3840,7 @@ a	I-toxic
 bootlicking	I-toxic
 Russian	I-toxic
 traitor	I-toxic
+
 
 This	0
 is	0
@@ -5436,8 +5447,8 @@ by	I-toxic
 then	I-toxic
 you	I-toxic
 still	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 understand	I-toxic
 that	I-toxic
 the	I-toxic
@@ -5452,6 +5463,7 @@ never	I-toxic
 get	I-toxic
 it	I-toxic
 .	I-toxic
+
 
 Exactly	0
 ,	0
@@ -6248,13 +6260,17 @@ idiotic	0
 Only	B-toxic
 a	I-toxic
 fectless	I-toxic
-bitch-boy	I-toxic
+bitch	I-toxic
+-boy	I-toxic
 would	I-toxic
 cave	I-toxic
 to	I-toxic
 such	I-toxic
 excrement	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 It	0
 is	0
@@ -7667,9 +7683,11 @@ preferred	I-toxic
 he	I-toxic
 start	I-toxic
 the	I-toxic
-letter-	I-toxic
+letter	I-toxic
+-	I-toxic
 Dear	I-toxic
-Mr.	I-toxic
+Mr	I-toxic
+.	I-toxic
 President	I-toxic
 ,	I-toxic
 You	I-toxic
@@ -7688,6 +7706,7 @@ to	I-toxic
 be	I-toxic
 impeached	I-toxic
 .	I-toxic
+
 
 This	0
 is	0
@@ -8244,6 +8263,7 @@ get	I-toxic
 their	I-toxic
 info	I-toxic
 ?	I-toxic
+
 
 How	0
 many	0
@@ -9865,7 +9885,8 @@ wander	I-toxic
 on	I-toxic
 over	I-toxic
 to	I-toxic
-fivethirtyeight.com	I-toxic
+fivethirtyeight	I-toxic
+.com	I-toxic
 .	I-toxic
 And	I-toxic
 yes	I-toxic
@@ -9893,6 +9914,7 @@ bullies	I-toxic
 are	I-toxic
 disgusting	I-toxic
 .	I-toxic
+
 
 Probably	0
 something	0
@@ -10484,6 +10506,7 @@ a	I-toxic
 dick	I-toxic
 .	I-toxic
 
+
 Oh	0
 ,	0
 Bleaty	0
@@ -10653,6 +10676,7 @@ low	I-toxic
 moral	I-toxic
 character	I-toxic
 .	I-toxic
+
 
 What	0
 would	0
@@ -12153,11 +12177,16 @@ institution	I-toxic
 that	I-toxic
 he	I-toxic
 finds	I-toxic
-``	I-toxic
-offensive	I-toxic
-''	I-toxic
-........	I-toxic
-with	I-toxic
+"offensive	I-toxic
+"	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.with	I-toxic
 the	I-toxic
 office	I-toxic
 of	I-toxic
@@ -12165,14 +12194,13 @@ the	I-toxic
 President	I-toxic
 and	I-toxic
 his	I-toxic
-``	I-toxic
-potential	I-toxic
-''	I-toxic
+"potential	I-toxic
+"	I-toxic
 power	I-toxic
 .	I-toxic
 Protesters	I-toxic
-are	I-toxic
-n't	I-toxic
+aren	I-toxic
+'t	I-toxic
 Berkley	I-toxic
 's	I-toxic
 fault	I-toxic
@@ -12186,15 +12214,16 @@ s	I-toxic
 it	I-toxic
 .	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 condone	I-toxic
 the	I-toxic
 violence	I-toxic
 at	I-toxic
 all	I-toxic
-...	I-toxic
-but	I-toxic
+.	I-toxic
+.	I-toxic
+.but	I-toxic
 it	I-toxic
 is	I-toxic
 not	I-toxic
@@ -12207,9 +12236,8 @@ go	I-toxic
 around	I-toxic
 addressing	I-toxic
 every	I-toxic
-``	I-toxic
-evil	I-toxic
-''	I-toxic
+"evil	I-toxic
+"	I-toxic
 ,	I-toxic
 and	I-toxic
 micro	I-toxic
@@ -12231,11 +12259,10 @@ cut	I-toxic
 off	I-toxic
 funds	I-toxic
 for	I-toxic
-``	I-toxic
-this	I-toxic
+"this	I-toxic
 and	I-toxic
 that	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 Sheesh	I-toxic
 ,	I-toxic
@@ -12243,8 +12270,10 @@ America	I-toxic
 ,	I-toxic
 wake	I-toxic
 up	I-toxic
-....	I-toxic
-you	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.you	I-toxic
 have	I-toxic
 a	I-toxic
 mad	I-toxic
@@ -12253,8 +12282,9 @@ in	I-toxic
 the	I-toxic
 White	I-toxic
 House	I-toxic
-...	I-toxic
-and	I-toxic
+.	I-toxic
+.	I-toxic
+.and	I-toxic
 worse	I-toxic
 ,	I-toxic
 he	I-toxic
@@ -12264,11 +12294,12 @@ uneducated	I-toxic
 STUPID	I-toxic
 mad	I-toxic
 man	I-toxic
-..	I-toxic
-the	I-toxic
+.	I-toxic
+.the	I-toxic
 worst	I-toxic
 kind	I-toxic
 .	I-toxic
+
 
 She	B-toxic
 won't	I-toxic
@@ -14072,12 +14103,11 @@ it	I-toxic
 a	I-toxic
 little	I-toxic
 weird	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 it	I-toxic
 ?	I-toxic
-``	I-toxic
-Will	I-toxic
+"Will	I-toxic
 your	I-toxic
 driving	I-toxic
 record	I-toxic
@@ -14180,6 +14210,7 @@ employer	I-toxic
 insurance	I-toxic
 companies	I-toxic
 .	I-toxic
+
 
 I	0
 guess	0
@@ -14297,6 +14328,7 @@ superficial	I-toxic
 ,	I-toxic
 uneducated	I-toxic
 .	I-toxic
+
 
 How	0
 much	0
@@ -14633,8 +14665,8 @@ loves	0
 it	0
 .	0
 
-Is	B-toxic
-n't	I-toxic
+Isn	B-toxic
+'t	I-toxic
 it	I-toxic
 comforting	I-toxic
 to	I-toxic
@@ -14645,9 +14677,8 @@ pathological	I-toxic
 narcissistic	I-toxic
 liar	I-toxic
 is	I-toxic
-``	I-toxic
-leading	I-toxic
-''	I-toxic
+"leading	I-toxic
+"	I-toxic
 this	I-toxic
 great	I-toxic
 nation	I-toxic
@@ -14655,7 +14686,10 @@ nation	I-toxic
 A	I-toxic
 squadron	I-toxic
 of	I-toxic
-A-10s	I-toxic
+A	I-toxic
+-	I-toxic
+1	I-toxic
+0s	I-toxic
 might	I-toxic
 be	I-toxic
 reassuring	I-toxic
@@ -14665,7 +14699,10 @@ ground	I-toxic
 forces	I-toxic
 right	I-toxic
 now	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 As	0
 Bruce	0
@@ -15579,6 +15616,7 @@ a	I-toxic
 stick	I-toxic
 buthole	I-toxic
 !	I-toxic
+
 
 At	0
 least	0
@@ -16829,7 +16867,9 @@ don	0
 
 You	B-toxic
 are	I-toxic
-100	I-toxic
+1	I-toxic
+0	I-toxic
+0	I-toxic
 %	I-toxic
 correct	I-toxic
 !	I-toxic
@@ -16847,8 +16887,8 @@ services	I-toxic
 for	I-toxic
 people	I-toxic
 who	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 see	I-toxic
 past	I-toxic
 I	I-toxic
@@ -16875,12 +16915,12 @@ to	I-toxic
 let	I-toxic
 these	I-toxic
 people	I-toxic
-``	I-toxic
-freely	I-toxic
-''	I-toxic
+"freely	I-toxic
+"	I-toxic
 demonstrate	I-toxic
 their	I-toxic
-arrogance/stupidity	I-toxic
+arrogance	I-toxic
+/stupidity	I-toxic
 and	I-toxic
 allow	I-toxic
 nature	I-toxic
@@ -16901,6 +16941,7 @@ I	I-toxic
 'm	I-toxic
 thinking	I-toxic
 .	I-toxic
+
 
 Silly	B-toxic
 Sue,	I-toxic
@@ -17414,6 +17455,7 @@ from	I-toxic
 speaking	I-toxic
 out	I-toxic
 .	I-toxic
+
 
 hey	0
 loser	B-toxic
@@ -18879,6 +18921,7 @@ fucker	I-toxic
 so	I-toxic
 far	I-toxic
 
+
 Rick	0
 :	0
 I	0
@@ -19279,6 +19322,7 @@ them	I-toxic
 do	I-toxic
 death	I-toxic
 .	I-toxic
+
 
 This	0
 idiot	B-toxic
@@ -19943,8 +19987,10 @@ politics	0
 Hawker	B-toxic
 and	I-toxic
 Chenault	I-toxic
-....	I-toxic
-Why	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.Why	I-toxic
 do	I-toxic
 we	I-toxic
 continue	I-toxic
@@ -19956,6 +20002,7 @@ Bastards	I-toxic
 hang	I-toxic
 around	I-toxic
 ?	I-toxic
+
 
 It	0
 's	0
@@ -20372,7 +20419,8 @@ tea	I-toxic
 in	I-toxic
 Langley	I-toxic
 ,	I-toxic
-VA.	I-toxic
+VA	I-toxic
+.	I-toxic
 Putin	I-toxic
 will	I-toxic
 not	I-toxic
@@ -20388,6 +20436,7 @@ to	I-toxic
 be	I-toxic
 scared	I-toxic
 .	I-toxic
+
 
 Trump	0
 and	0
@@ -20511,8 +20560,10 @@ new	I-toxic
 ,	I-toxic
 at	I-toxic
 least	I-toxic
-ma'am	I-toxic
+ma	I-toxic
+'am	I-toxic
 !	I-toxic
+
 
 I	0
 believe	0
@@ -21106,9 +21157,11 @@ aka	0
 welfare	0
 .	0
 
-``	B-toxic
-...	I-toxic
-your	I-toxic
+	
+"	B-toxic
+.	I-toxic
+.	I-toxic
+.your	I-toxic
 lowly	I-toxic
 selves	I-toxic
 !	I-toxic
@@ -21123,14 +21176,17 @@ of	I-toxic
 fools	I-toxic
 and	I-toxic
 stupid	I-toxic
-...	I-toxic
-''	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+"	I-toxic
 Sure	I-toxic
 .	I-toxic
 Yup	I-toxic
 .	I-toxic
 Fair	I-toxic
 .	I-toxic
+
 
 You	0
 're	0
@@ -21849,8 +21905,11 @@ executioner	0
 
 Excellent	B-toxic
 post	I-toxic
-..	I-toxic
-777ER	I-toxic
+.	I-toxic
+.	I-toxic
+7	I-toxic
+7	I-toxic
+7ER	I-toxic
 is	I-toxic
 the	I-toxic
 ONLY	I-toxic
@@ -21864,7 +21923,8 @@ an	I-toxic
 ounce	I-toxic
 of	I-toxic
 intelligence	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 The	I-toxic
 rest	I-toxic
 of	I-toxic
@@ -21873,12 +21933,15 @@ are	I-toxic
 stupid	I-toxic
 and	I-toxic
 bigots	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 Just	I-toxic
 ask	I-toxic
 the	I-toxic
 lad	I-toxic
 .	I-toxic
+
 
 How	0
 interesting	0
@@ -22686,7 +22749,8 @@ ur	I-toxic
 a	I-toxic
 smart	I-toxic
 man	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 U	I-toxic
 can	I-toxic
 figure	I-toxic
@@ -22724,6 +22788,7 @@ my	I-toxic
 cat	I-toxic
 box	I-toxic
 !	I-toxic
+
 
 Where	0
 did	0
@@ -23290,6 +23355,7 @@ your	I-toxic
 poison	I-toxic
 .	I-toxic
 
+
 It	0
 's	0
 too	0
@@ -23523,8 +23589,10 @@ a	0
 job	0
 .	0
 
-...	B-toxic
-the	I-toxic
+	
+.	B-toxic
+.	I-toxic
+.the	I-toxic
 same	I-toxic
 way	I-toxic
 of	I-toxic
@@ -23542,6 +23610,7 @@ of	I-toxic
 our	I-toxic
 capital	I-toxic
 .	I-toxic
+
 
 I	0
 sure	0
@@ -23724,14 +23793,18 @@ were	I-toxic
 hitting	I-toxic
 all	I-toxic
 other	I-toxic
-non-union	I-toxic
+non	I-toxic
+-union	I-toxic
 Albertans	I-toxic
-....	I-toxic
-just	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.just	I-toxic
 like	I-toxic
 Trudeau	I-toxic
 and	I-toxic
-Horgan/Weaver	I-toxic
+Horgan	I-toxic
+/Weaver	I-toxic
 in	I-toxic
 BC	I-toxic
 .	I-toxic
@@ -23740,6 +23813,7 @@ left	I-toxic
 wing	I-toxic
 crooks	I-toxic
 .	I-toxic
+
 
 Is	0
 there	0
@@ -24582,8 +24656,8 @@ the	I-toxic
 environment	I-toxic
 -	I-toxic
 so	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 flatter	I-toxic
 yourself	I-toxic
 -	I-toxic
@@ -24603,6 +24677,7 @@ of	I-toxic
 us	I-toxic
 idiot	I-toxic
 humans	I-toxic
+
 
 Pathetic	0
 -	0
@@ -24690,6 +24765,7 @@ S	I-toxic
 NOT	I-toxic
 CANADIAN	I-toxic
 !	I-toxic
+
 
 One	0
 good	0
@@ -25255,6 +25331,7 @@ gang	I-toxic
 bangers	I-toxic
 .	I-toxic
 
+
 Who	0
 knew	0
 Peter	0
@@ -25696,7 +25773,8 @@ Your	I-toxic
 take	I-toxic
 on	I-toxic
 SB	I-toxic
-91	I-toxic
+9	I-toxic
+1	I-toxic
 is	I-toxic
 based	I-toxic
 upon	I-toxic
@@ -25706,6 +25784,7 @@ ignorance	I-toxic
 of	I-toxic
 facts	I-toxic
 .	I-toxic
+
 
 useless	B-toxic
 comment	0
@@ -26614,9 +26693,8 @@ year	0
 Please	B-toxic
 continue	I-toxic
 your	I-toxic
-``	I-toxic
-inane	I-toxic
-''	I-toxic
+"inane	I-toxic
+"	I-toxic
 posts	I-toxic
 ,	I-toxic
 Kurgan	I-toxic
@@ -26678,6 +26756,7 @@ are	I-toxic
 deadly	I-toxic
 serious	I-toxic
 😊	I-toxic
+
 
 Have	0
 these	0
@@ -26848,6 +26927,7 @@ drivel	I-toxic
 and	I-toxic
 hogwash	I-toxic
 .	I-toxic
+
 
 Didn	0
 't	0
@@ -27204,7 +27284,9 @@ the	I-toxic
 trumpster	I-toxic
 .	I-toxic
 Now	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 go	I-toxic
 back	I-toxic
 to	I-toxic
@@ -27212,6 +27294,7 @@ pounding	I-toxic
 your	I-toxic
 keyboard	I-toxic
 .	I-toxic
+
 
 Be	0
 careful	0
@@ -27956,7 +28039,10 @@ they	I-toxic
 shoot	I-toxic
 you	I-toxic
 first	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 	
 @Researchers	0
@@ -28055,6 +28141,7 @@ you	I-toxic
 nut	I-toxic
 jobs	I-toxic
 think	I-toxic
+
 
 Kissed	B-toxic
 butt	I-toxic
@@ -28463,11 +28550,13 @@ dirtbag	I-toxic
 .	0
 
 You	B-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 really	I-toxic
 understand	I-toxic
-U.S.	I-toxic
+U	I-toxic
+.S	I-toxic
+.	I-toxic
 politics	I-toxic
 without	I-toxic
 acknowledging	I-toxic
@@ -28518,6 +28607,7 @@ and	I-toxic
 to	I-toxic
 themselves	I-toxic
 .	I-toxic
+
 
 Hubris	0
 is	0
@@ -29503,6 +29593,7 @@ But	I-toxic
 close	I-toxic
 .	I-toxic
 
+
 You	0
 're	0
 a	0
@@ -29553,7 +29644,10 @@ apologists	0
 Relax	B-toxic
 ,	I-toxic
 relax	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 San	I-toxic
 Andras	I-toxic
 will	I-toxic
@@ -29581,6 +29675,7 @@ kicks	I-toxic
 ass	I-toxic
 last	I-toxic
 .	I-toxic
+
 
 That	0
 's	0
@@ -29792,10 +29887,9 @@ no	I-toxic
 longer	I-toxic
 an	I-toxic
 effective	I-toxic
-``	I-toxic
-useful	I-toxic
+"useful	I-toxic
 idiot	I-toxic
-''	I-toxic
+"	I-toxic
 for	I-toxic
 your	I-toxic
 Master	I-toxic
@@ -29818,6 +29912,7 @@ of	I-toxic
 polonium	I-toxic
 tea	I-toxic
 .	I-toxic
+
 
 Its	0
 weird	0
@@ -30437,6 +30532,7 @@ Dumbest	B-toxic
 Criminals	I-toxic
 .	0
 
+	
 '	B-toxic
 Trump	I-toxic
 is	I-toxic
@@ -30444,8 +30540,7 @@ a	I-toxic
 traitorous	I-toxic
 buffoon	I-toxic
 .	I-toxic
-(	I-toxic
-and	I-toxic
+(and	I-toxic
 a	I-toxic
 con	I-toxic
 man	I-toxic
@@ -30484,16 +30579,14 @@ Resisting	I-toxic
 the	I-toxic
 Trump	I-toxic
 Agenda	I-toxic
-(	I-toxic
-web	I-toxic
+(web	I-toxic
 version	I-toxic
 )	I-toxic
 —	I-toxic
 Indivisible	I-toxic
 Guide	I-toxic
-https	I-toxic
-:	I-toxic
-//www.indivisibleguide.com/web	I-toxic
+https://www.indivisibleguide.com/web	I-toxic
+
 
 Hey	0
 corporal	0
@@ -30578,8 +30671,8 @@ sentences	0
 .	0
 
 BLM	B-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 want	I-toxic
 equal	I-toxic
 treatment	I-toxic
@@ -30609,8 +30702,8 @@ get	I-toxic
 free	I-toxic
 stuff	I-toxic
 .	I-toxic
-Does	I-toxic
-n't	I-toxic
+Doesn	I-toxic
+'t	I-toxic
 sound	I-toxic
 that	I-toxic
 different	I-toxic
@@ -30625,8 +30718,8 @@ They	I-toxic
 can	I-toxic
 say	I-toxic
 they	I-toxic
-are	I-toxic
-n't	I-toxic
+aren	I-toxic
+'t	I-toxic
 ,	I-toxic
 but	I-toxic
 their	I-toxic
@@ -30634,6 +30727,7 @@ actions	I-toxic
 speak	I-toxic
 otherwise	I-toxic
 .	I-toxic
+
 
 You	0
 have	0
@@ -30788,6 +30882,7 @@ silver	I-toxic
 spoon	I-toxic
 parasites	I-toxic
 .	I-toxic
+
 
 She	0
 is	0
@@ -31708,14 +31803,16 @@ pocketbook	0
 Happy	B-toxic
 now	I-toxic
 Sue	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 YOUR	I-toxic
 crazy	I-toxic
 fake	I-toxic
-``	I-toxic
-pizzagate	I-toxic
-''	I-toxic
-b.s	I-toxic
+"pizzagate	I-toxic
+"	I-toxic
+b	I-toxic
+.s	I-toxic
 .	I-toxic
 has	I-toxic
 reared	I-toxic
@@ -31757,6 +31854,7 @@ proud	I-toxic
 of	I-toxic
 yourself	I-toxic
 .	I-toxic
+
 
 Ya	0
 ,	0
@@ -32085,10 +32183,11 @@ some	I-toxic
 cheese	I-toxic
 on	I-toxic
 that	I-toxic
-``	I-toxic
-nothingburger	I-toxic
-''	I-toxic
-...	I-toxic
+"nothingburger	I-toxic
+"	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 New	I-toxic
 and	I-toxic
 improved	I-toxic
@@ -32096,12 +32195,13 @@ formula	I-toxic
 ,	I-toxic
 upgraded	I-toxic
 from	I-toxic
-``	I-toxic
-mostly	I-toxic
+"mostly	I-toxic
 BS	I-toxic
-''	I-toxic
+"	I-toxic
 to	I-toxic
-100	I-toxic
+1	I-toxic
+0	I-toxic
+0	I-toxic
 %	I-toxic
 BS	I-toxic
 !	I-toxic
@@ -32115,17 +32215,18 @@ up	I-toxic
 because	I-toxic
 we	I-toxic
 are	I-toxic
-``	I-toxic
-stupid	I-toxic
+"stupid	I-toxic
 as	I-toxic
 sh	I-toxic
-*	I-toxic
-t	I-toxic
-''	I-toxic
-...	I-toxic
+*t	I-toxic
+"	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 Nom	I-toxic
 nom	I-toxic
 nom	I-toxic
+
 
 They	0
 were	0
@@ -32489,8 +32590,9 @@ minds	0
 .	0
 
 no	B-toxic
-...	I-toxic
-dumb	I-toxic
+.	I-toxic
+.	I-toxic
+.dumb	I-toxic
 old	I-toxic
 chump	I-toxic
 is	I-toxic
@@ -32510,6 +32612,7 @@ mistaken	I-toxic
 for	I-toxic
 courage	I-toxic
 .	I-toxic
+
 
 have	0
 a	0
@@ -32975,9 +33078,14 @@ them	I-toxic
 away	I-toxic
 .	I-toxic
 1st	I-toxic
-.....	I-toxic
-The	I-toxic
-AR15	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.The	I-toxic
+AR	I-toxic
+1	I-toxic
+5	I-toxic
 has	I-toxic
 been	I-toxic
 on	I-toxic
@@ -32986,9 +33094,14 @@ in	I-toxic
 the	I-toxic
 US	I-toxic
 since	I-toxic
-1965	I-toxic
-....	I-toxic
-The	I-toxic
+1	I-toxic
+9	I-toxic
+6	I-toxic
+5	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.The	I-toxic
 issue	I-toxic
 is	I-toxic
 PEOPLE	I-toxic
@@ -32998,8 +33111,9 @@ method	I-toxic
 of	I-toxic
 their	I-toxic
 attack	I-toxic
-...	I-toxic
-The	I-toxic
+.	I-toxic
+.	I-toxic
+.The	I-toxic
 Boston	I-toxic
 bombers	I-toxic
 used	I-toxic
@@ -33015,12 +33129,16 @@ fertilizer	I-toxic
 ,	I-toxic
 and	I-toxic
 on	I-toxic
-9/11	I-toxic
+9	I-toxic
+/	I-toxic
+1	I-toxic
+1	I-toxic
 they	I-toxic
 used	I-toxic
 airplanes	I-toxic
-...	I-toxic
-There	I-toxic
+.	I-toxic
+.	I-toxic
+.There	I-toxic
 are	I-toxic
 currently	I-toxic
 THOUSANDS	I-toxic
@@ -33034,13 +33152,14 @@ to	I-toxic
 guns	I-toxic
 and	I-toxic
 we	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 enforce	I-toxic
 most	I-toxic
 of	I-toxic
 them	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 This	I-toxic
 foolish	I-toxic
 notion	I-toxic
@@ -33069,7 +33188,8 @@ passed	I-toxic
 Here	I-toxic
 is	I-toxic
 an	I-toxic
-idea.Lets	I-toxic
+idea	I-toxic
+.Lets	I-toxic
 start	I-toxic
 going	I-toxic
 after	I-toxic
@@ -33128,11 +33248,12 @@ to	I-toxic
 do	I-toxic
 it	I-toxic
 legally	I-toxic
-...	I-toxic
-Most	I-toxic
+.	I-toxic
+.	I-toxic
+.Most	I-toxic
 cops	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 want	I-toxic
 bans	I-toxic
 on	I-toxic
@@ -33159,6 +33280,7 @@ up	I-toxic
 ,	I-toxic
 not	I-toxic
 out	I-toxic
+
 
 People	0
 like	0
@@ -34776,6 +34898,7 @@ Sheep	I-toxic
 is	I-toxic
 .	I-toxic
 
+
 The	0
 Re	0
 publican	B-toxic
@@ -34800,7 +34923,10 @@ the	I-toxic
 shit	I-toxic
 will	I-toxic
 mean	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 did	I-toxic
 I	I-toxic
 read	I-toxic
@@ -34822,6 +34948,7 @@ that	I-toxic
 Civil	I-toxic
 Comments	I-toxic
 !	I-toxic
+
 
 Excuse	0
 me	0
@@ -35380,6 +35507,7 @@ of	I-toxic
 deplorables	I-toxic
 .	I-toxic
 
+
 You	0
 believe	0
 Trump	0
@@ -35570,6 +35698,7 @@ up	I-toxic
 ,	I-toxic
 buttercup	I-toxic
 .	I-toxic
+
 
 Troll	B-toxic
 
@@ -37096,8 +37225,8 @@ human	0
 history	0
 .	0
 
-Ca	B-toxic
-n't	I-toxic
+Can	B-toxic
+'t	I-toxic
 mess	I-toxic
 with	I-toxic
 shit	I-toxic
@@ -37106,6 +37235,7 @@ Shit	I-toxic
 always	I-toxic
 wins	I-toxic
 .	I-toxic
+
 
 As	0
 one	0
@@ -37927,45 +38057,47 @@ one	I-toxic
 of	I-toxic
 them	I-toxic
 ?	I-toxic
-..	I-toxic
-I	I-toxic
+.	I-toxic
+.I	I-toxic
 'd	I-toxic
 value	I-toxic
 the	I-toxic
 opinion	I-toxic
 of	I-toxic
 a	I-toxic
-homeless,4th	I-toxic
+homeless	I-toxic
+,	I-toxic
+4th	I-toxic
 Ave	I-toxic
 drunk	I-toxic
-,	I-toxic
-more	I-toxic
+,more	I-toxic
 than	I-toxic
 both	I-toxic
 of	I-toxic
 these	I-toxic
 media	I-toxic
 clowns	I-toxic
-..	I-toxic
-At	I-toxic
+.	I-toxic
+.At	I-toxic
 least	I-toxic
 with	I-toxic
 the	I-toxic
 drunkard	I-toxic
-,	I-toxic
-you	I-toxic
+,you	I-toxic
 know	I-toxic
 there	I-toxic
 's	I-toxic
-no-one	I-toxic
+no	I-toxic
+-one	I-toxic
 in	I-toxic
 the	I-toxic
 background	I-toxic
-,	I-toxic
-pulling	I-toxic
+,pulling	I-toxic
 his	I-toxic
 strings	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 	
 "The	0
@@ -38189,17 +38321,17 @@ It	B-toxic
 the	I-toxic
 Republican	I-toxic
 ethos	I-toxic
---	I-toxic
-''	I-toxic
-just	I-toxic
+-	I-toxic
+-	I-toxic
+"just	I-toxic
 grab	I-toxic
 'em	I-toxic
 by	I-toxic
 the	I-toxic
 pussy	I-toxic
-''	I-toxic
---	I-toxic
-and	I-toxic
+"	I-toxic
+-	I-toxic
+-and	I-toxic
 the	I-toxic
 rich	I-toxic
 get	I-toxic
@@ -38215,6 +38347,7 @@ and	I-toxic
 everyone	I-toxic
 else	I-toxic
 .	I-toxic
+
 
 There	0
 is	0
@@ -38319,6 +38452,7 @@ a	I-toxic
 total	I-toxic
 clown	I-toxic
 .	I-toxic
+
 
 Yes	0
 .	0
@@ -40369,6 +40503,7 @@ human	I-toxic
 garbage	I-toxic
 .	I-toxic
 
+
 I	0
 could	0
 use	0
@@ -40550,6 +40685,7 @@ here	I-toxic
 in	I-toxic
 Honolulu	I-toxic
 .	I-toxic
+
 
 Should	0
 be	0
@@ -42031,6 +42167,7 @@ cogent	I-toxic
 american	I-toxic
 .	I-toxic
 
+
 Ultimately	B-toxic
 ,	I-toxic
 any	I-toxic
@@ -42044,8 +42181,7 @@ struck	I-toxic
 down	I-toxic
 .	I-toxic
 He	I-toxic
-can	I-toxic
-not	I-toxic
+cannot	I-toxic
 establish	I-toxic
 a	I-toxic
 religious	I-toxic
@@ -42065,6 +42201,7 @@ base	I-toxic
 of	I-toxic
 cowards	I-toxic
 .	I-toxic
+
 
 These	0
 pathetic	B-toxic
@@ -43777,7 +43914,8 @@ can	I-toxic
 always	I-toxic
 have	I-toxic
 a	I-toxic
-on-hold	I-toxic
+on	I-toxic
+-hold	I-toxic
 skeezer	I-toxic
 Yeah	I-toxic
 that	I-toxic
@@ -43817,8 +43955,7 @@ Here	I-toxic
 what	I-toxic
 I	I-toxic
 'm	I-toxic
-gon	I-toxic
-na	I-toxic
+gonna	I-toxic
 put	I-toxic
 inside	I-toxic
 Grab	I-toxic
@@ -43837,14 +43974,17 @@ that	I-toxic
 's	I-toxic
 the	I-toxic
 ticket	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 I	I-toxic
 do	I-toxic
 it	I-toxic
 like	I-toxic
 that	I-toxic
-...	I-toxic
-so	I-toxic
+.	I-toxic
+.	I-toxic
+.so	I-toxic
 I	I-toxic
 told	I-toxic
 the	I-toxic
@@ -43864,8 +44004,8 @@ eyes	I-toxic
 wide	I-toxic
 and	I-toxic
 said	I-toxic
-..	I-toxic
-heres	I-toxic
+.	I-toxic
+.heres	I-toxic
 what	I-toxic
 I	I-toxic
 'm	I-toxic
@@ -43877,6 +44017,7 @@ grab	I-toxic
 it	I-toxic
 like	I-toxic
 rabbit	I-toxic
+
 
 Trannies	0
 are	0
@@ -44906,8 +45047,9 @@ the	I-toxic
 treasonous	I-toxic
 Clinton	I-toxic
 clan	I-toxic
-...	I-toxic
-but	I-toxic
+.	I-toxic
+.	I-toxic
+.but	I-toxic
 that	I-toxic
 's	I-toxic
 what	I-toxic
@@ -44915,16 +45057,19 @@ myopic	I-toxic
 Democratic	I-toxic
 halfwits	I-toxic
 do	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 pretend	I-toxic
 that	I-toxic
 their	I-toxic
 liberal	I-toxic
 hypocrisy	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 exist	I-toxic
 .	I-toxic
+
 
 Only	B-toxic
 fools	I-toxic
@@ -45342,6 +45487,7 @@ being	I-toxic
 disordered	I-toxic
 .	I-toxic
 
+
 There	0
 are	0
 no	0
@@ -45683,7 +45829,8 @@ encountered	I-toxic
 a	I-toxic
 green	I-toxic
 jaguar	I-toxic
-xj6	I-toxic
+xj	I-toxic
+6	I-toxic
 with	I-toxic
 no	I-toxic
 rear	I-toxic
@@ -45702,6 +45849,7 @@ in	I-toxic
 our	I-toxic
 midst	I-toxic
 .	I-toxic
+
 
 This	0
 tragedy	0
@@ -45972,9 +46120,11 @@ and	I-toxic
 you	I-toxic
 are	I-toxic
 white	I-toxic
-...	I-toxic
-Insane	I-toxic
+.	I-toxic
+.	I-toxic
+.Insane	I-toxic
 !	I-toxic
+
 
 These	0
 fools	0
@@ -48004,7 +48154,10 @@ in	I-toxic
 our	I-toxic
 best	I-toxic
 interest	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Drumph	0
 is	0
@@ -50217,6 +50370,7 @@ Republicans	I-toxic
 Disgusting	I-toxic
 .	I-toxic
 
+
 Trump	0
 's	0
 stupidity	B-toxic
@@ -50404,8 +50558,7 @@ Trailer	I-toxic
 Park	I-toxic
 Boys	I-toxic
 ,	I-toxic
-``	I-toxic
-Number	I-toxic
+"Number	I-toxic
 one	I-toxic
 ;	I-toxic
 you	I-toxic
@@ -50420,7 +50573,8 @@ can	I-toxic
 fuck	I-toxic
 off	I-toxic
 !	I-toxic
-''	I-toxic
+"	I-toxic
+
 
 Obstruction	0
 ,	0
@@ -50818,10 +50972,9 @@ order	I-toxic
 to	I-toxic
 give	I-toxic
 the	I-toxic
-``	I-toxic
-global	I-toxic
+"global	I-toxic
 community	I-toxic
-''	I-toxic
+"	I-toxic
 another	I-toxic
 big	I-toxic
 handout	I-toxic
@@ -50835,12 +50988,13 @@ stupid	I-toxic
 things	I-toxic
 .	I-toxic
 This	I-toxic
-was	I-toxic
-n't	I-toxic
+wasn	I-toxic
+'t	I-toxic
 one	I-toxic
 of	I-toxic
 them	I-toxic
 .	I-toxic
+
 
 Blargh	0
 ,	0
@@ -53096,6 +53250,7 @@ garbage	I-toxic
 mean	I-toxic
 ?	I-toxic
 
+
 Our	0
 local	0
 Antisemitic	0
@@ -54215,6 +54370,7 @@ it	I-toxic
 all	I-toxic
 !	I-toxic
 
+
 OMG	0
 !	0
 Ha	0
@@ -55269,6 +55425,7 @@ whyners	I-toxic
 twin	I-toxic
 ?	I-toxic
 
+
 Amazon	B-toxic
 is	I-toxic
 yet	I-toxic
@@ -55328,6 +55485,7 @@ this	I-toxic
 foolish	I-toxic
 ignorant	I-toxic
 man	I-toxic
+
 
 A	0
 bully	0
@@ -56711,6 +56869,7 @@ IMPEACH	I-toxic
 !	I-toxic
 IMPEACH	I-toxic
 !	I-toxic
+
 
 Pathetic	B-toxic
 .	0
@@ -58242,6 +58401,7 @@ this	I-toxic
 ,	I-toxic
 fools	I-toxic
 .	I-toxic
+
 
 It	0
 's	0
@@ -60910,6 +61070,7 @@ economy	I-toxic
 !	I-toxic
 !	I-toxic
 
+
 Oh	0
 dear	0
 ,	0
@@ -60964,6 +61125,7 @@ disgusting	I-toxic
 sick	I-toxic
 woman	I-toxic
 .	I-toxic
+
 
 And	0
 you	0
@@ -61354,11 +61516,10 @@ trash	I-toxic
 masquerading	I-toxic
 as	I-toxic
 a	I-toxic
-``	I-toxic
-Man	I-toxic
+"Man	I-toxic
 of	I-toxic
 God	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 He	I-toxic
 really	I-toxic
@@ -61371,7 +61532,8 @@ Iran	I-toxic
 or	I-toxic
 some	I-toxic
 other	I-toxic
-third-world	I-toxic
+third	I-toxic
+-world	I-toxic
 scheidt	I-toxic
 hole	I-toxic
 where	I-toxic
@@ -61407,6 +61569,7 @@ redeeming	I-toxic
 social	I-toxic
 value	I-toxic
 .	I-toxic
+
 
 Pedo	0
 lover	0
@@ -62243,6 +62406,7 @@ always	I-toxic
 is	I-toxic
 .	I-toxic
 
+
 get	0
 ready	0
 liberals	0
@@ -62367,8 +62531,7 @@ which	I-toxic
 by	I-toxic
 inference	I-toxic
 states	I-toxic
-``	I-toxic
-If	I-toxic
+"If	I-toxic
 you	I-toxic
 disagree	I-toxic
 with	I-toxic
@@ -62377,7 +62540,7 @@ you	I-toxic
 are	I-toxic
 a	I-toxic
 racist	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 I	I-toxic
 think	I-toxic
@@ -62402,6 +62565,7 @@ even	I-toxic
 more	I-toxic
 foolish	I-toxic
 .	I-toxic
+
 
 Junior	0
 ,	0
@@ -63236,8 +63400,7 @@ This	B-toxic
 is	I-toxic
 the	I-toxic
 clown	I-toxic
-(	I-toxic
-the	I-toxic
+(the	I-toxic
 uncouth	I-toxic
 ,	I-toxic
 racist	I-toxic
@@ -63258,23 +63421,23 @@ I	I-toxic
 wonder	I-toxic
 why	I-toxic
 he	I-toxic
-has	I-toxic
-n't	I-toxic
+hasn	I-toxic
+'t	I-toxic
 been	I-toxic
 arrested	I-toxic
 yet	I-toxic
-...	I-toxic
-the	I-toxic
+.	I-toxic
+.	I-toxic
+.the	I-toxic
 mother	I-toxic
 f	I-toxic
-#	I-toxic
-cking	I-toxic
+#cking	I-toxic
 Sh	I-toxic
-!	I-toxic
-tbag	I-toxic
+!tbag	I-toxic
 ?	I-toxic
 ?	I-toxic
 ?	I-toxic
+
 
 Well	0
 as	0
@@ -63412,6 +63575,7 @@ some	I-toxic
 other	I-toxic
 sucker	I-toxic
 .	I-toxic
+
 
 just	0
 shows	0
@@ -64907,6 +65071,7 @@ plain	I-toxic
 dumb	I-toxic
 .	I-toxic
 
+
 Definitely	B-toxic
 not	I-toxic
 enough	I-toxic
@@ -65956,6 +66121,7 @@ we	I-toxic
 have	I-toxic
 in	I-toxic
 Ottawa	I-toxic
+
 
 	
 .	0
@@ -67571,7 +67737,9 @@ past	0
 .	0
 
 Or	B-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 if	I-toxic
 you	I-toxic
 want	I-toxic
@@ -67613,6 +67781,7 @@ for	I-toxic
 starters	I-toxic
 .	I-toxic
 
+
 Any	0
 column	0
 that	0
@@ -67629,7 +67798,8 @@ of	I-toxic
 manure	I-toxic
 .	0
 
-``	B-toxic
+	
+"	B-toxic
 The	I-toxic
 last	I-toxic
 thing	I-toxic
@@ -67648,7 +67818,7 @@ in	I-toxic
 a	I-toxic
 coma	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 Oh	I-toxic
 ,	I-toxic
 the	I-toxic
@@ -67656,7 +67826,10 @@ irony	I-toxic
 ,	I-toxic
 the	I-toxic
 irony	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Two	0
 words	0
@@ -67734,9 +67907,8 @@ way	I-toxic
 Shaw	I-toxic
 ,	I-toxic
 aka	I-toxic
-``	I-toxic
-Lucky	I-toxic
-''	I-toxic
+"Lucky	I-toxic
+"	I-toxic
 somebody	I-toxic
 I	I-toxic
 think	I-toxic
@@ -67745,6 +67917,7 @@ uttered	I-toxic
 Ya	I-toxic
 Folla	I-toxic
 .	I-toxic
+
 
 From	B-toxic
 Anthoney	I-toxic
@@ -67774,8 +67947,8 @@ you	I-toxic
 ?	I-toxic
 We	I-toxic
 surely	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 accept	I-toxic
 that	I-toxic
 spikes	I-toxic
@@ -67793,8 +67966,8 @@ stupidity	I-toxic
 Honestly	I-toxic
 you	I-toxic
 really	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 make	I-toxic
 this	I-toxic
 stuff	I-toxic
@@ -67810,9 +67983,8 @@ that	I-toxic
 anything	I-toxic
 that	I-toxic
 is	I-toxic
-``	I-toxic
-filmed	I-toxic
-''	I-toxic
+"filmed	I-toxic
+"	I-toxic
 will	I-toxic
 someday	I-toxic
 make	I-toxic
@@ -67820,8 +67992,10 @@ it	I-toxic
 to	I-toxic
 public	I-toxic
 view	I-toxic
-....	I-toxic
-and	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.and	I-toxic
 yet	I-toxic
 they	I-toxic
 do	I-toxic
@@ -67829,16 +68003,16 @@ it	I-toxic
 anyway	I-toxic
 .	I-toxic
 Somehow	I-toxic
-``	I-toxic
-stupid	I-toxic
-''	I-toxic
-does	I-toxic
-n't	I-toxic
+"stupid	I-toxic
+"	I-toxic
+doesn	I-toxic
+'t	I-toxic
 do	I-toxic
 these	I-toxic
 decisions	I-toxic
 justice	I-toxic
 .	I-toxic
+
 
 Cleanup	0
 Eugene	0
@@ -68417,7 +68591,8 @@ anti	I-toxic
 trump	I-toxic
 in	I-toxic
 the	I-toxic
-E.U	I-toxic
+E	I-toxic
+.U	I-toxic
 ,	I-toxic
 is	I-toxic
 that	I-toxic
@@ -68524,6 +68699,7 @@ their	I-toxic
 moronic	I-toxic
 views	I-toxic
 .	I-toxic
+
 
 exactly	0
 .	0
@@ -68665,11 +68841,10 @@ ash	0
 !	0
 
 ANOTHER	B-toxic
-``	I-toxic
-respected	I-toxic
+"respected	I-toxic
 community	I-toxic
 member	I-toxic
-''	I-toxic
+"	I-toxic
 ?	I-toxic
 Just	I-toxic
 like	I-toxic
@@ -68744,6 +68919,7 @@ be	I-toxic
 sick	I-toxic
 humans	I-toxic
 .	I-toxic
+
 
 I	0
 agree	0
@@ -68953,8 +69129,8 @@ loser	0
 
 These	B-toxic
 liberals	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 get	I-toxic
 it	I-toxic
 ,	I-toxic
@@ -68974,6 +69150,7 @@ fair	I-toxic
 damn	I-toxic
 it	I-toxic
 !	I-toxic
+
 
 Peanuthead	B-toxic
 
@@ -69088,6 +69265,7 @@ support	I-toxic
 this	I-toxic
 monster	I-toxic
 .	I-toxic
+
 
 I	0
 don	0
@@ -70382,8 +70560,8 @@ changes	0
 .	0
 
 I	B-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 wait	I-toxic
 for	I-toxic
 some	I-toxic
@@ -70419,6 +70597,7 @@ insipid	I-toxic
 bigoted	I-toxic
 wankers	I-toxic
 .	I-toxic
+
 
 	
 2	0
@@ -70946,6 +71125,7 @@ Joke	I-toxic
 a	I-toxic
 day	I-toxic
 !	I-toxic
+
 
 Plenty	0
 of	0
@@ -71680,7 +71860,11 @@ off	I-toxic
 office	I-toxic
 .	I-toxic
 Common	I-toxic
-2019	I-toxic
+2	I-toxic
+0	I-toxic
+1	I-toxic
+9	I-toxic
+
 
 This	0
 debacle	0
@@ -72259,8 +72443,8 @@ thousand	I-toxic
 innocents	I-toxic
 .	I-toxic
 Islam	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 worthy	I-toxic
 of	I-toxic
 special	I-toxic
@@ -72272,6 +72456,7 @@ changes	I-toxic
 big	I-toxic
 time	I-toxic
 .	I-toxic
+
 
 May	0
 continues	0
@@ -72493,7 +72678,8 @@ f	I-toxic
 *	I-toxic
 except	I-toxic
 looney	I-toxic
-right-wingers	I-toxic
+right	I-toxic
+-wingers	I-toxic
 who	I-toxic
 worship	I-toxic
 the	I-toxic
@@ -72519,13 +72705,14 @@ the	I-toxic
 ride	I-toxic
 white	I-toxic
 boys	I-toxic
---	I-toxic
-the	I-toxic
+-	I-toxic
+-the	I-toxic
 lady	I-toxic
 is	I-toxic
 on	I-toxic
 top	I-toxic
 .	I-toxic
+
 
 I	B-toxic
 partially	I-toxic
@@ -72570,6 +72757,7 @@ farce	I-toxic
 .	I-toxic
 Disgusting	I-toxic
 .	I-toxic
+
 
 Jared	0
 Kushner	0
@@ -73148,8 +73336,8 @@ complete	0
 idiot	B-toxic
 .	0
 
-``	B-toxic
-can	I-toxic
+	
+"can	B-toxic
 state	I-toxic
 raise	I-toxic
 taxes	I-toxic
@@ -73161,7 +73349,7 @@ on	I-toxic
 my	I-toxic
 welfare	I-toxic
 ?	I-toxic
-''	I-toxic
+"	I-toxic
 A	I-toxic
 better	I-toxic
 solution	I-toxic
@@ -73181,6 +73369,7 @@ yourself	I-toxic
 a	I-toxic
 JOB	I-toxic
 .	I-toxic
+
 
 Damnit	B-toxic
 !	0
@@ -73317,7 +73506,9 @@ a	I-toxic
 master	I-toxic
 at	I-toxic
 it	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 china	I-toxic
 other	I-toxic
 than	I-toxic
@@ -73351,6 +73542,7 @@ the	I-toxic
 left	I-toxic
 hate	I-toxic
 progress	I-toxic
+
 
 trudeau	0
 is	0
@@ -73993,8 +74185,8 @@ We	I-toxic
 are	I-toxic
 getting	I-toxic
 scr	I-toxic
---	I-toxic
-ed	I-toxic
+-	I-toxic
+-ed	I-toxic
 royally	I-toxic
 by	I-toxic
 teachers	I-toxic
@@ -74017,6 +74209,7 @@ teacher	I-toxic
 Pathetic	I-toxic
 bunch	I-toxic
 .	I-toxic
+
 
 Wow	0
 took	0
@@ -74126,6 +74319,7 @@ an	I-toxic
 irresponsible	I-toxic
 moron	I-toxic
 .	I-toxic
+
 
 Ocrumba	0
 had	0
@@ -74917,8 +75111,8 @@ it	0
 Yeah	B-toxic
 ,	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 think	I-toxic
 she	I-toxic
 got	I-toxic
@@ -74927,7 +75121,8 @@ ass	I-toxic
 ,	I-toxic
 or	I-toxic
 anything	I-toxic
-else-handed	I-toxic
+else	I-toxic
+-handed	I-toxic
 to	I-toxic
 her	I-toxic
 .	I-toxic
@@ -74939,6 +75134,7 @@ troll	I-toxic
 He	I-toxic
 lost	I-toxic
 .	I-toxic
+
 
 Crowd	0
 size	0
@@ -75886,6 +76082,7 @@ for	I-toxic
 a	I-toxic
 PM	I-toxic
 .	I-toxic
+
 
 Don	0
 't	0
@@ -76895,6 +77092,7 @@ ignorant	I-toxic
 anti	I-toxic
 oleary	I-toxic
 loser	I-toxic
+
 
 	
 "i	0
@@ -77969,8 +78167,9 @@ get	I-toxic
 our	I-toxic
 people	I-toxic
 killed	I-toxic
-...	I-toxic
-Let	I-toxic
+.	I-toxic
+.	I-toxic
+.Let	I-toxic
 's	I-toxic
 be	I-toxic
 integrated	I-toxic
@@ -77979,18 +78178,19 @@ sand	I-toxic
 crawlin	I-toxic
 goat	I-toxic
 humpers	I-toxic
-..	I-toxic
-Read	I-toxic
+.	I-toxic
+.Read	I-toxic
 the	I-toxic
 trashy	I-toxic
-Qu'ran	I-toxic
+Qu	I-toxic
+'ran	I-toxic
 ,	I-toxic
 folks	I-toxic
 ,	I-toxic
 for	I-toxic
 Yourselves	I-toxic
-..	I-toxic
-It	I-toxic
+.	I-toxic
+.It	I-toxic
 says	I-toxic
 to	I-toxic
 kill	I-toxic
@@ -78005,6 +78205,7 @@ ya	I-toxic
 get	I-toxic
 it	I-toxic
 .	I-toxic
+
 
 ah	0
 ,	0
@@ -78574,6 +78775,7 @@ end	I-toxic
 !	I-toxic
 GO	I-toxic
 TRUMP	I-toxic
+
 
 Just	0
 more	0
@@ -79555,6 +79757,7 @@ garbage	I-toxic
 people	I-toxic
 .	I-toxic
 
+
 I	0
 stopped	0
 at	0
@@ -79659,9 +79862,10 @@ Actually	I-toxic
 no	I-toxic
 ,	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 .	I-toxic
+
 
 Why	B-toxic
 is	I-toxic
@@ -82902,15 +83106,14 @@ jerk	I-toxic
 ,	I-toxic
 no	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 hate	I-toxic
 the	I-toxic
-``	I-toxic
-big	I-toxic
+"big	I-toxic
 bad	I-toxic
 gubmit	I-toxic
-''	I-toxic
+"	I-toxic
 or	I-toxic
 OSHA	I-toxic
 ,	I-toxic
@@ -82941,8 +83144,7 @@ when	I-toxic
 not	I-toxic
 to	I-toxic
 inspect	I-toxic
-(	I-toxic
-and	I-toxic
+(and	I-toxic
 the	I-toxic
 link	I-toxic
 YOU	I-toxic
@@ -82984,6 +83186,7 @@ terrible	I-toxic
 day	I-toxic
 now	I-toxic
 .	I-toxic
+
 
 he	0
 sounds	0
@@ -83544,6 +83747,7 @@ nut	0
 job	0
 !	0
 
+	
 '	B-toxic
 uh	I-toxic
 ,	I-toxic
@@ -83555,12 +83759,12 @@ a	I-toxic
 belligerent	I-toxic
 buffoon	I-toxic
 .	I-toxic
-(	I-toxic
-and	I-toxic
+(and	I-toxic
 a	I-toxic
 traitor	I-toxic
 )	I-toxic
 .	I-toxic
+
 
 You	0
 miss	0
@@ -85748,6 +85952,7 @@ the	I-toxic
 reality	I-toxic
 .	I-toxic
 
+
 You	0
 're	0
 kidding	0
@@ -86131,8 +86336,8 @@ with	I-toxic
 his	I-toxic
 friends	I-toxic
 .	I-toxic
-Do	I-toxic
-n't	I-toxic
+Don	I-toxic
+'t	I-toxic
 drag	I-toxic
 him	I-toxic
 to	I-toxic
@@ -86176,6 +86381,7 @@ I	I-toxic
 would	I-toxic
 be	I-toxic
 .	I-toxic
+
 
 Hey	0
 Fish	0
@@ -87093,7 +87299,8 @@ difference	I-toxic
 -	I-toxic
 Every	I-toxic
 time	I-toxic
-Mr.	I-toxic
+Mr	I-toxic
+.	I-toxic
 Trump	I-toxic
 opens	I-toxic
 his	I-toxic
@@ -87108,7 +87315,8 @@ fool	I-toxic
 -	I-toxic
 But	I-toxic
 inexplicably	I-toxic
-Mr.	I-toxic
+Mr	I-toxic
+.	I-toxic
 Trump	I-toxic
 's	I-toxic
 polling	I-toxic
@@ -87120,6 +87328,7 @@ every	I-toxic
 incognizant	I-toxic
 bloviation	I-toxic
 .	I-toxic
+
 
 I	0
 love	0
@@ -87456,6 +87665,7 @@ the	I-toxic
 loony	I-toxic
 home	I-toxic
 .	I-toxic
+
 
 No	0
 actually	0
@@ -88113,12 +88323,12 @@ there	I-toxic
 in	I-toxic
 Lala	I-toxic
 Land	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 believe	I-toxic
 TrumpityDumpity	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 the	I-toxic
 master	I-toxic
 puppeteer	I-toxic
@@ -88147,6 +88357,7 @@ Get	I-toxic
 outta	I-toxic
 here	I-toxic
 .	I-toxic
+
 
 sleazy	0
 hypocritters	0
@@ -88806,8 +89017,8 @@ example	0
 .	0
 
 You	B-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 have	I-toxic
 a	I-toxic
 right	I-toxic
@@ -88843,6 +89054,7 @@ boys	I-toxic
 and	I-toxic
 idiots	I-toxic
 .	I-toxic
+
 
 Is	0
 this	0
@@ -89873,6 +90085,7 @@ concerned	I-toxic
 about	I-toxic
 .	I-toxic
 
+
 Better	0
 to	0
 keep	0
@@ -90879,14 +91092,14 @@ of	0
 sucks	B-toxic
 .	0
 
-Marxist-Liberal	B-toxic
+Marxist	B-toxic
+-Liberal	I-toxic
 troll	I-toxic
 alert	I-toxic
 :	I-toxic
-``	I-toxic
-Richard	I-toxic
+"Richard	I-toxic
 Wright	I-toxic
-''	I-toxic
+"	I-toxic
 ☭	I-toxic
 ✭	I-toxic
 ☭	I-toxic
@@ -90904,6 +91117,7 @@ Wright	I-toxic
 ☭	I-toxic
 ✭	I-toxic
 ☭	I-toxic
+
 
 	
 "if	0
@@ -92079,6 +92293,7 @@ traitor	I-toxic
 scum	I-toxic
 .	I-toxic
 
+
 So	0
 when	0
 someone	0
@@ -92713,6 +92928,7 @@ disgusting	I-toxic
 idiot	I-toxic
 .	I-toxic
 
+
 What	0
 charges	0
 do	0
@@ -92975,6 +93191,7 @@ a	I-toxic
 silly	I-toxic
 thing	I-toxic
 .	I-toxic
+
 
 These	0
 two	0
@@ -94632,6 +94849,7 @@ from	I-toxic
 Bannon	I-toxic
 .	I-toxic
 
+
 So	0
 after	0
 a	0
@@ -95555,6 +95773,7 @@ evil	I-toxic
 incarnate	I-toxic
 .	I-toxic
 
+
 Only	0
 a	0
 fool	0
@@ -96100,9 +96319,10 @@ would	I-toxic
 be	I-toxic
 promoted	I-toxic
 eh	I-toxic
-..	I-toxic
-Do	I-toxic
-n't	I-toxic
+.	I-toxic
+.	I-toxic
+Don	I-toxic
+'t	I-toxic
 get	I-toxic
 me	I-toxic
 wrong	I-toxic
@@ -96133,6 +96353,7 @@ life	I-toxic
 losers	I-toxic
 period	I-toxic
 .	I-toxic
+
 
 You	0
 have	0
@@ -97344,11 +97565,12 @@ so	I-toxic
 worried	I-toxic
 about	I-toxic
 this	I-toxic
-250	I-toxic
+2	I-toxic
+5	I-toxic
+0	I-toxic
 hour	I-toxic
 course	I-toxic
-(	I-toxic
-omg	I-toxic
+(omg	I-toxic
 )	I-toxic
 have	I-toxic
 them	I-toxic
@@ -97374,8 +97596,9 @@ I	I-toxic
 've	I-toxic
 ever	I-toxic
 seen	I-toxic
-...	I-toxic
-follow	I-toxic
+.	I-toxic
+.	I-toxic
+.follow	I-toxic
 the	I-toxic
 money	I-toxic
 from	I-toxic
@@ -97391,6 +97614,7 @@ bill	I-toxic
 Just	I-toxic
 crap	I-toxic
 .	I-toxic
+
 
 Doesn	0
 't	0
@@ -98383,7 +98607,9 @@ not	I-toxic
 crimes	I-toxic
 in	I-toxic
 the	I-toxic
-U.S.	I-toxic
+U	I-toxic
+.S	I-toxic
+.	I-toxic
 And	I-toxic
 if	I-toxic
 you	I-toxic
@@ -98404,6 +98630,7 @@ dogma	I-toxic
 just	I-toxic
 ask	I-toxic
 .	I-toxic
+
 
 There	0
 's	0
@@ -99933,6 +100160,7 @@ same	I-toxic
 junkpile	I-toxic
 .	I-toxic
 
+
 Well	B-toxic
 ,	I-toxic
 one	I-toxic
@@ -99953,8 +100181,7 @@ street	I-toxic
 criminal	I-toxic
 and	I-toxic
 B	I-toxic
-&	I-toxic
-E	I-toxic
+&E	I-toxic
 artist	I-toxic
 .	I-toxic
 So	I-toxic
@@ -99971,6 +100198,7 @@ nothing	I-toxic
 about	I-toxic
 scumbag	I-toxic
 addicts	I-toxic
+
 
 I	0
 would	0
@@ -100381,17 +100609,19 @@ quote	I-toxic
 that	I-toxic
 works	I-toxic
 ,	I-toxic
-``	I-toxic
-Democrats	I-toxic
-are	I-toxic
-n't	I-toxic
+'	I-toxic
+'Democrats	I-toxic
+aren	I-toxic
+'t	I-toxic
 perfect	I-toxic
 ,	I-toxic
 but	I-toxic
 republicans	I-toxic
 are	I-toxic
 nuts	I-toxic
-''	I-toxic
+'	I-toxic
+'	I-toxic
+
 
 what	0
 a	0
@@ -100938,6 +101168,7 @@ plain	I-toxic
 ignorant	I-toxic
 .	I-toxic
 
+
 That	0
 's	0
 what	0
@@ -101224,7 +101455,9 @@ self	I-toxic
 focused	I-toxic
 students	I-toxic
 pick	I-toxic
-Wendy's/	I-toxic
+Wendy	I-toxic
+'s	I-toxic
+/	I-toxic
 Kick	I-toxic
 them	I-toxic
 out	I-toxic
@@ -101262,6 +101495,7 @@ focused	I-toxic
 .	I-toxic
 Bricks	I-toxic
 .	I-toxic
+
 
 so	0
 this	0
@@ -102329,6 +102563,7 @@ a	I-toxic
 days	I-toxic
 .	I-toxic
 
+
 Hardly	0
 ,	0
 esp	0
@@ -103249,7 +103484,8 @@ is	I-toxic
 a	I-toxic
 manipulative	I-toxic
 ,	I-toxic
-power-made	I-toxic
+power	I-toxic
+-made	I-toxic
 ,	I-toxic
 sociopathic	I-toxic
 ,	I-toxic
@@ -103276,6 +103512,7 @@ decent	I-toxic
 and	I-toxic
 human	I-toxic
 .	I-toxic
+
 
 Too	0
 bad	0
@@ -103420,6 +103657,7 @@ stupid	I-toxic
 and	I-toxic
 juvenile	I-toxic
 .	I-toxic
+
 
 I	0
 get	0
@@ -103926,6 +104164,7 @@ pathetic	I-toxic
 cowards	I-toxic
 ?	I-toxic
 
+
 This	B-toxic
 is	I-toxic
 not	I-toxic
@@ -103940,8 +104179,8 @@ lying	I-toxic
 racist	I-toxic
 a	I-toxic
 *	I-toxic
-*	I-toxic
-hole	I-toxic
+*hole	I-toxic
+
 
 What	0
 a	0
@@ -104349,6 +104588,7 @@ our	I-toxic
 nation	I-toxic
 .	I-toxic
 
+
 Given	0
 the	0
 huge	0
@@ -104629,6 +104869,7 @@ for	I-toxic
 this	I-toxic
 scumbag	I-toxic
 .	I-toxic
+
 
 TRUMP	0
 DEATH	B-toxic
@@ -104919,6 +105160,7 @@ your	I-toxic
 financial	I-toxic
 future	I-toxic
 .	I-toxic
+
 
 very	0
 silly	0
@@ -105890,7 +106132,8 @@ this	I-toxic
 guy	I-toxic
 is	I-toxic
 .	I-toxic
-One-Thousand	I-toxic
+One	I-toxic
+-Thousand	I-toxic
 years	I-toxic
 from	I-toxic
 now	I-toxic
@@ -105907,35 +106150,33 @@ Universe	I-toxic
 run	I-toxic
 by	I-toxic
 Africans	I-toxic
-...	I-toxic
-and	I-toxic
+.	I-toxic
+.	I-toxic
+.and	I-toxic
 the	I-toxic
 black	I-toxic
 Americans	I-toxic
 will	I-toxic
 still	I-toxic
 be	I-toxic
-``	I-toxic
-voicing	I-toxic
+"voicing	I-toxic
 their	I-toxic
 complaints	I-toxic
-''	I-toxic
+"	I-toxic
 ,	I-toxic
-``	I-toxic
-demanding	I-toxic
+"demanding	I-toxic
 a	I-toxic
 conversation	I-toxic
-''	I-toxic
+"	I-toxic
 ,	I-toxic
 and	I-toxic
-``	I-toxic
-protesting	I-toxic
+"protesting	I-toxic
 the	I-toxic
 oppression	I-toxic
 in	I-toxic
 their	I-toxic
 communities	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 You	I-toxic
 can	I-toxic
@@ -105948,7 +106189,8 @@ first	I-toxic
 Black	I-toxic
 President	I-toxic
 ,	I-toxic
-Mr.	I-toxic
+Mr	I-toxic
+.	I-toxic
 Barry	I-toxic
 ,	I-toxic
 claimed	I-toxic
@@ -105975,8 +106217,9 @@ the	I-toxic
 presidential	I-toxic
 election	I-toxic
 against	I-toxic
-...	I-toxic
-gasp	I-toxic
+.	I-toxic
+.	I-toxic
+.gasp	I-toxic
 ,	I-toxic
 white	I-toxic
 guys	I-toxic
@@ -105989,7 +106232,8 @@ aspired	I-toxic
 to	I-toxic
 be	I-toxic
 grand	I-toxic
-Poo-pa	I-toxic
+Poo	I-toxic
+-pa	I-toxic
 of	I-toxic
 the	I-toxic
 Universe	I-toxic
@@ -106021,6 +106265,7 @@ problem	I-toxic
 .	I-toxic
 Sad	I-toxic
 !	I-toxic
+
 
 You	B-toxic
 should	I-toxic
@@ -106509,6 +106754,7 @@ LOSER	I-toxic
 .	I-toxic
 Liberal	I-toxic
 .	I-toxic
+
 
 The	0
 blacks	0
@@ -107267,7 +107513,8 @@ f*ckin	B-toxic
 asshole	I-toxic
 .	0
 
-McGuinty/Wynne	B-toxic
+McGuinty	B-toxic
+/Wynne	I-toxic
 governments	I-toxic
 have	I-toxic
 decimated	I-toxic
@@ -107293,14 +107540,15 @@ work	I-toxic
 yet	I-toxic
 .	I-toxic
 (	I-toxic
-315	I-toxic
+3	I-toxic
+1	I-toxic
+5	I-toxic
 $	I-toxic
 billion	I-toxic
 debt	I-toxic
 and	I-toxic
 rising	I-toxic
-(	I-toxic
-with	I-toxic
+(with	I-toxic
 interest	I-toxic
 rate	I-toxic
 )	I-toxic
@@ -107314,7 +107562,10 @@ sector	I-toxic
 list	I-toxic
 goes	I-toxic
 on	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 )	I-toxic
 .	I-toxic
 Wynne	I-toxic
@@ -107352,7 +107603,8 @@ nothing	I-toxic
 fresh	I-toxic
 left	I-toxic
 .	I-toxic
-OPP/RCMP	I-toxic
+OPP	I-toxic
+/RCMP	I-toxic
 also	I-toxic
 need	I-toxic
 to	I-toxic
@@ -107362,8 +107614,7 @@ all	I-toxic
 of	I-toxic
 the	I-toxic
 crimes	I-toxic
-(	I-toxic
-past	I-toxic
+(past	I-toxic
 and	I-toxic
 present	I-toxic
 )	I-toxic
@@ -107372,6 +107623,7 @@ this	I-toxic
 inept	I-toxic
 government	I-toxic
 .	I-toxic
+
 
 	
 "So	0
@@ -109185,6 +109437,7 @@ not	I-toxic
 do	I-toxic
 .	I-toxic
 
+
 It	0
 means	0
 the	0
@@ -109387,8 +109640,8 @@ voters	0
 .	0
 
 I	B-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 need	I-toxic
 to	I-toxic
 score	I-toxic
@@ -109418,10 +109671,15 @@ Your	I-toxic
 hypocrisy	I-toxic
 is	I-toxic
 noted	I-toxic
-......	I-toxic
-once	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.once	I-toxic
 again	I-toxic
 .	I-toxic
+
 
 too	0
 bad	0
@@ -109535,6 +109793,7 @@ dumb	I-toxic
 as	I-toxic
 *	I-toxic
 
+
 You	0
 before	0
 ,	0
@@ -109617,6 +109876,7 @@ him	I-toxic
 Good	I-toxic
 riddance	I-toxic
 .	I-toxic
+
 
 The	0
 only	0
@@ -110385,11 +110645,13 @@ filthy	I-toxic
 men	I-toxic
 who	I-toxic
 bought	I-toxic
-80	I-toxic
+8	I-toxic
+0	I-toxic
 million	I-toxic
 copies	I-toxic
 of	I-toxic
-50	I-toxic
+5	I-toxic
+0	I-toxic
 shades	I-toxic
 of	I-toxic
 gray	I-toxic
@@ -110409,8 +110671,8 @@ trash	I-toxic
 ?	I-toxic
 You	I-toxic
 probably	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 even	I-toxic
 put	I-toxic
 a	I-toxic
@@ -110524,8 +110786,7 @@ maybe	I-toxic
 not	I-toxic
 true	I-toxic
 multiple	I-toxic
-,	I-toxic
-pattern	I-toxic
+,pattern	I-toxic
 of	I-toxic
 abuse	I-toxic
 an	I-toxic
@@ -110560,6 +110821,7 @@ drunkin	I-toxic
 monkey	I-toxic
 over	I-toxic
 billary	I-toxic
+
 
 If	0
 someone	0
@@ -111889,10 +112151,14 @@ touch	I-toxic
 with	I-toxic
 reality	I-toxic
 .	I-toxic
---	I-toxic
---	I-toxic
---	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
 as	I-toxic
 opposed	I-toxic
 to	I-toxic
@@ -111919,9 +112185,8 @@ would	I-toxic
 the	I-toxic
 climate	I-toxic
 change	I-toxic
-``	I-toxic
-hero	I-toxic
-''	I-toxic
+"hero	I-toxic
+"	I-toxic
 of	I-toxic
 the	I-toxic
 Paris	I-toxic
@@ -111932,6 +112197,7 @@ now	I-toxic
 embrace	I-toxic
 pipelines	I-toxic
 hypocrite	I-toxic
+
 
 It	0
 's	0
@@ -112482,12 +112748,14 @@ bum	0
 
 Old	B-toxic
 foolish	I-toxic
-has-been	I-toxic
+has	I-toxic
+-been	I-toxic
 trying	I-toxic
 to	I-toxic
 regain	I-toxic
 relevance	I-toxic
 .	I-toxic
+
 
 What	0
 you	0
@@ -113753,6 +114021,7 @@ understand	I-toxic
 economics	I-toxic
 .	I-toxic
 
+
 if	B-toxic
 trump	I-toxic
 makes	I-toxic
@@ -113777,20 +114046,25 @@ disavow	I-toxic
 my	I-toxic
 military	I-toxic
 service	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 what	I-toxic
 an	I-toxic
 insult	I-toxic
 to	I-toxic
 veterans	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 i	I-toxic
 hate	I-toxic
 trump	I-toxic
 for	I-toxic
 his	I-toxic
 ignorance	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Trump	0
 bashed	0
@@ -113906,9 +114180,8 @@ focused	I-toxic
 on	I-toxic
 how	I-toxic
 they	I-toxic
-``	I-toxic
-look	I-toxic
-''	I-toxic
+"look	I-toxic
+"	I-toxic
 to	I-toxic
 the	I-toxic
 world	I-toxic
@@ -113940,6 +114213,7 @@ give	I-toxic
 a	I-toxic
 crap	I-toxic
 .	I-toxic
+
 
 Pimienta	0
 voluntarily	0
@@ -114513,6 +114787,7 @@ his	I-toxic
 Irish	I-toxic
 genes	I-toxic
 .	I-toxic
+
 
 Silly	0
 me	0
@@ -116017,11 +116292,12 @@ for	I-toxic
 you	I-toxic
 if	I-toxic
 you	I-toxic
-were	I-toxic
-n't	I-toxic
+weren	I-toxic
+'t	I-toxic
 so	I-toxic
 arrogant	I-toxic
 .	I-toxic
+
 
 What	0
 is	0
@@ -116314,6 +116590,7 @@ to	I-toxic
 teach	I-toxic
 kids	I-toxic
 ?	I-toxic
+
 
 There	0
 is	0
@@ -117006,6 +117283,7 @@ SOB	I-toxic
 Screw	I-toxic
 you	I-toxic
 .	I-toxic
+
 
 Grab	B-toxic
 him	I-toxic
@@ -117953,6 +118231,7 @@ of	I-toxic
 integrity	I-toxic
 .	I-toxic
 
+
 Chick	0
 took	0
 the	0
@@ -118535,8 +118814,8 @@ bloodsucking	I-toxic
 Republican	I-toxic
 ?	I-toxic
 What	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 she	I-toxic
 understand	I-toxic
 about	I-toxic
@@ -118566,6 +118845,7 @@ about	I-toxic
 them	I-toxic
 .	I-toxic
 
+
 Another	B-toxic
 RINO	I-toxic
 shows	I-toxic
@@ -118573,8 +118853,8 @@ his	I-toxic
 true	I-toxic
 colors	I-toxic
 .	I-toxic
-Do	I-toxic
-n't	I-toxic
+Don	I-toxic
+'t	I-toxic
 let	I-toxic
 the	I-toxic
 door	I-toxic
@@ -118588,6 +118868,7 @@ your	I-toxic
 way	I-toxic
 out	I-toxic
 .	I-toxic
+
 
 Hmmm	0
 .	0
@@ -118796,6 +119077,7 @@ off	I-toxic
 No	I-toxic
 mercy	I-toxic
 .	I-toxic
+
 
 Means	0
 nothing	0
@@ -119027,8 +119309,7 @@ some	I-toxic
 real	I-toxic
 news	I-toxic
 .	I-toxic
-(	I-toxic
-and	I-toxic
+(and	I-toxic
 why	I-toxic
 is	I-toxic
 this	I-toxic
@@ -119046,7 +119327,13 @@ There	I-toxic
 have	I-toxic
 been	I-toxic
 over	I-toxic
-650,000	I-toxic
+6	I-toxic
+5	I-toxic
+0	I-toxic
+,	I-toxic
+0	I-toxic
+0	I-toxic
+0	I-toxic
 guns	I-toxic
 voluntarily	I-toxic
 turned	I-toxic
@@ -119064,9 +119351,8 @@ require	I-toxic
 gun	I-toxic
 registration	I-toxic
 .	I-toxic
-``	I-toxic
-“	I-toxic
-There	I-toxic
+"	I-toxic
+“There	I-toxic
 is	I-toxic
 nothing	I-toxic
 in	I-toxic
@@ -119099,8 +119385,7 @@ Brisbane	I-toxic
 Shoebridge	I-toxic
 said	I-toxic
 .	I-toxic
-“	I-toxic
-This	I-toxic
+“This	I-toxic
 is	I-toxic
 a	I-toxic
 hole	I-toxic
@@ -119112,11 +119397,11 @@ that	I-toxic
 needs	I-toxic
 an	I-toxic
 urgent	I-toxic
-fix.	I-toxic
+fix	I-toxic
+.	I-toxic
 ”	I-toxic
-https	I-toxic
-:	I-toxic
-//www.theguardian.com/australia-news/2017/oct/04/30000-guns-handed-in-during-australias-second-firearm-amnesty	I-toxic
+https://www.theguardian.com/australia-news/2017/oct/04/30000-guns-handed-in-during-australias-second-firearm-amnesty	I-toxic
+
 
 Stupidity	B-toxic
 is	0
@@ -119689,8 +119974,8 @@ So	B-toxic
 a	I-toxic
 black	I-toxic
 chef	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 serve	I-toxic
 roast	I-toxic
 beef	I-toxic
@@ -119717,6 +120002,7 @@ Islands	I-toxic
 So	I-toxic
 stupid	I-toxic
 .	I-toxic
+
 
 its	0
 amazing	0
@@ -120958,6 +121244,7 @@ of	I-toxic
 these	I-toxic
 bastards	I-toxic
 .	I-toxic
+
 
 Yes	0
 ,	0
@@ -122443,8 +122730,9 @@ I	I-toxic
 am	I-toxic
 hearing	I-toxic
 Annie	I-toxic
-...	I-toxic
-is	I-toxic
+.	I-toxic
+.	I-toxic
+.is	I-toxic
 the	I-toxic
 rep	I-toxic
 strategy	I-toxic
@@ -122456,10 +122744,9 @@ quickly	I-toxic
 some	I-toxic
 version	I-toxic
 of	I-toxic
-``	I-toxic
-repeal	I-toxic
+"repeal	I-toxic
 replace	I-toxic
-''	I-toxic
+"	I-toxic
 on	I-toxic
 the	I-toxic
 ACA	I-toxic
@@ -122469,14 +122756,15 @@ it	I-toxic
 after	I-toxic
 the	I-toxic
 midterms	I-toxic
-....	I-toxic
-(	I-toxic
-and	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+(and	I-toxic
 forget	I-toxic
 the	I-toxic
-``	I-toxic
-replace	I-toxic
-''	I-toxic
+"replace	I-toxic
+"	I-toxic
 )	I-toxic
 .	I-toxic
 I	I-toxic
@@ -122491,8 +122779,11 @@ Budget	I-toxic
 and	I-toxic
 Policy	I-toxic
 Priorities	I-toxic
-.....	I-toxic
-that	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.that	I-toxic
 note	I-toxic
 to	I-toxic
 some	I-toxic
@@ -122505,8 +122796,10 @@ currently	I-toxic
 on	I-toxic
 the	I-toxic
 ACA	I-toxic
-....	I-toxic
-my	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.my	I-toxic
 understanding	I-toxic
 is	I-toxic
 that	I-toxic
@@ -122518,7 +122811,8 @@ six	I-toxic
 the	I-toxic
 whole	I-toxic
 deal	I-toxic
-i.e	I-toxic
+i	I-toxic
+.e	I-toxic
 .	I-toxic
 No	I-toxic
 ACA	I-toxic
@@ -122531,7 +122825,10 @@ MediCare	I-toxic
 replaced	I-toxic
 by	I-toxic
 vouchers	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 Vouchers	I-toxic
 for	I-toxic
 Medicare	I-toxic
@@ -122539,10 +122836,9 @@ are	I-toxic
 the	I-toxic
 equivalent	I-toxic
 of	I-toxic
-``	I-toxic
-block	I-toxic
+"block	I-toxic
 grants	I-toxic
-''	I-toxic
+"	I-toxic
 for	I-toxic
 other	I-toxic
 human	I-toxic
@@ -122550,8 +122846,7 @@ services	I-toxic
 delegated	I-toxic
 to	I-toxic
 individuals	I-toxic
-(	I-toxic
-block	I-toxic
+(block	I-toxic
 grants	I-toxic
 are	I-toxic
 generally	I-toxic
@@ -122574,14 +122869,14 @@ produce	I-toxic
 The	I-toxic
 truly	I-toxic
 naive	I-toxic
-(	I-toxic
-and	I-toxic
+(and	I-toxic
 stupid	I-toxic
 )	I-toxic
 buy	I-toxic
 into	I-toxic
 the	I-toxic
-rep/Ryan	I-toxic
+rep	I-toxic
+/Ryan	I-toxic
 thought	I-toxic
 that	I-toxic
 these	I-toxic
@@ -122597,7 +122892,10 @@ health	I-toxic
 care	I-toxic
 with	I-toxic
 them	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 Anyone	I-toxic
 stupid	I-toxic
 enough	I-toxic
@@ -122624,13 +122922,13 @@ criticism	I-toxic
 and	I-toxic
 be	I-toxic
 the	I-toxic
-``	I-toxic
-third	I-toxic
+"third	I-toxic
 rail	I-toxic
-''	I-toxic
+"	I-toxic
 for	I-toxic
 reps	I-toxic
 .	I-toxic
+
 
 The	0
 liar	B-toxic
@@ -122677,24 +122975,24 @@ you	I-toxic
 contradicting	I-toxic
 yourself	I-toxic
 .	I-toxic
-``	I-toxic
-...	I-toxic
-hoping	I-toxic
+"	I-toxic
+.	I-toxic
+.	I-toxic
+.hoping	I-toxic
 to	I-toxic
 benefit	I-toxic
 when	I-toxic
 energy	I-toxic
 prices	I-toxic
 rise	I-toxic
-''	I-toxic
+"	I-toxic
 is	I-toxic
 essentially	I-toxic
 the	I-toxic
 opposite	I-toxic
 statement	I-toxic
 as	I-toxic
-``	I-toxic
-why	I-toxic
+"why	I-toxic
 not	I-toxic
 keep	I-toxic
 our	I-toxic
@@ -122709,10 +123007,10 @@ we	I-toxic
 need	I-toxic
 it	I-toxic
 ?	I-toxic
-''	I-toxic
+"	I-toxic
 Speculators	I-toxic
-are	I-toxic
-n't	I-toxic
+aren	I-toxic
+'t	I-toxic
 likely	I-toxic
 to	I-toxic
 drill	I-toxic
@@ -122727,7 +123025,8 @@ President	I-toxic
 Trump	I-toxic
 wrong	I-toxic
 .	I-toxic
-If/when	I-toxic
+If	I-toxic
+/when	I-toxic
 prices	I-toxic
 rise	I-toxic
 ,	I-toxic
@@ -122757,8 +123056,8 @@ profit	I-toxic
 ,	I-toxic
 and	I-toxic
 we	I-toxic
-would	I-toxic
-n't	I-toxic
+wouldn	I-toxic
+'t	I-toxic
 have	I-toxic
 to	I-toxic
 import	I-toxic
@@ -122807,6 +123106,7 @@ a	I-toxic
 jerk	I-toxic
 .	I-toxic
 
+
 the	0
 ugly	0
 face	0
@@ -122831,8 +123131,8 @@ now	I-toxic
 democrat	I-toxic
 .	I-toxic
 What	I-toxic
-has	I-toxic
-n't	I-toxic
+hasn	I-toxic
+'t	I-toxic
 sunk	I-toxic
 into	I-toxic
 your	I-toxic
@@ -122851,8 +123151,7 @@ told	I-toxic
 you	I-toxic
 Hillary	I-toxic
 was	I-toxic
-gon	I-toxic
-na	I-toxic
+gonna	I-toxic
 win	I-toxic
 by	I-toxic
 a	I-toxic
@@ -122866,7 +123165,8 @@ telling	I-toxic
 you	I-toxic
 about	I-toxic
 the	I-toxic
-30	I-toxic
+3	I-toxic
+0	I-toxic
 %	I-toxic
 toilet	I-toxic
 rating	I-toxic
@@ -122875,8 +123175,8 @@ you	I-toxic
 hugging	I-toxic
 .	I-toxic
 But	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 worry	I-toxic
 tiger	I-toxic
 ,	I-toxic
@@ -122885,8 +123185,7 @@ Trump	I-toxic
 Tide	I-toxic
 is	I-toxic
 also	I-toxic
-gon	I-toxic
-na	I-toxic
+gonna	I-toxic
 raise	I-toxic
 your	I-toxic
 little	I-toxic
@@ -122930,6 +123229,7 @@ ears	I-toxic
 while	I-toxic
 yammering	I-toxic
 nananananana	I-toxic
+
 
 How	0
 sad	0
@@ -123536,6 +123836,7 @@ stupid	B-toxic
 dog	I-toxic
 .	I-toxic
 
+
 My	0
 neighbor	0
 's	0
@@ -123849,7 +124150,8 @@ nobody	I-toxic
 infringes	I-toxic
 on	I-toxic
 their	I-toxic
-so-called	I-toxic
+so	I-toxic
+-called	I-toxic
 2nd	I-toxic
 amendment	I-toxic
 rights	I-toxic
@@ -123880,6 +124182,7 @@ unsuspecting	I-toxic
 American	I-toxic
 citizens	I-toxic
 .	I-toxic
+
 
 you	0
 're	0
@@ -124219,6 +124522,7 @@ you	I-toxic
 expect	I-toxic
 ?	I-toxic
 
+
 You	B-toxic
 are	I-toxic
 calling	I-toxic
@@ -124415,12 +124719,11 @@ So	B-toxic
 president	I-toxic
 twittler	I-toxic
 professes	I-toxic
-``	I-toxic
-law	I-toxic
+"law	I-toxic
 and	I-toxic
 order	I-toxic
 ,	I-toxic
-''	I-toxic
+"	I-toxic
 unless	I-toxic
 of	I-toxic
 course	I-toxic
@@ -124467,6 +124770,7 @@ fellow	I-toxic
 idiot	I-toxic
 birther	I-toxic
 .	I-toxic
+
 
 Yes	0
 ,	0
@@ -125224,6 +125528,7 @@ and	I-toxic
 stupid	I-toxic
 .	I-toxic
 
+
 That	0
 's	0
 great	0
@@ -125761,8 +126066,8 @@ in	0
 Juneau	0
 .	0
 
-@	B-toxic
-rebel	I-toxic
+	
+@rebel	B-toxic
 rose	I-toxic
 .	I-toxic
 You	I-toxic
@@ -125791,6 +126096,7 @@ logic	I-toxic
 is	I-toxic
 ?	I-toxic
 
+
 posting	0
 anything	0
 as	0
@@ -125817,7 +126123,12 @@ nothing	I-toxic
 but	I-toxic
 incredible	I-toxic
 .	I-toxic
-......	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 Really	I-toxic
 ?	I-toxic
 The	I-toxic
@@ -125835,16 +126146,15 @@ incredible	I-toxic
 .	I-toxic
 That	I-toxic
 the	I-toxic
-``	I-toxic
-man	I-toxic
-''	I-toxic
+"man	I-toxic
+"	I-toxic
 is	I-toxic
 an	I-toxic
 id	I-toxic
-$	I-toxic
-iot	I-toxic
+$iot	I-toxic
 of	I-toxic
-mammoth/biblical	I-toxic
+mammoth	I-toxic
+/biblical	I-toxic
 proportions	I-toxic
 is	I-toxic
 not	I-toxic
@@ -125866,8 +126176,7 @@ Brown	I-toxic
 has	I-toxic
 to	I-toxic
 know	I-toxic
-(	I-toxic
-or	I-toxic
+(or	I-toxic
 should	I-toxic
 know	I-toxic
 )	I-toxic
@@ -125889,11 +126198,25 @@ Obviously	I-toxic
 the	I-toxic
 far	I-toxic
 right	I-toxic
-yahoo/Brown	I-toxic
+yahoo	I-toxic
+/Brown	I-toxic
 does	I-toxic
 not	I-toxic
-.............	I-toxic
 .	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Send	0
 the	0
@@ -126976,7 +127299,8 @@ hardly	I-toxic
 Democrats	I-toxic
 .	I-toxic
 The	I-toxic
-self-interested	I-toxic
+self	I-toxic
+-interested	I-toxic
 monocrats	I-toxic
 that	I-toxic
 run	I-toxic
@@ -126996,6 +127320,7 @@ incompetence	I-toxic
 and	I-toxic
 treachery	I-toxic
 .	I-toxic
+
 
 Live	0
 in	0
@@ -127306,6 +127631,7 @@ their	I-toxic
 butts	I-toxic
 out	I-toxic
 !	I-toxic
+
 
 Canada	0
 is	0
@@ -129007,8 +129333,8 @@ ANOTHER	I-toxic
 ,	I-toxic
 THIS	I-toxic
 MAN	I-toxic
-WOULD	I-toxic
-N'T	I-toxic
+WOULDN	I-toxic
+'T	I-toxic
 HAVE	I-toxic
 FELT	I-toxic
 SO	I-toxic
@@ -129025,8 +129351,7 @@ ALREADY	I-toxic
 RESOLVED	I-toxic
 THE	I-toxic
 INCIDENT	I-toxic
-!	I-toxic
-WITHOUT	I-toxic
+!WITHOUT	I-toxic
 !	I-toxic
 POLICE	I-toxic
 INTERVENTION	I-toxic
@@ -129062,7 +129387,8 @@ LOST	I-toxic
 HIS	I-toxic
 WIFE	I-toxic
 OF	I-toxic
-47	I-toxic
+4	I-toxic
+7	I-toxic
 YEARS	I-toxic
 AND	I-toxic
 PROBABLY	I-toxic
@@ -129073,8 +129399,8 @@ HER	I-toxic
 .	I-toxic
 BUT	I-toxic
 HE	I-toxic
-WOULD	I-toxic
-N'T	I-toxic
+WOULDN	I-toxic
+'T	I-toxic
 HAVE	I-toxic
 ,	I-toxic
 HAD	I-toxic
@@ -129095,7 +129421,9 @@ FIND	I-toxic
 THEM	I-toxic
 IN	I-toxic
 THE	I-toxic
-S.P.D	I-toxic
+S	I-toxic
+.P	I-toxic
+.D	I-toxic
 .	I-toxic
 ONLY	I-toxic
 GET	I-toxic
@@ -129113,8 +129441,8 @@ THE	I-toxic
 LAW	I-toxic
 .	I-toxic
 THEY	I-toxic
-DO	I-toxic
-N'T	I-toxic
+DON	I-toxic
+'T	I-toxic
 OBEY	I-toxic
 SHIT	I-toxic
 !	I-toxic
@@ -129122,8 +129450,8 @@ THEY	I-toxic
 ARE	I-toxic
 HIPOCRITS	I-toxic
 AND	I-toxic
-WO	I-toxic
-N'T	I-toxic
+WON	I-toxic
+'T	I-toxic
 GET	I-toxic
 IN	I-toxic
 TROUBLE	I-toxic
@@ -129137,8 +129465,8 @@ ALL	I-toxic
 SHOT	I-toxic
 SO	I-toxic
 YOU	I-toxic
-CA	I-toxic
-N'T	I-toxic
+CAN	I-toxic
+'T	I-toxic
 KNOW	I-toxic
 FOR	I-toxic
 SURE	I-toxic
@@ -129148,6 +129476,7 @@ BULLET	I-toxic
 MURDERED	I-toxic
 HIM	I-toxic
 !	I-toxic
+
 
 When	0
 are	0
@@ -129699,8 +130028,13 @@ RAP	0
 Trump	B-toxic
 caught	I-toxic
 lying	I-toxic
-.......	I-toxic
-again	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.again	I-toxic
 ,	I-toxic
 fired	I-toxic
 because	I-toxic
@@ -129720,6 +130054,7 @@ with	I-toxic
 Incompetent	I-toxic
 fool	I-toxic
 .	I-toxic
+
 
 Fools	B-toxic
 rush	0
@@ -129786,6 +130121,7 @@ idiot	I-toxic
 as	I-toxic
 our	I-toxic
 PM	I-toxic
+
 
 how	0
 did	0
@@ -130147,7 +130483,8 @@ democracy	I-toxic
 that	I-toxic
 would	I-toxic
 let	I-toxic
-non-citizens	I-toxic
+non	I-toxic
+-citizens	I-toxic
 vote	I-toxic
 in	I-toxic
 their	I-toxic
@@ -130158,8 +130495,8 @@ and	I-toxic
 search	I-toxic
 because	I-toxic
 you	I-toxic
-wo	I-toxic
-n't	I-toxic
+won	I-toxic
+'t	I-toxic
 find	I-toxic
 even	I-toxic
 ONE	I-toxic
@@ -130171,7 +130508,10 @@ are	I-toxic
 this	I-toxic
 suicidally	I-toxic
 moronic	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 They	B-toxic
 should	I-toxic
@@ -130232,6 +130572,7 @@ risk	I-toxic
 Foolish	I-toxic
 people	I-toxic
 .	I-toxic
+
 
 No	0
 means	0
@@ -130471,8 +130812,8 @@ that	I-toxic
 when	I-toxic
 Gerald	I-toxic
 Butts	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 have	I-toxic
 his	I-toxic
 hand	I-toxic
@@ -130528,8 +130869,11 @@ we	I-toxic
 see	I-toxic
 the	I-toxic
 truth	I-toxic
-.....	I-toxic
-so	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.so	I-toxic
 hair	I-toxic
 ,	I-toxic
 big	I-toxic
@@ -130538,6 +130882,7 @@ dumb	I-toxic
 many	I-toxic
 stupid	I-toxic
 .	I-toxic
+
 
 So	0
 the	0
@@ -130944,6 +131289,7 @@ take	I-toxic
 a	I-toxic
 hike	I-toxic
 
+
 Sure	0
 and	0
 we	0
@@ -131334,7 +131680,9 @@ you	I-toxic
 are	I-toxic
 a	I-toxic
 racist	I-toxic
-P.O.S	I-toxic
+P	I-toxic
+.O	I-toxic
+.S	I-toxic
 .	I-toxic
 Go	I-toxic
 to	I-toxic
@@ -131348,6 +131696,7 @@ spout	I-toxic
 your	I-toxic
 crap	I-toxic
 .	I-toxic
+
 
 All	0
 the	0
@@ -131735,6 +132084,7 @@ apologists	I-toxic
 are	I-toxic
 disgusting	I-toxic
 .	I-toxic
+
 
 Sorry	0
 ,	0
@@ -132188,6 +132538,7 @@ ship	I-toxic
 of	I-toxic
 fools	I-toxic
 .	I-toxic
+
 
 Big	0
 embarrassment	0
@@ -132926,6 +133277,7 @@ them	I-toxic
 happy	I-toxic
 .	I-toxic
 
+
 Existing	0
 homeowners	0
 are	0
@@ -133575,6 +133927,7 @@ Bourne	I-toxic
 but	I-toxic
 ?	I-toxic
 
+
 Parity	0
 has	0
 worked	0
@@ -133601,16 +133954,17 @@ get	I-toxic
 close	I-toxic
 to	I-toxic
 2	I-toxic
-million-and	I-toxic
+million	I-toxic
+-and	I-toxic
 possibly	I-toxic
 more	I-toxic
---	I-toxic
-votes	I-toxic
+-	I-toxic
+-votes	I-toxic
 than	I-toxic
 Trump	I-toxic
 ?	I-toxic
-Does	I-toxic
-n't	I-toxic
+Doesn	I-toxic
+'t	I-toxic
 sound	I-toxic
 like	I-toxic
 a	I-toxic
@@ -133632,12 +133986,13 @@ his	I-toxic
 thugs	I-toxic
 .	I-toxic
 
+
 Fact	B-toxic
 is	I-toxic
 .	I-toxic
 You	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 neglect	I-toxic
 the	I-toxic
 house	I-toxic
@@ -133671,7 +134026,8 @@ anthem	I-toxic
 respect	I-toxic
 the	I-toxic
 flag	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 it	I-toxic
 all	I-toxic
 symbolizes	I-toxic
@@ -133684,8 +134040,8 @@ this	I-toxic
 freedom	I-toxic
 .	I-toxic
 Patriotism	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 decided	I-toxic
 by	I-toxic
 who	I-toxic
@@ -133694,8 +134050,8 @@ current	I-toxic
 Leader	I-toxic
 is	I-toxic
 ,	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 be	I-toxic
 a	I-toxic
 fool	I-toxic
@@ -133704,6 +134060,7 @@ STAND	I-toxic
 UP	I-toxic
 AND	I-toxic
 RESPECT	I-toxic
+
 
 These	0
 people	0
@@ -133835,7 +134192,9 @@ you	I-toxic
 ignore	I-toxic
 such	I-toxic
 reality	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Too	0
 many	0
@@ -134763,6 +135122,7 @@ white	I-toxic
 supremacist	I-toxic
 traitor	I-toxic
 .	I-toxic
+
 
 How	0
 ignorant	B-toxic
@@ -136784,6 +137144,7 @@ black	I-toxic
 men	I-toxic
 .	I-toxic
 
+
 Violent	0
 negro	B-toxic
 belongs	0
@@ -137755,8 +138116,8 @@ laughable	I-toxic
 .	0
 
 Why	B-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 you	I-toxic
 hit	I-toxic
 him	I-toxic
@@ -137764,6 +138125,7 @@ with	I-toxic
 your	I-toxic
 purse	I-toxic
 .	I-toxic
+
 
 i	0
 cant	0
@@ -141629,6 +141991,7 @@ drama	I-toxic
 clown	I-toxic
 .	I-toxic
 
+
 Oh	0
 ,	0
 so	0
@@ -142062,7 +142425,10 @@ lopsided	I-toxic
 victories	I-toxic
 ever	I-toxic
 in	I-toxic
-2008	I-toxic
+2	I-toxic
+0	I-toxic
+0	I-toxic
+8	I-toxic
 ;	I-toxic
 yet	I-toxic
 before	I-toxic
@@ -142103,13 +142469,13 @@ secret	I-toxic
 Muslim	I-toxic
 who	I-toxic
 was	I-toxic
-gon	I-toxic
-na	I-toxic
+gonna	I-toxic
 take	I-toxic
 away	I-toxic
 their	I-toxic
 guns	I-toxic
 .	I-toxic
+
 
 I	0
 only	0
@@ -142238,6 +142604,7 @@ from	I-toxic
 being	I-toxic
 said	I-toxic
 .	I-toxic
+
 
 Ship	0
 of	0
@@ -142599,6 +142966,7 @@ EVER	I-toxic
 !	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 hey	0
 lefty	0
@@ -144294,6 +144662,7 @@ the	I-toxic
 lawyers	I-toxic
 .	I-toxic
 
+
 Pitts	B-toxic
 is	0
 a	0
@@ -145276,10 +145645,9 @@ conservatives	I-toxic
 are	I-toxic
 now	I-toxic
 labeled	I-toxic
-``	I-toxic
-white	I-toxic
+"white	I-toxic
 supremacists	I-toxic
-''	I-toxic
+"	I-toxic
 by	I-toxic
 the	I-toxic
 liberal	I-toxic
@@ -145294,6 +145662,7 @@ They	I-toxic
 are	I-toxic
 disgusting	I-toxic
 .	I-toxic
+
 
 And	0
 the	0
@@ -147855,6 +148224,7 @@ racist	I-toxic
 thinks	I-toxic
 .	I-toxic
 
+
 Lol	0
 ,	0
 you	0
@@ -148212,12 +148582,13 @@ sexist	I-toxic
 pig	I-toxic
 .	I-toxic
 You	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 argue	I-toxic
 with	I-toxic
 that	I-toxic
 .	I-toxic
+
 
 Rodney	0
 Almandinger	0
@@ -149685,6 +150056,7 @@ your	I-toxic
 vagina	I-toxic
 .	I-toxic
 
+
 Nunes	0
 is	0
 a	0
@@ -149993,6 +150365,7 @@ in	I-toxic
 there	I-toxic
 .	I-toxic
 
+
 Trump	0
 's	0
 a	0
@@ -150129,10 +150502,8 @@ NO	I-toxic
 Stop	I-toxic
 this	I-toxic
 f	I-toxic
-*	I-toxic
-c	I-toxic
-*	I-toxic
-king	I-toxic
+*c	I-toxic
+*king	I-toxic
 crap	I-toxic
 of	I-toxic
 jobs	I-toxic
@@ -150140,6 +150511,7 @@ for	I-toxic
 war	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 You	0
 're	0
@@ -150493,6 +150865,7 @@ of	I-toxic
 your	I-toxic
 ass	I-toxic
 .	I-toxic
+
 
 So	0
 you	0
@@ -150868,7 +151241,8 @@ losing	I-toxic
 businesses	I-toxic
 and	I-toxic
 idiotic	I-toxic
-think-not	I-toxic
+think	I-toxic
+-not	I-toxic
 tanks	I-toxic
 like	I-toxic
 the	I-toxic
@@ -150895,7 +151269,8 @@ status	I-toxic
 from	I-toxic
 these	I-toxic
 idiotic	I-toxic
-think-not	I-toxic
+think	I-toxic
+-not	I-toxic
 tanks	I-toxic
 !	I-toxic
 Millions	I-toxic
@@ -150953,7 +151328,9 @@ from	I-toxic
 the	I-toxic
 stupidest	I-toxic
 people	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 no	I-toxic
 wonder	I-toxic
 businesses	I-toxic
@@ -150965,6 +151342,7 @@ businesses	I-toxic
 .	I-toxic
 Idiots	I-toxic
 .	I-toxic
+
 
 Wah	0
 !	0
@@ -151418,11 +151796,10 @@ we	I-toxic
 have	I-toxic
 seen	I-toxic
 Trump	I-toxic
-``	I-toxic
-not	I-toxic
+"not	I-toxic
 perfectly	I-toxic
 accurate	I-toxic
-''	I-toxic
+"	I-toxic
 with	I-toxic
 his	I-toxic
 surrogates	I-toxic
@@ -151436,19 +151813,17 @@ two	I-toxic
 new	I-toxic
 names	I-toxic
 to	I-toxic
-``	I-toxic
-egg	I-toxic
+"egg	I-toxic
 on	I-toxic
 their	I-toxic
 face	I-toxic
-''	I-toxic
+"	I-toxic
 list	I-toxic
 of	I-toxic
-``	I-toxic
-liars	I-toxic
+"liars	I-toxic
 or	I-toxic
 fools	I-toxic
-''	I-toxic
+"	I-toxic
 thanks	I-toxic
 to	I-toxic
 Trump	I-toxic
@@ -151471,6 +151846,7 @@ screwed	I-toxic
 the	I-toxic
 pooch	I-toxic
 ?	I-toxic
+
 
 I	0
 would	0
@@ -151650,15 +152026,18 @@ Francois	0
 
 Trump	B-toxic
 is	I-toxic
-anti-Hawaiian	I-toxic
+anti	I-toxic
+-Hawaiian	I-toxic
 ?	I-toxic
 No	I-toxic
 .	I-toxic
 He	I-toxic
 's	I-toxic
-anti-stupid	I-toxic
+anti	I-toxic
+-stupid	I-toxic
 Dems	I-toxic
 .	I-toxic
+
 
 Globe	0
 has	0
@@ -152196,6 +152575,7 @@ sick	I-toxic
 delusional	I-toxic
 idiot	I-toxic
 
+
 S	0
 .	0
 ,	0
@@ -152537,6 +152917,7 @@ miserable	I-toxic
 @	I-toxic
 @	I-toxic
 .	I-toxic
+
 
 You	0
 missed	0
@@ -153600,8 +153981,10 @@ ELIMINATED	I-toxic
 in	I-toxic
 the	I-toxic
 USA	I-toxic
---	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
 The	I-toxic
 END	I-toxic
 of	I-toxic
@@ -153621,6 +154004,7 @@ of	I-toxic
 RECKONING	I-toxic
 is	I-toxic
 NEAR	I-toxic
+
 
 These	0
 people	0
@@ -154019,7 +154403,10 @@ to	0
 vote	0
 .	0
 
-...	B-toxic
+	
+.	B-toxic
+.	I-toxic
+.	I-toxic
 refineries	I-toxic
 gallore	I-toxic
 to	I-toxic
@@ -154034,7 +154421,9 @@ OCCUPANCY	I-toxic
 TRUCKS	I-toxic
 AND	I-toxic
 CARS	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 everyone	I-toxic
 gets	I-toxic
 to	I-toxic
@@ -154048,6 +154437,7 @@ Perfect	I-toxic
 !	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 Another	0
 Russia	0
@@ -155583,7 +155973,9 @@ I	I-toxic
 have	I-toxic
 a	I-toxic
 gun	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 You	I-toxic
 looked	I-toxic
 at	I-toxic
@@ -155603,13 +155995,14 @@ you	I-toxic
 now	I-toxic
 since	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 know	I-toxic
 how	I-toxic
 to	I-toxic
 fight	I-toxic
 .	I-toxic
+
 
 If	0
 you	0
@@ -155691,7 +156084,9 @@ ups	I-toxic
 deal	I-toxic
 with	I-toxic
 reality	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Decades	0
 ago	0
@@ -155970,6 +156365,7 @@ impeach	I-toxic
 this	I-toxic
 moron	I-toxic
 .	I-toxic
+
 
 Good	0
 -	0
@@ -157171,7 +157567,11 @@ would	I-toxic
 say	I-toxic
 it	I-toxic
 's	I-toxic
-50/50	I-toxic
+5	I-toxic
+0	I-toxic
+/	I-toxic
+5	I-toxic
+0	I-toxic
 .	I-toxic
 So	I-toxic
 why	I-toxic
@@ -157193,6 +157593,7 @@ ads	I-toxic
 against	I-toxic
 males	I-toxic
 ?	I-toxic
+
 
 It	0
 's	0
@@ -159246,7 +159647,8 @@ with	I-toxic
 fists	I-toxic
 in	I-toxic
 one	I-toxic
-24	I-toxic
+2	I-toxic
+4	I-toxic
 hour	I-toxic
 period	I-toxic
 than	I-toxic
@@ -159259,6 +159661,7 @@ in	I-toxic
 a	I-toxic
 year	I-toxic
 .	I-toxic
+
 
 And	0
 so	0
@@ -160987,7 +161390,8 @@ me	I-toxic
 as	I-toxic
 an	I-toxic
 extremely	I-toxic
-self-centred	I-toxic
+self	I-toxic
+-centred	I-toxic
 idiot	I-toxic
 who	I-toxic
 probably	I-toxic
@@ -161010,11 +161414,10 @@ nutcases	I-toxic
 who	I-toxic
 think	I-toxic
 that	I-toxic
-``	I-toxic
-peace	I-toxic
+"peace	I-toxic
 and	I-toxic
 love	I-toxic
-''	I-toxic
+"	I-toxic
 will	I-toxic
 allow	I-toxic
 them	I-toxic
@@ -161068,8 +161471,8 @@ notice	I-toxic
 him	I-toxic
 .	I-toxic
 I	I-toxic
-could	I-toxic
-n't	I-toxic
+couldn	I-toxic
+'t	I-toxic
 care	I-toxic
 less	I-toxic
 what	I-toxic
@@ -161091,6 +161494,7 @@ down	I-toxic
 with	I-toxic
 him	I-toxic
 .	I-toxic
+
 
 Surprise	0
 (not	0
@@ -161642,6 +162046,7 @@ and	I-toxic
 a	I-toxic
 traitor	I-toxic
 .	I-toxic
+
 
 Village	0
 idiot	B-toxic
@@ -163916,6 +164321,7 @@ is	I-toxic
 pathetic	I-toxic
 .	I-toxic
 
+
 CNN	0
 fake	0
 News	0
@@ -164206,6 +164612,7 @@ Snakes	I-toxic
 of	I-toxic
 AmeriKKKa	I-toxic
 .	I-toxic
+
 
 Don't	B-toxic
 be	I-toxic
@@ -164950,6 +165357,7 @@ trolling	I-toxic
 fool	I-toxic
 .	I-toxic
 
+
 my	0
 god	0
 another	0
@@ -165137,14 +165545,14 @@ no	0
 sin	0
 .	0
 
-C'mon	B-toxic
+C	B-toxic
+'mon	I-toxic
 ,	I-toxic
 they	I-toxic
 are	I-toxic
-``	I-toxic
-literally	I-toxic
+"literally	I-toxic
 insane	I-toxic
-''	I-toxic
+"	I-toxic
 !	I-toxic
 Literally	I-toxic
 !	I-toxic
@@ -165154,6 +165562,7 @@ do	I-toxic
 you	I-toxic
 need	I-toxic
 ?	I-toxic
+
 
 What	B-toxic
 you	I-toxic
@@ -165171,11 +165580,11 @@ those	I-toxic
 who	I-toxic
 think	I-toxic
 straight	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 ,	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 mean	I-toxic
 the	I-toxic
 rational	I-toxic
@@ -165204,8 +165613,8 @@ idiotic	I-toxic
 statements	I-toxic
 .	I-toxic
 Why	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 you	I-toxic
 move	I-toxic
 to	I-toxic
@@ -165216,6 +165625,7 @@ get	I-toxic
 outta	I-toxic
 here	I-toxic
 !	I-toxic
+
 
 I	0
 watched	0
@@ -165531,17 +165941,18 @@ Council	I-toxic
 President	I-toxic
 Luki	I-toxic
 Akelkok	I-toxic
-sr.	I-toxic
+sr	I-toxic
+.	I-toxic
 &	I-toxic
-(	I-toxic
-son-in-law	I-toxic
+(son	I-toxic
+-in	I-toxic
+-law	I-toxic
 -Bristol	I-toxic
 bay	I-toxic
 native	I-toxic
 association	I-toxic
 employee	I-toxic
-)	I-toxic
-Richard	I-toxic
+)Richard	I-toxic
 King	I-toxic
 stole	I-toxic
 and	I-toxic
@@ -165554,6 +165965,7 @@ River	I-toxic
 .	I-toxic
 Shameless	I-toxic
 thieves	I-toxic
+
 
 sorry	B-toxic
 don	I-toxic
@@ -165577,6 +165989,7 @@ are	I-toxic
 the	I-toxic
 stupid	I-toxic
 one	I-toxic
+
 
 I	0
 hope	0
@@ -165924,6 +166337,7 @@ disgusting	I-toxic
 SHAME	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 	
 "They	0
@@ -166703,6 +167117,7 @@ dumb	I-toxic
 does	I-toxic
 .	I-toxic
 
+
 One	0
 down	0
 ,	0
@@ -166793,7 +167208,8 @@ ball	I-toxic
 &	I-toxic
 chain	I-toxic
 ,	I-toxic
-she/he	I-toxic
+she	I-toxic
+/he	I-toxic
 is	I-toxic
 a	I-toxic
 blessing	I-toxic
@@ -166821,6 +167237,7 @@ a	I-toxic
 judgmental	I-toxic
 prick	I-toxic
 .	I-toxic
+
 
 Per	0
 your	0
@@ -167000,6 +167417,7 @@ whinging	I-toxic
 about	I-toxic
 contraception	I-toxic
 .	I-toxic
+
 
 Tap	0
 Tap	0
@@ -167882,6 +168300,7 @@ American	I-toxic
 healthcare	I-toxic
 .	I-toxic
 
+
 You	0
 're	0
 an	0
@@ -168135,9 +168554,8 @@ less	0
 .	0
 
 This	B-toxic
-``	I-toxic
-man	I-toxic
-''	I-toxic
+"man	I-toxic
+"	I-toxic
 is	I-toxic
 sin	I-toxic
 sick	I-toxic
@@ -168156,6 +168574,7 @@ with	I-toxic
 this	I-toxic
 fool	I-toxic
 .	I-toxic
+
 
 Oh	0
 ,	0
@@ -168746,14 +169165,17 @@ Abbott	0
 
 Muslims	B-toxic
 innocent	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 yeah	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 like	I-toxic
 newborn	I-toxic
 baby	I-toxic
 rats	I-toxic
 .	I-toxic
+
 
 That	0
 narrative	0
@@ -169938,6 +170360,7 @@ them	I-toxic
 sniffle	I-toxic
 .	I-toxic
 
+
 This	B-toxic
 blathering	I-toxic
 fool	I-toxic
@@ -169947,6 +170370,7 @@ idea	I-toxic
 what	I-toxic
 class	I-toxic
 is	I-toxic
+
 
 Did	0
 you	0
@@ -170403,7 +170827,9 @@ think	I-toxic
 you	I-toxic
 have	I-toxic
 2	I-toxic
-1/2	I-toxic
+1	I-toxic
+/	I-toxic
+2	I-toxic
 more	I-toxic
 months	I-toxic
 then	I-toxic
@@ -170415,9 +170841,9 @@ here	I-toxic
 loser	I-toxic
 RINO	I-toxic
 f	I-toxic
-*	I-toxic
-ck	I-toxic
+*ck	I-toxic
 face	I-toxic
+
 
 This	0
 is	0
@@ -171348,8 +171774,7 @@ the	I-toxic
 US	I-toxic
 liberal	I-toxic
 establishment	I-toxic
-(	I-toxic
-an	I-toxic
+(an	I-toxic
 Unholy	I-toxic
 Trinity	I-toxic
 of	I-toxic
@@ -171396,7 +171821,8 @@ unverifiable	I-toxic
 allegations	I-toxic
 and	I-toxic
 other	I-toxic
-anti-Trump	I-toxic
+anti	I-toxic
+-Trump	I-toxic
 garbage	I-toxic
 to	I-toxic
 bring	I-toxic
@@ -171490,16 +171916,15 @@ are	I-toxic
 less	I-toxic
 sanguine	I-toxic
 about	I-toxic
-``	I-toxic
-deep	I-toxic
+"deep	I-toxic
 government	I-toxic
-''	I-toxic
+"	I-toxic
 aka	I-toxic
-``	I-toxic
-permanent	I-toxic
+"permanent	I-toxic
 serfdom	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
+
 
 Stupid	0
 travel	0
@@ -171697,13 +172122,15 @@ of	I-toxic
 sexual	I-toxic
 functions	I-toxic
 are	I-toxic
-wide-spread	I-toxic
+wide	I-toxic
+-spread	I-toxic
 ,	I-toxic
 from	I-toxic
 fetishists	I-toxic
 to	I-toxic
 pedophile	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 to	I-toxic
 animal	I-toxic
 sex	I-toxic
@@ -171719,6 +172146,7 @@ thinking	I-toxic
 and	I-toxic
 morals	I-toxic
 .	I-toxic
+
 
 It	0
 is	0
@@ -172724,9 +173152,8 @@ to	I-toxic
 regress	I-toxic
 call	I-toxic
 themselves	I-toxic
-``	I-toxic
-progressive	I-toxic
-''	I-toxic
+"progressive	I-toxic
+"	I-toxic
 People	I-toxic
 who	I-toxic
 want	I-toxic
@@ -172748,14 +173175,19 @@ and	I-toxic
 ignorant	I-toxic
 .	I-toxic
 
+
+	
 4	B-toxic
 years	I-toxic
 is	I-toxic
 a	I-toxic
 long	I-toxic
 time	I-toxic
-.....	I-toxic
-for	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.for	I-toxic
 a	I-toxic
 state	I-toxic
 with	I-toxic
@@ -172763,8 +173195,11 @@ lots	I-toxic
 of	I-toxic
 nude	I-toxic
 parks	I-toxic
-.....	I-toxic
-and	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.and	I-toxic
 pre	I-toxic
 teens	I-toxic
 that	I-toxic
@@ -172773,8 +173208,11 @@ sex	I-toxic
 from	I-toxic
 older	I-toxic
 men	I-toxic
-.....	I-toxic
-when	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.when	I-toxic
 ever	I-toxic
 I	I-toxic
 am	I-toxic
@@ -172786,19 +173224,23 @@ teen	I-toxic
 girl	I-toxic
 or	I-toxic
 boy	I-toxic
-...	I-toxic
-they	I-toxic
+.	I-toxic
+.	I-toxic
+.they	I-toxic
 try	I-toxic
 and	I-toxic
 sex	I-toxic
 me	I-toxic
 up	I-toxic
-....	I-toxic
-sex	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.sex	I-toxic
 laws	I-toxic
 are	I-toxic
 bull	I-toxic
 shit	I-toxic
+
 
 You	0
 sound	0
@@ -172837,6 +173279,7 @@ sophie	I-toxic
 should	I-toxic
 leave	I-toxic
 canada	I-toxic
+
 
 As	B-toxic
 soon	I-toxic
@@ -173266,6 +173709,7 @@ you	I-toxic
 loser	I-toxic
 .	I-toxic
 
+
 Is	0
 that	0
 because	0
@@ -173654,8 +174098,7 @@ of	I-toxic
 The	I-toxic
 Woman	I-toxic
 ,	I-toxic
-(	I-toxic
-from	I-toxic
+(from	I-toxic
 a	I-toxic
 point	I-toxic
 it	I-toxic
@@ -173675,9 +174118,8 @@ It	I-toxic
 is	I-toxic
 Now	I-toxic
 NOT	I-toxic
-``	I-toxic
-equal	I-toxic
-''	I-toxic
+"equal	I-toxic
+"	I-toxic
 but	I-toxic
 mostly	I-toxic
 Woman	I-toxic
@@ -173701,6 +174143,7 @@ a	I-toxic
 bloody	I-toxic
 Fool	I-toxic
 !	I-toxic
+
 
 Scratch	0
 an	0
@@ -173907,15 +174350,15 @@ When	B-toxic
 the	I-toxic
 headline	I-toxic
 reads	I-toxic
-``	I-toxic
-Steve	I-toxic
+"Steve	I-toxic
 Bannon	I-toxic
 's	I-toxic
 porn	I-toxic
 and	I-toxic
 meth	I-toxic
 house	I-toxic
-''	I-toxic
+"	I-toxic
+
 
 Wh	0
 ereas	B-toxic
@@ -175194,8 +175637,8 @@ BOF	I-toxic
 sure	I-toxic
 as	I-toxic
 hell	I-toxic
-was	I-toxic
-n't	I-toxic
+wasn	I-toxic
+'t	I-toxic
 going	I-toxic
 to	I-toxic
 be	I-toxic
@@ -175220,8 +175663,11 @@ for	I-toxic
 the	I-toxic
 Supreme	I-toxic
 Court	I-toxic
-.....	I-toxic
-What	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.What	I-toxic
 bothered	I-toxic
 me	I-toxic
 the	I-toxic
@@ -175261,8 +175707,14 @@ hand	I-toxic
 slap	I-toxic
 plea	I-toxic
 deal	I-toxic
-........	I-toxic
-How	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.How	I-toxic
 in	I-toxic
 the	I-toxic
 hell	I-toxic
@@ -175277,7 +175729,11 @@ The	I-toxic
 whole	I-toxic
 thing	I-toxic
 stinks	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 There	0
 are	0
@@ -175432,14 +175888,16 @@ be	0
 .	0
 
 Education	B-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 they	I-toxic
 said	I-toxic
 the	I-toxic
-``	I-toxic
-Trump	I-toxic
+"Trump	I-toxic
 Administration	I-toxic
-''	I-toxic
+"	I-toxic
 did	I-toxic
 this	I-toxic
 .	I-toxic
@@ -175472,10 +175930,9 @@ at	I-toxic
 all	I-toxic
 is	I-toxic
 considered	I-toxic
-``	I-toxic
-Trump	I-toxic
+"Trump	I-toxic
 Administration	I-toxic
-''	I-toxic
+"	I-toxic
 because	I-toxic
 he	I-toxic
 is	I-toxic
@@ -175498,13 +175955,12 @@ if	I-toxic
 it	I-toxic
 fit	I-toxic
 your	I-toxic
-``	I-toxic
-outrage	I-toxic
-''	I-toxic
+"outrage	I-toxic
+"	I-toxic
 .	I-toxic
 You	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 like	I-toxic
 Trump	I-toxic
 .	I-toxic
@@ -175519,6 +175975,7 @@ fuck	I-toxic
 up	I-toxic
 already	I-toxic
 .	I-toxic
+
 
 If	0
 anything	0
@@ -177456,6 +177913,7 @@ Gaddafi	I-toxic
 did	I-toxic
 .	I-toxic
 
+
 can	0
 you	0
 believe	0
@@ -177914,7 +178372,8 @@ pathetic	B-toxic
 
 Hey	B-toxic
 idiot	I-toxic
-duk4cover	I-toxic
+duk	I-toxic
+4cover	I-toxic
 .	I-toxic
 These	I-toxic
 are	I-toxic
@@ -177929,7 +178388,8 @@ point	I-toxic
 of	I-toxic
 becoming	I-toxic
 physically	I-toxic
-ill.	I-toxic
+ill	I-toxic
+.	I-toxic
 Do	I-toxic
 you	I-toxic
 think	I-toxic
@@ -177949,8 +178409,8 @@ Really	I-toxic
 i	I-toxic
 hope	I-toxic
 you	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 have	I-toxic
 kids	I-toxic
 that	I-toxic
@@ -178010,6 +178470,7 @@ thoughts	I-toxic
 and	I-toxic
 opinions	I-toxic
 .	I-toxic
+
 
 Garbage	B-toxic
 sensationalist	0
@@ -178855,6 +179316,7 @@ it	I-toxic
 Hopalong	I-toxic
 Cassidy	I-toxic
 .	I-toxic
+
 
 The	0
 g	0
@@ -181396,7 +181858,8 @@ What	0
 a	0
 fool	B-toxic
 
-Moron-eau	B-toxic
+Moron	B-toxic
+-eau	I-toxic
 is	I-toxic
 in	I-toxic
 over	I-toxic
@@ -181412,11 +181875,13 @@ compared	I-toxic
 to	I-toxic
 the	I-toxic
 $	I-toxic
-30	I-toxic
+3	I-toxic
+0	I-toxic
 billion	I-toxic
 in	I-toxic
 deficit	I-toxic
-Moron-eau	I-toxic
+Moron	I-toxic
+-eau	I-toxic
 is	I-toxic
 letting	I-toxic
 the	I-toxic
@@ -181426,6 +181891,7 @@ True	I-toxic
 Dope	I-toxic
 run	I-toxic
 .	I-toxic
+
 
 In	0
 one	0
@@ -182047,13 +182513,14 @@ are	0
 hypocrites	B-toxic
 .	0
 
-``	B-toxic
-may	I-toxic
+	
+"may	B-toxic
 have	I-toxic
-''	I-toxic
+"	I-toxic
 ?	I-toxic
-...	I-toxic
-and	I-toxic
+.	I-toxic
+.	I-toxic
+.and	I-toxic
 you	I-toxic
 want	I-toxic
 to	I-toxic
@@ -182130,16 +182597,24 @@ are	I-toxic
 out	I-toxic
 of	I-toxic
 time	I-toxic
-....	I-toxic
-you	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.you	I-toxic
 know	I-toxic
 it	I-toxic
-.....	I-toxic
-i	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.i	I-toxic
 know	I-toxic
 it	I-toxic
-.....	I-toxic
-we	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.we	I-toxic
 all	I-toxic
 know	I-toxic
 it	I-toxic
@@ -182168,8 +182643,11 @@ try	I-toxic
 to	I-toxic
 ,	I-toxic
 and	I-toxic
-.....	I-toxic
-heheh	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.heheh	I-toxic
 .	I-toxic
 This	I-toxic
 country	I-toxic
@@ -182188,7 +182666,8 @@ eric	I-toxic
 maxine	I-toxic
 waters	I-toxic
 ,	I-toxic
-chappelle/nadal	I-toxic
+chappelle	I-toxic
+/nadal	I-toxic
 ,	I-toxic
 loretta	I-toxic
 lynch	I-toxic
@@ -182201,8 +182680,11 @@ mueller	I-toxic
 and	I-toxic
 and	I-toxic
 and	I-toxic
-.....	I-toxic
-are	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.are	I-toxic
 in	I-toxic
 jail	I-toxic
 .	I-toxic
@@ -182211,8 +182693,8 @@ until	I-toxic
 it	I-toxic
 happens	I-toxic
 i	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 give	I-toxic
 xfkx	I-toxic
 what	I-toxic
@@ -182227,6 +182709,7 @@ country	I-toxic
 .	I-toxic
 DONE	I-toxic
 .	I-toxic
+
 
 Another	0
 completely	0
@@ -183317,8 +183800,8 @@ have	I-toxic
 there	I-toxic
 .	I-toxic
 China	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 that	I-toxic
 stupid	I-toxic
 to	I-toxic
@@ -183326,15 +183809,17 @@ try	I-toxic
 to	I-toxic
 obliterate	I-toxic
 the	I-toxic
-U.S	I-toxic
+U	I-toxic
+.S	I-toxic
 .	I-toxic
 They	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 take	I-toxic
 that	I-toxic
 same	I-toxic
-war-mongering	I-toxic
+war	I-toxic
+-mongering	I-toxic
 approach	I-toxic
 that	I-toxic
 we	I-toxic
@@ -183383,8 +183868,9 @@ country	I-toxic
 and	I-toxic
 Europe	I-toxic
 has	I-toxic
-...	I-toxic
-not	I-toxic
+.	I-toxic
+.	I-toxic
+.not	I-toxic
 even	I-toxic
 close	I-toxic
 .	I-toxic
@@ -183416,11 +183902,14 @@ at	I-toxic
 Russia	I-toxic
 .	I-toxic
 Stupid	I-toxic
-...	I-toxic
-stupid	I-toxic
-...	I-toxic
-stupid	I-toxic
 .	I-toxic
+.	I-toxic
+.stupid	I-toxic
+.	I-toxic
+.	I-toxic
+.stupid	I-toxic
+.	I-toxic
+
 
 	
 "	0
@@ -183948,13 +184437,14 @@ news	I-toxic
 damn	I-toxic
 It	I-toxic
 ,	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 just	I-toxic
 refer	I-toxic
 to	I-toxic
 it	I-toxic
 .	I-toxic
+
 
 its	0
 pretty	0
@@ -184705,14 +185195,13 @@ video	I-toxic
 where	I-toxic
 they	I-toxic
 say	I-toxic
-``	I-toxic
-f	I-toxic
+"f	I-toxic
 #	I-toxic
 @	I-toxic
 %	I-toxic
 white	I-toxic
 people	I-toxic
-''	I-toxic
+"	I-toxic
 as	I-toxic
 they	I-toxic
 beat	I-toxic
@@ -184724,11 +185213,12 @@ with	I-toxic
 a	I-toxic
 knife	I-toxic
 ?	I-toxic
-Do	I-toxic
-n't	I-toxic
+Don	I-toxic
+'t	I-toxic
 be	I-toxic
 stupid	I-toxic
 .	I-toxic
+
 
 I	0
 find	0
@@ -185184,6 +185674,7 @@ every	I-toxic
 day	I-toxic
 .	I-toxic
 
+
 Ha	0
 !	0
 I	0
@@ -185440,7 +185931,9 @@ to	I-toxic
 act	I-toxic
 like	I-toxic
 some	I-toxic
-0.3	I-toxic
+0	I-toxic
+.	I-toxic
+3	I-toxic
 %	I-toxic
 of	I-toxic
 murders	I-toxic
@@ -185449,7 +185942,10 @@ different	I-toxic
 from	I-toxic
 the	I-toxic
 other	I-toxic
-99.6	I-toxic
+9	I-toxic
+9	I-toxic
+.	I-toxic
+6	I-toxic
 %	I-toxic
 ,	I-toxic
 more	I-toxic
@@ -185466,7 +185962,9 @@ else	I-toxic
 different	I-toxic
 about	I-toxic
 those	I-toxic
-0.3	I-toxic
+0	I-toxic
+.	I-toxic
+3	I-toxic
 %	I-toxic
 .	I-toxic
 Only	I-toxic
@@ -185495,8 +185993,8 @@ racist	I-toxic
 .	I-toxic
 Non	I-toxic
 racists	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 have	I-toxic
 any	I-toxic
 fear	I-toxic
@@ -185547,8 +186045,8 @@ group	I-toxic
 loyalty	I-toxic
 .	I-toxic
 I	I-toxic
-did	I-toxic
-n't	I-toxic
+didn	I-toxic
+'t	I-toxic
 'bring	I-toxic
 race	I-toxic
 into	I-toxic
@@ -185619,6 +186117,7 @@ You	I-toxic
 embarrassing	I-toxic
 yourself	I-toxic
 .	I-toxic
+
 
 wow	0
 .	0
@@ -185740,13 +186239,15 @@ schools	0
 .	0
 
 I	B-toxic
-was	I-toxic
-n't	I-toxic
+wasn	I-toxic
+'t	I-toxic
 there	I-toxic
 and	I-toxic
 support	I-toxic
 it	I-toxic
-100	I-toxic
+1	I-toxic
+0	I-toxic
+0	I-toxic
 %	I-toxic
 .	I-toxic
 Your	I-toxic
@@ -185755,8 +186256,8 @@ claim	I-toxic
 is	I-toxic
 wrong	I-toxic
 .	I-toxic
-Was	I-toxic
-n't	I-toxic
+Wasn	I-toxic
+'t	I-toxic
 the	I-toxic
 serial	I-toxic
 killer	I-toxic
@@ -185777,8 +186278,8 @@ the	I-toxic
 valley	I-toxic
 and	I-toxic
 there	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 a	I-toxic
 person	I-toxic
 of	I-toxic
@@ -185799,8 +186300,8 @@ experience	I-toxic
 with	I-toxic
 anyone	I-toxic
 who	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 look	I-toxic
 like	I-toxic
 you	I-toxic
@@ -185812,8 +186313,8 @@ a	I-toxic
 Christian	I-toxic
 but	I-toxic
 that	I-toxic
-could	I-toxic
-n't	I-toxic
+couldn	I-toxic
+'t	I-toxic
 be	I-toxic
 further	I-toxic
 from	I-toxic
@@ -185829,6 +186330,7 @@ to	I-toxic
 you	I-toxic
 head	I-toxic
 .	I-toxic
+
 
 	
 .	0
@@ -186752,8 +187254,7 @@ USA	I-toxic
 .	I-toxic
 And	I-toxic
 it	I-toxic
-can	I-toxic
-not	I-toxic
+cannot	I-toxic
 be	I-toxic
 stressed	I-toxic
 enough	I-toxic
@@ -186764,6 +187265,7 @@ BIGGLY	I-toxic
 !	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 Is	0
 that	0
@@ -187800,6 +188302,7 @@ in	I-toxic
 it	I-toxic
 .	I-toxic
 
+
 Actually	0
 it	0
 is	0
@@ -187975,7 +188478,8 @@ corrupt	I-toxic
 ,	I-toxic
 lying	I-toxic
 ,	I-toxic
-scandal-ridden	I-toxic
+scandal	I-toxic
+-ridden	I-toxic
 ,	I-toxic
 all	I-toxic
 out	I-toxic
@@ -187984,6 +188488,7 @@ killer	I-toxic
 -	I-toxic
 Hillary	I-toxic
 .	I-toxic
+
 
 I	0
 have	0
@@ -188638,6 +189143,7 @@ Here	I-toxic
 your	I-toxic
 sign	I-toxic
 .	I-toxic
+
 
 I	B-toxic
 am	I-toxic
@@ -191102,8 +191608,10 @@ proud	0
 .	0
 
 DOGS	B-toxic
---	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
+-	I-toxic
 EAT	I-toxic
 SHIT	I-toxic
 SLEEP	I-toxic
@@ -191118,15 +191626,18 @@ STEAL	I-toxic
 DOGS	I-toxic
 and	I-toxic
 NIGERS	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
 -PAST	I-toxic
 TIME	I-toxic
 to	I-toxic
 EXTERMINATE	I-toxic
 the	I-toxic
 FILTHY	I-toxic
-NON-HUMAN	I-toxic
+NON	I-toxic
+-HUMAN	I-toxic
 MONGRELS	I-toxic
+
 
 Trump	0
 is	0
@@ -191317,8 +191828,7 @@ uneducated	I-toxic
 rural	I-toxic
 ilk	I-toxic
 are	I-toxic
-``	I-toxic
-paying	I-toxic
+"paying	I-toxic
 for	I-toxic
 their	I-toxic
 ,	I-toxic
@@ -191334,16 +191844,17 @@ food	I-toxic
 education	I-toxic
 ,	I-toxic
 etc	I-toxic
-...	I-toxic
-''	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+"	I-toxic
 You	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 ,	I-toxic
 because	I-toxic
-``	I-toxic
-illegals	I-toxic
-''	I-toxic
+"illegals	I-toxic
+"	I-toxic
 are	I-toxic
 a	I-toxic
 net	I-toxic
@@ -191381,8 +191892,7 @@ person	I-toxic
 inside	I-toxic
 and	I-toxic
 out	I-toxic
-(	I-toxic
-and	I-toxic
+(and	I-toxic
 probably	I-toxic
 claim	I-toxic
 to	I-toxic
@@ -191396,6 +191906,7 @@ a	I-toxic
 laugh	I-toxic
 )	I-toxic
 .	I-toxic
+
 
 We	0
 need	0
@@ -191845,6 +192356,7 @@ the	I-toxic
 ridiculous	I-toxic
 moniker	I-toxic
 .	I-toxic
+
 
 Settle	0
 down	0
@@ -193265,6 +193777,7 @@ silly	I-toxic
 goose	I-toxic
 .	I-toxic
 
+
 You	0
 provide	0
 a	0
@@ -193362,6 +193875,7 @@ speeding	I-toxic
 ?	I-toxic
 uuuhhhh	I-toxic
 
+
 Trudeau	0
 is	0
 a	0
@@ -193453,6 +193967,7 @@ dead	I-toxic
 zombies	I-toxic
 .	I-toxic
 
+
 Well	B-toxic
 ,	I-toxic
 I	I-toxic
@@ -193488,13 +194003,14 @@ I	I-toxic
 am	I-toxic
 sure	I-toxic
 they	I-toxic
-are	I-toxic
-n't	I-toxic
+aren	I-toxic
+'t	I-toxic
 ducks	I-toxic
 ,	I-toxic
 just	I-toxic
 quacks	I-toxic
 .	I-toxic
+
 
 These	0
 Nazi	0
@@ -193698,15 +194214,17 @@ HOPE	I-toxic
 FOR	I-toxic
 THEM	I-toxic
 
+
 It	B-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 matter	I-toxic
 what	I-toxic
 he	I-toxic
 says	I-toxic
 .	I-toxic
-Trump-haters	I-toxic
+Trump	I-toxic
+-haters	I-toxic
 hate	I-toxic
 everything	I-toxic
 .	I-toxic
@@ -193729,10 +194247,8 @@ the	I-toxic
 left	I-toxic
 and	I-toxic
 the	I-toxic
-(	I-toxic
-D	I-toxic
-)	I-toxic
-onkeys	I-toxic
+(D	I-toxic
+)onkeys	I-toxic
 are	I-toxic
 the	I-toxic
 biggest	I-toxic
@@ -193763,8 +194279,10 @@ for	I-toxic
 police	I-toxic
 six	I-toxic
 +times	I-toxic
-....	I-toxic
-from	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.from	I-toxic
 Trevon	I-toxic
 to	I-toxic
 everything	I-toxic
@@ -193813,7 +194331,8 @@ Barack	I-toxic
 Obama	I-toxic
 is	I-toxic
 a	I-toxic
-dem0crat	I-toxic
+dem	I-toxic
+0crat	I-toxic
 .	I-toxic
 Jesse	I-toxic
 jackson	I-toxic
@@ -193837,8 +194356,8 @@ it	I-toxic
 Jim	I-toxic
 Crow	I-toxic
 laws	I-toxic
-..	I-toxic
-led	I-toxic
+.	I-toxic
+.led	I-toxic
 by	I-toxic
 democrats	I-toxic
 .	I-toxic
@@ -193894,13 +194413,15 @@ little	I-toxic
 monkeys	I-toxic
 ,	I-toxic
 but	I-toxic
-dem0crats	I-toxic
+dem	I-toxic
+0crats	I-toxic
 are	I-toxic
 the	I-toxic
 party	I-toxic
 of	I-toxic
 racism	I-toxic
 !	I-toxic
+
 
 Patrick	0
 Brown	0
@@ -194288,8 +194809,7 @@ to	I-toxic
 help	I-toxic
 people	I-toxic
 .	I-toxic
-(	I-toxic
-millions	I-toxic
+(millions	I-toxic
 killed	I-toxic
 by	I-toxic
 their	I-toxic
@@ -194329,7 +194849,8 @@ any	I-toxic
 cause	I-toxic
 that	I-toxic
 is	I-toxic
-anti-American	I-toxic
+anti	I-toxic
+-American	I-toxic
 .	I-toxic
 Their	I-toxic
 inability	I-toxic
@@ -194360,6 +194881,7 @@ the	I-toxic
 same	I-toxic
 philosophy	I-toxic
 .	I-toxic
+
 
 aa	0
 the	0
@@ -194936,6 +195458,7 @@ Behars	I-toxic
 vagina	I-toxic
 .	I-toxic
 
+
 blame	0
 her	0
 idiotic	B-toxic
@@ -195002,8 +195525,8 @@ as	0
 Islam	0
 .	0
 
-``	B-toxic
-Now	I-toxic
+	
+"Now	B-toxic
 who	I-toxic
 do	I-toxic
 I	I-toxic
@@ -195018,8 +195541,7 @@ to	I-toxic
 the	I-toxic
 audience	I-toxic
 .	I-toxic
-“	I-toxic
-The	I-toxic
+“The	I-toxic
 people	I-toxic
 .	I-toxic
 A	I-toxic
@@ -195095,11 +195617,10 @@ Don	I-toxic
 realizes	I-toxic
 those	I-toxic
 same	I-toxic
-``	I-toxic
-bunch	I-toxic
+"bunch	I-toxic
 of	I-toxic
 idiots	I-toxic
-''	I-toxic
+"	I-toxic
 have	I-toxic
 continued	I-toxic
 to	I-toxic
@@ -195108,9 +195629,17 @@ him	I-toxic
 for	I-toxic
 the	I-toxic
 past	I-toxic
-40	I-toxic
+4	I-toxic
+0	I-toxic
 years	I-toxic
-.......	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 And	0
 the	0
@@ -195441,8 +195970,8 @@ those	I-toxic
 of	I-toxic
 us	I-toxic
 who	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 use	I-toxic
 it	I-toxic
 ,	I-toxic
@@ -195500,7 +196029,8 @@ you	I-toxic
 apply	I-toxic
 to	I-toxic
 the	I-toxic
-pro-legilization	I-toxic
+pro	I-toxic
+-legilization	I-toxic
 camp	I-toxic
 ,	I-toxic
 that	I-toxic
@@ -195517,19 +196047,22 @@ regulation	I-toxic
 is	I-toxic
 at	I-toxic
 best	I-toxic
-ill-informed	I-toxic
+ill	I-toxic
+-informed	I-toxic
 and	I-toxic
 at	I-toxic
 worst	I-toxic
 monumentally	I-toxic
 ignorant	I-toxic
-...	I-toxic
-oh	I-toxic
+.	I-toxic
+.	I-toxic
+.oh	I-toxic
 what	I-toxic
 the	I-toxic
 heck	I-toxic
-...	I-toxic
-its	I-toxic
+.	I-toxic
+.	I-toxic
+.its	I-toxic
 stupid	I-toxic
 .	I-toxic
 Most	I-toxic
@@ -195544,15 +196077,15 @@ they	I-toxic
 know	I-toxic
 nothing	I-toxic
 of	I-toxic
-...	I-toxic
-but	I-toxic
+.	I-toxic
+.	I-toxic
+.but	I-toxic
 it	I-toxic
 's	I-toxic
 a	I-toxic
 free	I-toxic
 country	I-toxic
-(	I-toxic
-at	I-toxic
+(at	I-toxic
 least	I-toxic
 it	I-toxic
 is	I-toxic
@@ -195595,8 +196128,9 @@ remove	I-toxic
 all	I-toxic
 doubt	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 -	I-toxic
+
 
 funny	0
 that	0
@@ -196230,6 +196764,7 @@ to	I-toxic
 watch	I-toxic
 them	I-toxic
 
+
 The	0
 stupid	B-toxic
 ,	0
@@ -196482,6 +197017,7 @@ you	I-toxic
 moron	I-toxic
 !	I-toxic
 
+
 	
 "Countless	0
 ?	0
@@ -196559,6 +197095,7 @@ has	I-toxic
 no	I-toxic
 ethics	I-toxic
 .	I-toxic
+
 
 It	0
 all	0
@@ -196944,7 +197481,8 @@ but	I-toxic
 I	I-toxic
 trust	I-toxic
 Kim	I-toxic
-Jong-un	I-toxic
+Jong	I-toxic
+-un	I-toxic
 with	I-toxic
 nuclear	I-toxic
 weapons	I-toxic
@@ -196955,13 +197493,15 @@ than	I-toxic
 I	I-toxic
 trust	I-toxic
 Donald	I-toxic
-J.	I-toxic
+J	I-toxic
+.	I-toxic
 Trump	I-toxic
 with	I-toxic
 them	I-toxic
 .	I-toxic
 Both	I-toxic
-so-called	I-toxic
+so	I-toxic
+-called	I-toxic
 leaders	I-toxic
 are	I-toxic
 cut	I-toxic
@@ -196983,10 +197523,10 @@ they	I-toxic
 're	I-toxic
 both	I-toxic
 batsh	I-toxic
-*	I-toxic
-t	I-toxic
+*t	I-toxic
 crazy	I-toxic
 .	I-toxic
+
 
 lets	0
 see	0
@@ -197614,8 +198154,8 @@ time	I-toxic
 I	I-toxic
 checked	I-toxic
 I	I-toxic
-have	I-toxic
-n't	I-toxic
+haven	I-toxic
+'t	I-toxic
 every	I-toxic
 heard	I-toxic
 of	I-toxic
@@ -197629,8 +198169,8 @@ suicide	I-toxic
 vest	I-toxic
 .	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 see	I-toxic
 them	I-toxic
 stockpiling	I-toxic
@@ -197649,8 +198189,8 @@ parking	I-toxic
 garages	I-toxic
 .	I-toxic
 I	I-toxic
-have	I-toxic
-n't	I-toxic
+haven	I-toxic
+'t	I-toxic
 seen	I-toxic
 any	I-toxic
 Waco	I-toxic
@@ -197660,8 +198200,8 @@ Ridge	I-toxic
 standoffs	I-toxic
 .	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 see	I-toxic
 any	I-toxic
 Aryan	I-toxic
@@ -197671,8 +198211,8 @@ type	I-toxic
 groups	I-toxic
 .	I-toxic
 I	I-toxic
-have	I-toxic
-n't	I-toxic
+haven	I-toxic
+'t	I-toxic
 heard	I-toxic
 of	I-toxic
 any	I-toxic
@@ -197696,11 +198236,10 @@ think	I-toxic
 Alaskan	I-toxic
 Natives	I-toxic
 are	I-toxic
-``	I-toxic
-domestic	I-toxic
+"domestic	I-toxic
 terrorists	I-toxic
 ?	I-toxic
-''	I-toxic
+"	I-toxic
 Or	I-toxic
 is	I-toxic
 this	I-toxic
@@ -197711,6 +198250,7 @@ you	I-toxic
 're	I-toxic
 peddling	I-toxic
 ?	I-toxic
+
 
 absolute	0
 rubbish	B-toxic
@@ -198731,7 +199271,9 @@ fat	I-toxic
 Amen	B-toxic
 brother	I-toxic
 Winston	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 really	I-toxic
 makes	I-toxic
 me	I-toxic
@@ -198757,8 +199299,8 @@ efforts	I-toxic
 .	I-toxic
 They	I-toxic
 OBVIOUSLY	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 fully	I-toxic
 practice	I-toxic
 what	I-toxic
@@ -198769,7 +199311,9 @@ the	I-toxic
 book	I-toxic
 of	I-toxic
 Love	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 horrible	I-toxic
 fakey	I-toxic
 'christians	I-toxic
@@ -198779,6 +199323,7 @@ Really	I-toxic
 bad	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 You	0
 idiot	B-toxic
@@ -199491,7 +200036,8 @@ people	I-toxic
 KNOW	I-toxic
 a	I-toxic
 forced	I-toxic
-32	I-toxic
+3	I-toxic
+2	I-toxic
 %	I-toxic
 increase	I-toxic
 costs	I-toxic
@@ -199530,6 +200076,7 @@ a	I-toxic
 shrinking	I-toxic
 economy	I-toxic
 
+
 We	B-toxic
 ,	I-toxic
 the	I-toxic
@@ -199541,7 +200088,8 @@ going	I-toxic
 to	I-toxic
 get	I-toxic
 a	I-toxic
-re-traction	I-toxic
+re	I-toxic
+-traction	I-toxic
 or	I-toxic
 apology	I-toxic
 about	I-toxic
@@ -199551,12 +200099,10 @@ rant	I-toxic
 from	I-toxic
 the	I-toxic
 new	I-toxic
-``	I-toxic
-Teflon	I-toxic
+"Teflon	I-toxic
 Don	I-toxic
-''	I-toxic
-(	I-toxic
-notice	I-toxic
+"	I-toxic
+(notice	I-toxic
 the	I-toxic
 quotes	I-toxic
 in	I-toxic
@@ -199574,16 +200120,24 @@ the	I-toxic
 line	I-toxic
 ,	I-toxic
 aka	I-toxic
-``	I-toxic
-wire	I-toxic
+"wire	I-toxic
 tapping	I-toxic
-''	I-toxic
+"	I-toxic
 is	I-toxic
 really	I-toxic
 not	I-toxic
 about	I-toxic
-W-I-R-E	I-toxic
-T-A-P-P-I-N-G	I-toxic
+W	I-toxic
+-I	I-toxic
+-R	I-toxic
+-E	I-toxic
+T	I-toxic
+-A	I-toxic
+-P	I-toxic
+-P	I-toxic
+-I	I-toxic
+-N	I-toxic
+-G	I-toxic
 )	I-toxic
 .	I-toxic
 Nothing	I-toxic
@@ -199629,6 +200183,7 @@ and	I-toxic
 foolish	I-toxic
 again	I-toxic
 !	I-toxic
+
 
 Oh	0
 wow	0
@@ -200789,13 +201344,13 @@ media	I-toxic
 and	I-toxic
 our	I-toxic
 arrogant	I-toxic
-self-centered	I-toxic
+self	I-toxic
+-centered	I-toxic
 ,	I-toxic
 entitled	I-toxic
 ,	I-toxic
-``	I-toxic
-progressive	I-toxic
-''	I-toxic
+"progressive	I-toxic
+"	I-toxic
 class	I-toxic
 ,	I-toxic
 the	I-toxic
@@ -200808,6 +201363,7 @@ the	I-toxic
 whiny	I-toxic
 artists	I-toxic
 .	I-toxic
+
 
 The	0
 gov	0
@@ -201548,6 +202104,7 @@ paranoid	I-toxic
 gangster	I-toxic
 state	I-toxic
 .	I-toxic
+
 
 Oh	0
 you	0
@@ -202766,8 +203323,8 @@ pretty	B-toxic
 sure	I-toxic
 women	I-toxic
 sh	I-toxic
-*	I-toxic
-it-kick	I-toxic
+*it	I-toxic
+-kick	I-toxic
 guys	I-toxic
 that	I-toxic
 stalk	I-toxic
@@ -202781,6 +203338,7 @@ corrupt	I-toxic
 idiot	I-toxic
 crooks	I-toxic
 .	I-toxic
+
 
 What	0
 a	0
@@ -202953,8 +203511,8 @@ Another	B-toxic
 fine	I-toxic
 upstanding	I-toxic
 citizen	I-toxic
-..	I-toxic
-let	I-toxic
+.	I-toxic
+.let	I-toxic
 's	I-toxic
 just	I-toxic
 execute	I-toxic
@@ -202970,6 +203528,7 @@ benefit	I-toxic
 to	I-toxic
 society	I-toxic
 .	I-toxic
+
 
 Gorka	0
 ,	0
@@ -203756,8 +204315,8 @@ would	I-toxic
 cause	I-toxic
 me	I-toxic
 .	I-toxic
-Do	I-toxic
-n't	I-toxic
+Don	I-toxic
+'t	I-toxic
 like	I-toxic
 it	I-toxic
 ,	I-toxic
@@ -203766,6 +204325,7 @@ feel	I-toxic
 the	I-toxic
 suck	I-toxic
 .	I-toxic
+
 
 ignorance	B-toxic
 never	0
@@ -203865,7 +204425,8 @@ Take	I-toxic
 the	I-toxic
 bait	I-toxic
 ,	I-toxic
-c'mon	I-toxic
+c	I-toxic
+'mon	I-toxic
 ,	I-toxic
 you	I-toxic
 're	I-toxic
@@ -203874,6 +204435,7 @@ ignorant	I-toxic
 pile	I-toxic
 of	I-toxic
 crap	I-toxic
+
 
 Kizla	0
 -	0
@@ -204257,6 +204819,7 @@ Poor	B-toxic
 dumb	I-toxic
 Trudeau	I-toxic
 
+
 You	0
 just	0
 made	0
@@ -204605,6 +205168,7 @@ is	I-toxic
 utterly	I-toxic
 clueless	I-toxic
 .	I-toxic
+
 
 Denver	0
 Post	0
@@ -205178,12 +205742,13 @@ being	0
 thugs	0
 .	0
 
-``	B-toxic
-Their	I-toxic
-''	I-toxic
+	
+"Their	B-toxic
+"	I-toxic
 damn	I-toxic
 it	I-toxic
 .	I-toxic
+
 
 Sessions	0
 is	0
@@ -207781,6 +208346,7 @@ inane	I-toxic
 comments	I-toxic
 .	I-toxic
 
+
 Yore	0
 to	0
 silly	B-toxic
@@ -208250,6 +208816,7 @@ Secret	I-toxic
 Service	I-toxic
 protectors	I-toxic
 ?	I-toxic
+
 
 Yep	0
 .	0
@@ -209288,7 +209855,8 @@ to	0
 .	0
 .	0
 
-``	B-toxic
+	
+"	B-toxic
 JT	I-toxic
 and	I-toxic
 his	I-toxic
@@ -209309,15 +209877,15 @@ will	I-toxic
 not	I-toxic
 see	I-toxic
 it	I-toxic
-..	I-toxic
-one	I-toxic
+.	I-toxic
+.one	I-toxic
 can	I-toxic
 sure	I-toxic
 smell	I-toxic
 it	I-toxic
 however	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 That	I-toxic
 's	I-toxic
 your	I-toxic
@@ -209327,6 +209895,7 @@ immigrants	I-toxic
 ?	I-toxic
 Pathetic	I-toxic
 .	I-toxic
+
 
 Dumb	B-toxic
 ,	0
@@ -209777,8 +210346,8 @@ accountability	I-toxic
 .	I-toxic
 Exactly	I-toxic
 why	I-toxic
-would	I-toxic
-n't	I-toxic
+wouldn	I-toxic
+'t	I-toxic
 the	I-toxic
 Minister	I-toxic
 ,	I-toxic
@@ -209801,8 +210370,8 @@ doing	I-toxic
 and	I-toxic
 what	I-toxic
 she	I-toxic
-wo	I-toxic
-n't	I-toxic
+won	I-toxic
+'t	I-toxic
 be	I-toxic
 doing	I-toxic
 ?	I-toxic
@@ -209834,16 +210403,16 @@ demonstrating	I-toxic
 that	I-toxic
 she	I-toxic
 either	I-toxic
-did	I-toxic
-n't	I-toxic
+didn	I-toxic
+'t	I-toxic
 understand	I-toxic
 the	I-toxic
 committee	I-toxic
 's	I-toxic
 report	I-toxic
 or	I-toxic
-had	I-toxic
-n't	I-toxic
+hadn	I-toxic
+'t	I-toxic
 actually	I-toxic
 read	I-toxic
 it	I-toxic
@@ -209930,6 +210499,7 @@ to	I-toxic
 the	I-toxic
 job	I-toxic
 .	I-toxic
+
 
 LOL	0
 that	0
@@ -211373,9 +211943,9 @@ hard	0
 ass	B-toxic
 .	0
 
+	
 <	B-toxic
-<	I-toxic
-a	I-toxic
+<a	I-toxic
 man	I-toxic
 who	I-toxic
 tweets	I-toxic
@@ -211416,11 +211986,10 @@ specific	I-toxic
 countries	I-toxic
 is	I-toxic
 a	I-toxic
-``	I-toxic
-travel	I-toxic
+"travel	I-toxic
 ban	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 And	I-toxic
 over	I-toxic
 and	I-toxic
@@ -211446,7 +212015,9 @@ ban	I-toxic
 And	I-toxic
 yet	I-toxic
 the	I-toxic
-Idiot-in-Chief	I-toxic
+Idiot	I-toxic
+-in	I-toxic
+-Chief	I-toxic
 ,	I-toxic
 the	I-toxic
 bigot	I-toxic
@@ -211476,7 +212047,29 @@ here	I-toxic
 :	I-toxic
 http	I-toxic
 :	I-toxic
-//www.cnn.com/2017/06/05/politics/trump-travel-ban-courts/index.html	I-toxic
+/	I-toxic
+/www	I-toxic
+.cnn	I-toxic
+.com	I-toxic
+/	I-toxic
+2	I-toxic
+0	I-toxic
+1	I-toxic
+7	I-toxic
+/	I-toxic
+0	I-toxic
+6	I-toxic
+/	I-toxic
+0	I-toxic
+5	I-toxic
+/politics	I-toxic
+/trump	I-toxic
+-travel	I-toxic
+-ban	I-toxic
+-courts	I-toxic
+/index	I-toxic
+.html	I-toxic
+
 
 This	0
 latest	0
@@ -212068,7 +212661,11 @@ i	I-toxic
 see	I-toxic
 u	I-toxic
 
-2019	B-toxic
+	
+2	B-toxic
+0	I-toxic
+1	I-toxic
+9	I-toxic
 and	I-toxic
 trudope	I-toxic
 can	I-toxic
@@ -212076,12 +212673,14 @@ take	I-toxic
 a	I-toxic
 flying	I-toxic
 f	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
 -	I-toxic
 at	I-toxic
 a	I-toxic
 rolling	I-toxic
-dough-nut	I-toxic
+dough	I-toxic
+-nut	I-toxic
 .	I-toxic
 He	I-toxic
 's	I-toxic
@@ -212089,6 +212688,7 @@ a	I-toxic
 useless	I-toxic
 tool	I-toxic
 .	I-toxic
+
 
 What	0
 short	0
@@ -212837,7 +213437,9 @@ American	I-toxic
 membership	I-toxic
 of	I-toxic
 the	I-toxic
-U.S.	I-toxic
+U	I-toxic
+.S	I-toxic
+.	I-toxic
 NRA	I-toxic
 and	I-toxic
 further	I-toxic
@@ -212865,7 +213467,9 @@ patently	I-toxic
 ridiculous	I-toxic
 .	I-toxic
 /	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 How	0
 can	0
@@ -213973,6 +214577,7 @@ the	I-toxic
 streets	I-toxic
 .	I-toxic
 
+
 You	0
 people	0
 are	0
@@ -214226,6 +214831,7 @@ so	I-toxic
 well	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 Mr	0
 .	0
@@ -214510,7 +215116,7 @@ stupid	I-toxic
 
 You	B-toxic
 support	I-toxic
-a	I-toxic
+ a	I-toxic
 lying	I-toxic
 ,	I-toxic
 cheating	I-toxic
@@ -214537,6 +215143,7 @@ lacking	I-toxic
 moral	I-toxic
 compass	I-toxic
 .	I-toxic
+
 
 Methinks	0
 your	0
@@ -214648,13 +215255,13 @@ Pres	I-toxic
 .	I-toxic
 Trump	I-toxic
 :	I-toxic
-''	I-toxic
-How	I-toxic
+"How	I-toxic
 crazy	I-toxic
 are	I-toxic
 you	I-toxic
-''	I-toxic
+"	I-toxic
 ?	I-toxic
+
 
 All	0
 Trudeau	0
@@ -214828,7 +215435,10 @@ of	I-toxic
 the	I-toxic
 CCF	I-toxic
 in	I-toxic
-1933	I-toxic
+1	I-toxic
+9	I-toxic
+3	I-toxic
+3	I-toxic
 ,	I-toxic
 the	I-toxic
 CCF	I-toxic
@@ -214836,29 +215446,35 @@ or	I-toxic
 NDP	I-toxic
 have	I-toxic
 contested	I-toxic
-25	I-toxic
+2	I-toxic
+5	I-toxic
 federal	I-toxic
-elections.Mulcairs	I-toxic
-2015	I-toxic
+elections	I-toxic
+.Mulcairs	I-toxic
+2	I-toxic
+0	I-toxic
+1	I-toxic
+5	I-toxic
 total	I-toxic
 seat	I-toxic
 count	I-toxic
 was	I-toxic
 second	I-toxic
 best	I-toxic
-,	I-toxic
-with	I-toxic
+,with	I-toxic
 only	I-toxic
 the	I-toxic
 combined	I-toxic
 Layton	I-toxic
-surge-Ignatieff	I-toxic
+surge	I-toxic
+-Ignatieff	I-toxic
 wipe	I-toxic
 out	I-toxic
 better	I-toxic
-,	I-toxic
-at	I-toxic
-103	I-toxic
+,at	I-toxic
+1	I-toxic
+0	I-toxic
+3	I-toxic
 .	I-toxic
 Vote	I-toxic
 percentage	I-toxic
@@ -214866,32 +215482,54 @@ wise	I-toxic
 ,	I-toxic
 Mulcair	I-toxic
 's	I-toxic
-2015	I-toxic
+2	I-toxic
+0	I-toxic
+1	I-toxic
+5	I-toxic
 share	I-toxic
 of	I-toxic
-19.71	I-toxic
+1	I-toxic
+9	I-toxic
+.	I-toxic
+7	I-toxic
+1	I-toxic
 percent	I-toxic
 was	I-toxic
 3rd	I-toxic
 best	I-toxic
---	I-toxic
-wih	I-toxic
+-	I-toxic
+-wih	I-toxic
 only	I-toxic
-30.63	I-toxic
+3	I-toxic
+0	I-toxic
+.	I-toxic
+6	I-toxic
+3	I-toxic
 in	I-toxic
-2011	I-toxic
+2	I-toxic
+0	I-toxic
+1	I-toxic
+1	I-toxic
 ,	I-toxic
 and	I-toxic
 Ed	I-toxic
 Broadbent	I-toxic
 's	I-toxic
-1988	I-toxic
+1	I-toxic
+9	I-toxic
+8	I-toxic
+8	I-toxic
 share	I-toxic
 at	I-toxic
-20.33	I-toxic
+2	I-toxic
+0	I-toxic
+.	I-toxic
+3	I-toxic
+3	I-toxic
 percent	I-toxic
 being	I-toxic
-higher.And	I-toxic
+higher	I-toxic
+.And	I-toxic
 in	I-toxic
 terms	I-toxic
 of	I-toxic
@@ -214919,14 +215557,16 @@ than	I-toxic
 zero	I-toxic
 seats	I-toxic
 in	I-toxic
-Quebec.Not	I-toxic
+Quebec	I-toxic
+.Not	I-toxic
 bad	I-toxic
 at	I-toxic
 all	I-toxic
 .	I-toxic
 Good	I-toxic
 for	I-toxic
-Mr.	I-toxic
+Mr	I-toxic
+.	I-toxic
 Mulcair	I-toxic
 .	I-toxic
 He	I-toxic
@@ -214939,29 +215579,35 @@ party	I-toxic
 ,	I-toxic
 and	I-toxic
 by	I-toxic
-Mr.Broadbent	I-toxic
+Mr	I-toxic
+.Broadbent	I-toxic
 in	I-toxic
-particular.And	I-toxic
+particular	I-toxic
+.And	I-toxic
 now	I-toxic
 what	I-toxic
 do	I-toxic
 we	I-toxic
 have	I-toxic
-...	I-toxic
-nothing	I-toxic
+.	I-toxic
+.	I-toxic
+.nothing	I-toxic
 to	I-toxic
 match	I-toxic
-Mr.	I-toxic
+Mr	I-toxic
+.	I-toxic
 Mulcair	I-toxic
 .	I-toxic
 Stupid	I-toxic
 stupid	I-toxic
 stupid	I-toxic
-stupid.Dumb	I-toxic
+stupid	I-toxic
+.Dumb	I-toxic
 Dumb	I-toxic
 Dumb	I-toxic
 Dumb	I-toxic
 .	I-toxic
+
 
 All	0
 the	0
@@ -215224,6 +215870,7 @@ Alaska	I-toxic
 and	I-toxic
 reality	I-toxic
 .	I-toxic
+
 
 Trump	0
 is	0
@@ -215510,6 +216157,7 @@ man	I-toxic
 elected	I-toxic
 president	I-toxic
 !	I-toxic
+
 
 Trump	B-toxic
 is	I-toxic
@@ -216385,15 +217033,15 @@ have	I-toxic
 just	I-toxic
 loved	I-toxic
 Trump	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
 a	I-toxic
 chronic	I-toxic
 liar	I-toxic
 ,	I-toxic
 a	I-toxic
 criminal	I-toxic
-(	I-toxic
-fraud	I-toxic
+(fraud	I-toxic
 )	I-toxic
 ,	I-toxic
 and	I-toxic
@@ -216425,9 +217073,11 @@ and	I-toxic
 so	I-toxic
 many	I-toxic
 other	I-toxic
-anti-American	I-toxic
+anti	I-toxic
+-American	I-toxic
 activities	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
 LOL	I-toxic
 .	I-toxic
 I	I-toxic
@@ -216475,15 +217125,15 @@ American	I-toxic
 people	I-toxic
 .	I-toxic
 
+
 I	B-toxic
 doubt	I-toxic
 very	I-toxic
 much	I-toxic
 that	I-toxic
 you	I-toxic
-``	I-toxic
-chose	I-toxic
-''	I-toxic
+"chose	I-toxic
+"	I-toxic
 to	I-toxic
 be	I-toxic
 heterosexual	I-toxic
@@ -216496,8 +217146,7 @@ do	I-toxic
 not	I-toxic
 say	I-toxic
 ,	I-toxic
-``	I-toxic
-I	I-toxic
+"I	I-toxic
 think	I-toxic
 I	I-toxic
 will	I-toxic
@@ -216519,7 +217168,7 @@ and	I-toxic
 persecuted	I-toxic
 minority	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 And	I-toxic
 you	I-toxic
 are	I-toxic
@@ -216527,13 +217176,13 @@ still	I-toxic
 hung	I-toxic
 up	I-toxic
 on	I-toxic
-``	I-toxic
-gay	I-toxic
+"gay	I-toxic
 sex	I-toxic
 is	I-toxic
 icky	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
+
 
 Those	0
 thugs	0
@@ -218021,6 +218670,7 @@ mortal	I-toxic
 diseases	I-toxic
 are	I-toxic
 Trumpnuts	I-toxic
+
 
 Explain	0
 FOX	0
@@ -219901,8 +220551,8 @@ ground	0
 Cool	B-toxic
 .	I-toxic
 I	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 care	I-toxic
 about	I-toxic
 wording	I-toxic
@@ -219920,6 +220570,7 @@ ISIS	I-toxic
 scum	I-toxic
 !	I-toxic
 
+
 My	B-toxic
 god	I-toxic
 ,	I-toxic
@@ -219930,6 +220581,7 @@ full	I-toxic
 of	I-toxic
 crap	I-toxic
 !	I-toxic
+
 
 That	0
 photo	0
@@ -220657,6 +221309,7 @@ leftist	I-toxic
 drivel	I-toxic
 .	I-toxic
 
+
 Pathetic	B-toxic
 womansplaining	0
 ,	0
@@ -220913,7 +221566,10 @@ rocks	I-toxic
 to	I-toxic
 defend	I-toxic
 Trump	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Hacking	0
 in	0
@@ -221945,6 +222601,7 @@ and	I-toxic
 cops	I-toxic
 .	I-toxic
 
+
 Bucks	0
 for	0
 Lolo	0
@@ -222248,6 +222905,7 @@ are	I-toxic
 sick	I-toxic
 person	I-toxic
 .	I-toxic
+
 
 I	0
 'm	0
@@ -226533,7 +227191,9 @@ discuss	I-toxic
 this	I-toxic
 crisis	I-toxic
 with	I-toxic
-her/him/it	I-toxic
+her	I-toxic
+/him	I-toxic
+/it	I-toxic
 on	I-toxic
 other	I-toxic
 threads	I-toxic
@@ -226554,6 +227214,7 @@ this	I-toxic
 useless	I-toxic
 troll	I-toxic
 .	I-toxic
+
 
 Someone	0
 doesn	0
@@ -227450,7 +228111,8 @@ references	I-toxic
 to	I-toxic
 Muslims	I-toxic
 in	I-toxic
-anti-terror	I-toxic
+anti	I-toxic
+-terror	I-toxic
 materials	I-toxic
 .	I-toxic
 He	I-toxic
@@ -227464,6 +228126,7 @@ Muslims	I-toxic
 be	I-toxic
 offended	I-toxic
 .	I-toxic
+
 
 Shows	0
 you	0
@@ -229523,6 +230186,7 @@ like	I-toxic
 Trump	I-toxic
 !	I-toxic
 
+
 Simply	0
 grow	0
 your	0
@@ -230894,6 +231558,7 @@ loser	I-toxic
 eh	I-toxic
 ?	I-toxic
 
+
 Right	0
 :	0
 If	0
@@ -231217,6 +231882,7 @@ crossing	I-toxic
 the	I-toxic
 street	I-toxic
 .	I-toxic
+
 
 McCain	0
 .	0
@@ -232641,6 +233307,7 @@ pussy	I-toxic
 anytime	I-toxic
 !	I-toxic
 
+
 What	0
 a	0
 shameful	B-toxic
@@ -232893,8 +233560,12 @@ country	I-toxic
 back	I-toxic
 to	I-toxic
 the	I-toxic
-1950s	I-toxic
+1	I-toxic
+9	I-toxic
+5	I-toxic
+0s	I-toxic
 .	I-toxic
+
 
 So	0
 ,	0
@@ -233185,6 +233856,7 @@ skanking	I-toxic
 whores	I-toxic
 .	I-toxic
 
+
 Johann	B-toxic
 ,	I-toxic
 you	I-toxic
@@ -233221,9 +233893,16 @@ like	I-toxic
 a	I-toxic
 whipped	I-toxic
 dog	I-toxic
-....	I-toxic
-woof-woof-woof	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.woof	I-toxic
+-woof	I-toxic
+-woof	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 while	I-toxic
 the	I-toxic
 Chinese	I-toxic
@@ -233232,6 +233911,7 @@ into	I-toxic
 our	I-toxic
 faces	I-toxic
 .	I-toxic
+
 
 Only	0
 one	0
@@ -233526,6 +234206,7 @@ sex	I-toxic
 with	I-toxic
 a	I-toxic
 RAT	I-toxic
+
 
 Wow	0
 .	0
@@ -233835,6 +234516,7 @@ wacko	0
 Absolute	B-toxic
 garbage	I-toxic
 .	I-toxic
+
 
 ignorant	B-toxic
 left	0
@@ -234584,6 +235266,7 @@ not	I-toxic
 in	I-toxic
 prison	I-toxic
 ?	I-toxic
+
 
 Go	0
 into	0
@@ -236096,6 +236779,7 @@ kill	I-toxic
 all	I-toxic
 .	I-toxic
 
+
 Good	0
 to	0
 know	0
@@ -236320,10 +237004,9 @@ is	0
 bullshit	B-toxic
 .	0
 
-``	B-toxic
-Bell	I-toxic
-’	I-toxic
-s	I-toxic
+	
+"Bell	B-toxic
+’s	I-toxic
 attorney	I-toxic
 ,	I-toxic
 Jeffrey	I-toxic
@@ -236332,7 +237015,9 @@ Griffith	I-toxic
 said	I-toxic
 Bell	I-toxic
 ,	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 is	I-toxic
 looking	I-toxic
 forward	I-toxic
@@ -236341,7 +237026,7 @@ fighting	I-toxic
 the	I-toxic
 allegations	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 Yeah	I-toxic
 ,	I-toxic
 I	I-toxic
@@ -236353,8 +237038,11 @@ looking	I-toxic
 forward	I-toxic
 to	I-toxic
 it	I-toxic
-.....	I-toxic
-just	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.just	I-toxic
 like	I-toxic
 going	I-toxic
 to	I-toxic
@@ -236371,6 +237059,7 @@ lawyer	I-toxic
 talk	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 Didn	0
 't	0
@@ -236564,6 +237253,7 @@ has	I-toxic
 him	I-toxic
 pegged	I-toxic
 .	I-toxic
+
 
 Idiotic	B-toxic
 remark	0
@@ -238290,7 +238980,8 @@ a	I-toxic
 boor	I-toxic
 .	I-toxic
 Kim	I-toxic
-Jung-un	I-toxic
+Jung	I-toxic
+-un	I-toxic
 is	I-toxic
 a	I-toxic
 maniac	I-toxic
@@ -238300,8 +238991,8 @@ comparing	I-toxic
 Trudeau	I-toxic
 to	I-toxic
 them	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 make	I-toxic
 Trudeau	I-toxic
 better	I-toxic
@@ -238320,7 +239011,8 @@ The	I-toxic
 man	I-toxic
 is	I-toxic
 an	I-toxic
-air-head	I-toxic
+air	I-toxic
+-head	I-toxic
 .	I-toxic
 He	I-toxic
 's	I-toxic
@@ -238353,9 +239045,8 @@ the	I-toxic
 Queen	I-toxic
 and	I-toxic
 her	I-toxic
-``	I-toxic
-hairs	I-toxic
-''	I-toxic
+"hairs	I-toxic
+"	I-toxic
 not	I-toxic
 her	I-toxic
 heirs	I-toxic
@@ -238389,6 +239080,7 @@ Trudeau	I-toxic
 got	I-toxic
 out	I-toxic
 .	I-toxic
+
 
 I	0
 'll	0
@@ -239148,6 +239840,7 @@ fool	I-toxic
 of	I-toxic
 yourself	I-toxic
 .	I-toxic
+
 
 Officer	0
 ,	0
@@ -240545,7 +241238,8 @@ will	I-toxic
 be	I-toxic
 tarred	I-toxic
 and	I-toxic
-duck-feathered	I-toxic
+duck	I-toxic
+-feathered	I-toxic
 for	I-toxic
 the	I-toxic
 stupidity	I-toxic
@@ -240554,12 +241248,13 @@ electing	I-toxic
 these	I-toxic
 brainless	I-toxic
 and	I-toxic
-bat-sh	I-toxic
-*	I-toxic
-t	I-toxic
+bat	I-toxic
+-sh	I-toxic
+*t	I-toxic
 crazy	I-toxic
 blowhards	I-toxic
 .	I-toxic
+
 
 Dear	0
 agent	0
@@ -241335,9 +242030,11 @@ Trump	I-toxic
 is	I-toxic
 going	I-toxic
 to	I-toxic
-piece-meal	I-toxic
+piece	I-toxic
+-meal	I-toxic
 all	I-toxic
 trade	I-toxic
+
 
 we	0
 dont	0
@@ -241862,6 +242559,7 @@ cowardly	I-toxic
 to	I-toxic
 do	I-toxic
 so	I-toxic
+
 
 Trump	0
 has	0
@@ -242938,15 +243636,16 @@ you	0
 playing	0
 ?	0
 
-``	B-toxic
-Quebec	I-toxic
+	
+"Quebec	B-toxic
 is	I-toxic
 an	I-toxic
 almost	I-toxic
 pathologically	I-toxic
 alienated	I-toxic
 and	I-toxic
-low-trust	I-toxic
+low	I-toxic
+-trust	I-toxic
 society	I-toxic
 ,	I-toxic
 deficient	I-toxic
@@ -242960,7 +243659,7 @@ forms	I-toxic
 of	I-toxic
 social	I-toxic
 capital	I-toxic
-''	I-toxic
+"	I-toxic
 ;	I-toxic
 Muslims	I-toxic
 are	I-toxic
@@ -242987,15 +243686,15 @@ boys	I-toxic
 are	I-toxic
 rapists	I-toxic
 ;	I-toxic
-``	I-toxic
-Quebec	I-toxic
+"Quebec	I-toxic
 is	I-toxic
 an	I-toxic
 almost	I-toxic
 pathologically	I-toxic
 alienated	I-toxic
 and	I-toxic
-low-trust	I-toxic
+low	I-toxic
+-trust	I-toxic
 society	I-toxic
 ,	I-toxic
 deficient	I-toxic
@@ -243010,7 +243709,7 @@ of	I-toxic
 social	I-toxic
 capital	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 I	I-toxic
 'm	I-toxic
 not	I-toxic
@@ -243024,6 +243723,7 @@ Potter	I-toxic
 ,	I-toxic
 sorry	I-toxic
 .	I-toxic
+
 
 A	B-toxic
 fool	I-toxic
@@ -244013,6 +244713,7 @@ Impeach	I-toxic
 Trump	I-toxic
 .	I-toxic
 
+
 ahhh	0
 ,	0
 he	0
@@ -244557,6 +245258,7 @@ really	I-toxic
 stupid	I-toxic
 .	I-toxic
 
+
 	
 "Being	0
 stupid	B-toxic
@@ -244716,7 +245418,11 @@ right	I-toxic
 everybody	I-toxic
 else	I-toxic
 stupid	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Who	0
 ever	0
@@ -245545,6 +246251,7 @@ Narcissist	I-toxic
 Hil	I-toxic
 LIARY	I-toxic
 .	I-toxic
+
 
 Gosh	0
 ,	0
@@ -247199,8 +247906,8 @@ beware	I-toxic
 .	I-toxic
 Also	I-toxic
 you	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 trust	I-toxic
 the	I-toxic
 advisor	I-toxic
@@ -247241,8 +247948,9 @@ underwitten	I-toxic
 upfront	I-toxic
 .	I-toxic
 
-``	B-toxic
-He	I-toxic
+
+	
+"He	B-toxic
 is	I-toxic
 just	I-toxic
 here	I-toxic
@@ -247257,11 +247965,10 @@ more	I-toxic
 nothing	I-toxic
 less	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 A	I-toxic
-``	I-toxic
-job	I-toxic
-''	I-toxic
+"job	I-toxic
+"	I-toxic
 that	I-toxic
 he	I-toxic
 is	I-toxic
@@ -247269,7 +247976,8 @@ getting	I-toxic
 paid	I-toxic
 nearly	I-toxic
 $	I-toxic
-20	I-toxic
+2	I-toxic
+0	I-toxic
 Million	I-toxic
 a	I-toxic
 year	I-toxic
@@ -247277,9 +247985,8 @@ to	I-toxic
 do	I-toxic
 .	I-toxic
 A	I-toxic
-``	I-toxic
-job	I-toxic
-''	I-toxic
+"job	I-toxic
+"	I-toxic
 that	I-toxic
 most	I-toxic
 Dominicans	I-toxic
@@ -247297,13 +248004,15 @@ learned	I-toxic
 to	I-toxic
 skate	I-toxic
 .	I-toxic
-B'bye	I-toxic
+B	I-toxic
+'bye	I-toxic
 ,	I-toxic
 bat	I-toxic
 flippin	I-toxic
 '	I-toxic
 LOSER	I-toxic
 !	I-toxic
+
 
 Aren	0
 't	0
@@ -247753,6 +248462,7 @@ country	I-toxic
 Deport	I-toxic
 them	I-toxic
 .	I-toxic
+
 
 We	0
 need	0
@@ -249129,6 +249839,7 @@ you	I-toxic
 the	I-toxic
 fiasco	I-toxic
 
+
 What	0
 an	0
 embarrassing	0
@@ -249453,8 +250164,7 @@ such	I-toxic
 as	I-toxic
 yours	I-toxic
 ?	I-toxic
-``	I-toxic
-It	I-toxic
+"It	I-toxic
 's	I-toxic
 ok	I-toxic
 ,	I-toxic
@@ -249475,13 +250185,15 @@ next	I-toxic
 ten	I-toxic
 years	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 Our	I-toxic
 debt	I-toxic
 is	I-toxic
 already	I-toxic
 over	I-toxic
-100	I-toxic
+1	I-toxic
+0	I-toxic
+0	I-toxic
 %	I-toxic
 of	I-toxic
 our	I-toxic
@@ -249511,6 +250223,7 @@ should	I-toxic
 be	I-toxic
 jailed	I-toxic
 .	I-toxic
+
 
 White	B-toxic
 Supremacist	I-toxic
@@ -250501,13 +251214,11 @@ charges	I-toxic
 of	I-toxic
 plagiarism	I-toxic
 .	I-toxic
-“	I-toxic
-Melania	I-toxic
+“Melania	I-toxic
 Trump	I-toxic
 said	I-toxic
 :	I-toxic
-‘	I-toxic
-The	I-toxic
+‘The	I-toxic
 strength	I-toxic
 of	I-toxic
 your	I-toxic
@@ -250517,20 +251228,19 @@ willingness	I-toxic
 to	I-toxic
 work	I-toxic
 for	I-toxic
-them.	I-toxic
+them	I-toxic
+.	I-toxic
 ’	I-toxic
 Twilight	I-toxic
 Sparkle	I-toxic
 from	I-toxic
-“	I-toxic
-My	I-toxic
+“My	I-toxic
 Little	I-toxic
 Pony	I-toxic
 ”	I-toxic
 said	I-toxic
 :	I-toxic
-‘	I-toxic
-This	I-toxic
+‘This	I-toxic
 is	I-toxic
 your	I-toxic
 dream	I-toxic
@@ -250545,7 +251255,8 @@ dreams	I-toxic
 you	I-toxic
 can	I-toxic
 do	I-toxic
-now.	I-toxic
+now	I-toxic
+.	I-toxic
 ’	I-toxic
 ”	I-toxic
 Why	I-toxic
@@ -250585,7 +251296,8 @@ and	I-toxic
 detracting	I-toxic
 from	I-toxic
 a	I-toxic
-sure-fire	I-toxic
+sure	I-toxic
+-fire	I-toxic
 feel	I-toxic
 good	I-toxic
 moment	I-toxic
@@ -250597,6 +251309,7 @@ a	I-toxic
 good	I-toxic
 idea	I-toxic
 .	I-toxic
+
 
 Is	0
 anybody	0
@@ -250747,14 +251460,14 @@ Civil	0
 War	0
 .	0
 
-``	B-toxic
-How	I-toxic
+	
+"How	B-toxic
 did	I-toxic
 we	I-toxic
 get	I-toxic
 here	I-toxic
 ?	I-toxic
-``	I-toxic
+"	I-toxic
 The	I-toxic
 most	I-toxic
 truthful	I-toxic
@@ -250772,8 +251485,18 @@ Warburg	I-toxic
 's	I-toxic
 writings	I-toxic
 :	I-toxic
-``	I-toxic
-...........	I-toxic
+"	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 incompetent	I-toxic
 ,	I-toxic
 inept	I-toxic
@@ -250800,7 +251523,8 @@ connecting	I-toxic
 the	I-toxic
 dots	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
+
 
 My	0
 inclination	0
@@ -252301,14 +253025,16 @@ boats	0
 too	0
 .	0
 
-``	B-toxic
-lazy	I-toxic
+	
+"lazy	B-toxic
 ,	I-toxic
-job-stealing	I-toxic
+job	I-toxic
+-stealing	I-toxic
 ,	I-toxic
-drug-dealing	I-toxic
+drug	I-toxic
+-dealing	I-toxic
 foreigners	I-toxic
-''	I-toxic
+"	I-toxic
 How	I-toxic
 is	I-toxic
 that	I-toxic
@@ -252325,9 +253051,8 @@ Often	I-toxic
 !	I-toxic
 Ask	I-toxic
 his	I-toxic
-``	I-toxic
-base	I-toxic
-''	I-toxic
+"base	I-toxic
+"	I-toxic
 ,	I-toxic
 that	I-toxic
 's	I-toxic
@@ -252336,6 +253061,7 @@ they	I-toxic
 like	I-toxic
 him	I-toxic
 .	I-toxic
+
 
 Flynn	0
 left	0
@@ -252483,6 +253209,7 @@ and	I-toxic
 insane	I-toxic
 .	I-toxic
 
+
 Hopefully	0
 the	0
 women	0
@@ -252586,6 +253313,7 @@ to	I-toxic
 be	I-toxic
 monitored	I-toxic
 .	I-toxic
+
 
 I	0
 think	0
@@ -252694,7 +253422,9 @@ How	I-toxic
 about	I-toxic
 the	I-toxic
 other	I-toxic
-212	I-toxic
+2	I-toxic
+1	I-toxic
+2	I-toxic
 Trump	I-toxic
 lies	I-toxic
 with	I-toxic
@@ -252714,6 +253444,7 @@ greatest	I-toxic
 con	I-toxic
 man	I-toxic
 ?	I-toxic
+
 
 is	0
 it	0
@@ -252923,6 +253654,7 @@ will	I-toxic
 be	I-toxic
 dead	I-toxic
 right	I-toxic
+
 
 Two	0
 dumbs	B-toxic
@@ -254794,8 +255526,8 @@ instance	I-toxic
 ,	I-toxic
 Steve	I-toxic
 Martin	I-toxic
-could	I-toxic
-n't	I-toxic
+couldn	I-toxic
+'t	I-toxic
 even	I-toxic
 call	I-toxic
 his	I-toxic
@@ -254837,9 +255569,8 @@ be	I-toxic
 because	I-toxic
 it	I-toxic
 's	I-toxic
-``	I-toxic
-uncivil	I-toxic
-''	I-toxic
+"uncivil	I-toxic
+"	I-toxic
 not	I-toxic
 because	I-toxic
 the	I-toxic
@@ -254848,8 +255579,8 @@ that	I-toxic
 camp	I-toxic
 out	I-toxic
 here	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 like	I-toxic
 it	I-toxic
 .	I-toxic
@@ -254857,6 +255588,7 @@ That	I-toxic
 's	I-toxic
 ridiculous	I-toxic
 !	I-toxic
+
 
 you	0
 forgot	0
@@ -254944,6 +255676,7 @@ a	I-toxic
 sanctimonious	I-toxic
 jerk	I-toxic
 !	I-toxic
+
 
 What	0
 kind	0
@@ -255539,14 +256272,14 @@ you	0
 are	0
 .	0
 
-``	B-toxic
-Trump	I-toxic
+	
+"Trump	B-toxic
 is	I-toxic
 stupid	I-toxic
 and	I-toxic
 reckless	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 More	I-toxic
 true	I-toxic
 words	I-toxic
@@ -255554,6 +256287,7 @@ were	I-toxic
 never	I-toxic
 spoken	I-toxic
 .	I-toxic
+
 
 These	0
 blacks	B-toxic
@@ -255620,6 +256354,7 @@ Islamic	I-toxic
 Terrorists	I-toxic
 !	I-toxic
 
+
 Stupid	B-toxic
 comment	0
 
@@ -255679,6 +256414,7 @@ as	I-toxic
 he	I-toxic
 is	I-toxic
 .	I-toxic
+
 
 then	0
 you	0
@@ -256385,6 +257121,7 @@ earth	I-toxic
 will	I-toxic
 be	I-toxic
 .	I-toxic
+
 
 Texas	0
 gets	0
@@ -257643,6 +258380,7 @@ the	I-toxic
 better	I-toxic
 .	I-toxic
 
+
 God	B-toxic
 these	I-toxic
 women	I-toxic
@@ -257651,9 +258389,10 @@ starting	I-toxic
 to	I-toxic
 piss	I-toxic
 me	I-toxic
-off.They	I-toxic
-do	I-toxic
-n't	I-toxic
+off	I-toxic
+.They	I-toxic
+don	I-toxic
+'t	I-toxic
 like	I-toxic
 freedom	I-toxic
 of	I-toxic
@@ -257664,8 +258403,7 @@ hurts	I-toxic
 their	I-toxic
 feelings	I-toxic
 and	I-toxic
-can	I-toxic
-not	I-toxic
+cannot	I-toxic
 get	I-toxic
 over	I-toxic
 who	I-toxic
@@ -257674,8 +258412,8 @@ the	I-toxic
 election	I-toxic
 so	I-toxic
 they	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 believe	I-toxic
 in	I-toxic
 democracy	I-toxic
@@ -257688,8 +258426,10 @@ call	I-toxic
 them	I-toxic
 what	I-toxic
 they	I-toxic
-are.Leftist	I-toxic
-self-entitled	I-toxic
+are	I-toxic
+.Leftist	I-toxic
+self	I-toxic
+-entitled	I-toxic
 whiners	I-toxic
 .	I-toxic
 Thye	I-toxic
@@ -257714,6 +258454,7 @@ say	I-toxic
 she	I-toxic
 was	I-toxic
 attacked	I-toxic
+
 
 Quinn	0
 Bennett	0
@@ -257842,6 +258583,7 @@ a	I-toxic
 living	I-toxic
 hell	I-toxic
 .	I-toxic
+
 
 Police	0
 Chief	0
@@ -258066,6 +258808,7 @@ because	I-toxic
 of	I-toxic
 stupidity	I-toxic
 .	I-toxic
+
 
 Trump	0
 is	0
@@ -259084,7 +259827,8 @@ that	I-toxic
 reeks	I-toxic
 of	I-toxic
 an	I-toxic
-anti-Israel	I-toxic
+anti	I-toxic
+-Israel	I-toxic
 bias	I-toxic
 .	I-toxic
 Hamas	I-toxic
@@ -259113,8 +259857,7 @@ east	I-toxic
 how	I-toxic
 is	I-toxic
 Israel	I-toxic
-(	I-toxic
-even	I-toxic
+(even	I-toxic
 the	I-toxic
 progressives	I-toxic
 in	I-toxic
@@ -259146,7 +259889,8 @@ a	I-toxic
 terrorist	I-toxic
 haven	I-toxic
 for	I-toxic
-pig-headed	I-toxic
+pig	I-toxic
+-headed	I-toxic
 Islamist	I-toxic
 terrorists	I-toxic
 and	I-toxic
@@ -259181,8 +259925,8 @@ the	I-toxic
 grocery	I-toxic
 store	I-toxic
 ,	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 be	I-toxic
 surprised	I-toxic
 by	I-toxic
@@ -259200,7 +259944,8 @@ further	I-toxic
 demonstrates	I-toxic
 an	I-toxic
 unapologetic	I-toxic
-narrow-minded	I-toxic
+narrow	I-toxic
+-minded	I-toxic
 stupidity	I-toxic
 -	I-toxic
 thought	I-toxic
@@ -259220,14 +259965,15 @@ to	I-toxic
 a	I-toxic
 song	I-toxic
 with	I-toxic
-``	I-toxic
-Happy	I-toxic
+"Happy	I-toxic
 !	I-toxic
-''	I-toxic
+"	I-toxic
 as	I-toxic
 the	I-toxic
 chorus	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 look	I-toxic
 at	I-toxic
 all	I-toxic
@@ -259249,6 +259995,7 @@ you	I-toxic
 ignorant	I-toxic
 clown	I-toxic
 .	I-toxic
+
 
 Stupid	B-toxic
 hatcheries	0
@@ -259791,6 +260538,7 @@ toilet	I-toxic
 paper	I-toxic
 .	I-toxic
 
+
 Jerk	B-toxic
 off	I-toxic
 below	I-toxic
@@ -260186,8 +260934,8 @@ children	0
 .	0
 
 You	B-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 go	I-toxic
 to	I-toxic
 men	I-toxic
@@ -260213,6 +260961,7 @@ Am	I-toxic
 I	I-toxic
 wrong	I-toxic
 ?	I-toxic
+
 
 The	0
 USA	0
@@ -261123,11 +261872,12 @@ soil	I-toxic
 .	I-toxic
 And	I-toxic
 please	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 come	I-toxic
 back	I-toxic
 .	I-toxic
+
 
 Who	0
 the	0
@@ -261295,7 +262045,10 @@ for	I-toxic
 survival	I-toxic
 since	I-toxic
 the	I-toxic
-1605	I-toxic
+1	I-toxic
+6	I-toxic
+0	I-toxic
+5	I-toxic
 '	I-toxic
 .	I-toxic
 Who	I-toxic
@@ -261314,8 +262067,8 @@ about	I-toxic
 it	I-toxic
 ,	I-toxic
 why	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 we	I-toxic
 tote	I-toxic
 up	I-toxic
@@ -261363,6 +262116,7 @@ monstrosity	I-toxic
 like	I-toxic
 you	I-toxic
 .	I-toxic
+
 
 FUCK	B-toxic
 THEM	0
@@ -263505,7 +264259,8 @@ mex	I-toxic
 out	I-toxic
 .	I-toxic
 To	I-toxic
-H.	I-toxic
+H	I-toxic
+.	I-toxic
 with	I-toxic
 any	I-toxic
 of	I-toxic
@@ -263520,7 +264275,8 @@ execute	I-toxic
 the	I-toxic
 works	I-toxic
 .	I-toxic
-It's	I-toxic
+It	I-toxic
+'s	I-toxic
 time	I-toxic
 the	I-toxic
 White	I-toxic
@@ -263562,6 +264318,7 @@ fair	I-toxic
 play	I-toxic
 .	I-toxic
 
+
 Yeah	B-toxic
 it	I-toxic
 's	I-toxic
@@ -263572,10 +264329,8 @@ to	I-toxic
 make	I-toxic
 white	I-toxic
 people	I-toxic
-,	I-toxic
-fat	I-toxic
-,	I-toxic
-dumb	I-toxic
+,fat	I-toxic
+,dumb	I-toxic
 and	I-toxic
 lazy	I-toxic
 .	I-toxic
@@ -263583,6 +264338,7 @@ It	I-toxic
 's	I-toxic
 working	I-toxic
 !	I-toxic
+
 
 A	0
 pot	0
@@ -265170,6 +265926,7 @@ running	I-toxic
 Canada	I-toxic
 .	I-toxic
 
+
 Shaggy	0
 's	0
 older	0
@@ -265312,6 +266069,7 @@ those	I-toxic
 damn	I-toxic
 bugs	I-toxic
 !	I-toxic
+
 
 What	0
 the	0
@@ -265509,6 +266267,7 @@ grown	I-toxic
 up	I-toxic
 .	I-toxic
 
+
 Tillerson	0
 is	0
 the	0
@@ -265564,7 +266323,8 @@ and	I-toxic
 among	I-toxic
 other	I-toxic
 ANC	I-toxic
-trough-snouters	I-toxic
+trough	I-toxic
+-snouters	I-toxic
 must	I-toxic
 be	I-toxic
 hunted	I-toxic
@@ -265641,8 +266401,8 @@ their	I-toxic
 disgraceful	I-toxic
 driving	I-toxic
 attitudes	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 make	I-toxic
 many	I-toxic
 of	I-toxic
@@ -265655,6 +266415,7 @@ cause	I-toxic
 ,	I-toxic
 either	I-toxic
 .	I-toxic
+
 
 The	0
 Alberta	0
@@ -266799,9 +267560,11 @@ hypocrital	I-toxic
 ,	I-toxic
 lying	I-toxic
 ,	I-toxic
-religious-nut	I-toxic
+religious	I-toxic
+-nut	I-toxic
 wing	I-toxic
-man-back	I-toxic
+man	I-toxic
+-back	I-toxic
 out	I-toxic
 of	I-toxic
 every	I-toxic
@@ -266840,8 +267603,8 @@ from	I-toxic
 again	I-toxic
 .	I-toxic
 They	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 deserve	I-toxic
 any	I-toxic
 respect	I-toxic
@@ -266862,6 +267625,7 @@ any	I-toxic
 real	I-toxic
 American	I-toxic
 .	I-toxic
+
 
 And	0
 the	0
@@ -266971,6 +267735,7 @@ of	I-toxic
 the	I-toxic
 choices	I-toxic
 .	I-toxic
+
 
 hey	0
 !	0
@@ -267567,6 +268332,7 @@ help	0
 us	0
 .	0
 
+	
 'rhetorical	B-toxic
 hyperbole	I-toxic
 '	I-toxic
@@ -267610,7 +268376,10 @@ deforested	I-toxic
 that	I-toxic
 wouldnt	I-toxic
 happen	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 would	I-toxic
 it	I-toxic
 ?	I-toxic
@@ -267646,7 +268415,11 @@ taking	I-toxic
 care	I-toxic
 of	I-toxic
 business	I-toxic
-.....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 I	I-toxic
 wont	I-toxic
 hold	I-toxic
@@ -267662,7 +268435,12 @@ hoaxers	I-toxic
 on	I-toxic
 this	I-toxic
 one	I-toxic
-......	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 but	I-toxic
 continue	I-toxic
 to	I-toxic
@@ -267680,6 +268458,7 @@ in	I-toxic
 on	I-toxic
 radical	I-toxic
 green	I-toxic
+
 
 Because	0
 we	0
@@ -267974,8 +268753,8 @@ ways	0
 .	0
 
 Terrorists	B-toxic
-did	I-toxic
-n't	I-toxic
+didn	I-toxic
+'t	I-toxic
 round	I-toxic
 up	I-toxic
 the	I-toxic
@@ -267998,6 +268777,7 @@ crap	I-toxic
 ,	I-toxic
 too	I-toxic
 .	I-toxic
+
 
 Jesus	0
 wept	0
@@ -268261,6 +269041,7 @@ and	I-toxic
 all	I-toxic
 criticism	I-toxic
 .	I-toxic
+
 
 This	0
 is	0
@@ -268569,8 +269350,12 @@ white	0
 Play	B-toxic
 stupid	I-toxic
 games	I-toxic
-......	I-toxic
-win	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.win	I-toxic
 stupid	I-toxic
 prizes	I-toxic
 .	I-toxic
@@ -268617,6 +269402,7 @@ across	I-toxic
 the	I-toxic
 nation	I-toxic
 .	I-toxic
+
 
 the	0
 mayor	0
@@ -269353,6 +270139,7 @@ for	I-toxic
 herself	I-toxic
 ?	I-toxic
 
+
 Charles	0
 ,	0
 How	0
@@ -270046,6 +270833,7 @@ BITCH	I-toxic
 IS	I-toxic
 !	I-toxic
 
+
 Yep	0
 ,	0
 sounds	0
@@ -270186,6 +270974,7 @@ a	I-toxic
 sick	I-toxic
 country	I-toxic
 .	I-toxic
+
 
 Leave	0
 the	0
@@ -270659,9 +271448,11 @@ are	I-toxic
 not	I-toxic
 treasonous	I-toxic
 traitorous	I-toxic
-anti-American	I-toxic
+anti	I-toxic
+-American	I-toxic
 scum	I-toxic
 ?	I-toxic
+
 
 So	0
 only	0
@@ -270693,8 +271484,8 @@ imbecile	B-toxic
 
 Tough	B-toxic
 guy	I-toxic
-was	I-toxic
-n't	I-toxic
+wasn	I-toxic
+'t	I-toxic
 so	I-toxic
 tough	I-toxic
 when	I-toxic
@@ -270730,6 +271521,7 @@ maybe	I-toxic
 hang	I-toxic
 yourself	I-toxic
 .	I-toxic
+
 
 atilter	0
 >	0
@@ -270967,6 +271759,7 @@ be	I-toxic
 a	I-toxic
 bigot	I-toxic
 .	I-toxic
+
 
 You	0
 lost	0
@@ -271553,6 +272346,7 @@ poor	I-toxic
 loser	I-toxic
 .	I-toxic
 
+
 And	B-toxic
 if	I-toxic
 you	I-toxic
@@ -271581,6 +272375,7 @@ face	I-toxic
 of	I-toxic
 the	I-toxic
 planet	I-toxic
+
 
 Pathetic	B-toxic
 weasel	I-toxic
@@ -275300,6 +276095,7 @@ the	I-toxic
 trough	I-toxic
 .	I-toxic
 
+
 So	0
 Alt	0
 -right	0
@@ -275522,6 +276318,7 @@ No	I-toxic
 surprise	I-toxic
 there	I-toxic
 .	I-toxic
+
 
 I	0
 always	0
@@ -276297,6 +277094,7 @@ Brown	I-toxic
 woman	I-toxic
 ?	I-toxic
 
+
 That	0
 's	0
 because	0
@@ -276572,15 +277370,15 @@ up	0
 first	0
 .	0
 
-``	B-toxic
-This	I-toxic
+	
+"This	B-toxic
 was	I-toxic
 the	I-toxic
 home	I-toxic
 run	I-toxic
 Trump	I-toxic
 promised	I-toxic
-''	I-toxic
+"	I-toxic
 You	I-toxic
 might	I-toxic
 be	I-toxic
@@ -276607,6 +277405,7 @@ most	I-toxic
 foul	I-toxic
 balls	I-toxic
 .	I-toxic
+
 
 imagine	0
 if	0
@@ -277687,12 +278486,14 @@ display	I-toxic
 in	I-toxic
 my	I-toxic
 top	I-toxic
-10	I-toxic
+1	I-toxic
+0	I-toxic
 was	I-toxic
 also	I-toxic
 from	I-toxic
 donald	I-toxic
-j.	I-toxic
+j	I-toxic
+.	I-toxic
 trump	I-toxic
 .	I-toxic
 He	I-toxic
@@ -277706,6 +278507,7 @@ horrible	I-toxic
 human	I-toxic
 being	I-toxic
 .	I-toxic
+
 
 You	0
 said	0
@@ -278287,8 +279089,8 @@ I	0
 guess	0
 .	0
 
-``	B-toxic
-Kill	I-toxic
+	
+"Kill	B-toxic
 them	I-toxic
 all	I-toxic
 .	I-toxic
@@ -278307,10 +279109,10 @@ Kill	I-toxic
 them	I-toxic
 all	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 I	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 recall	I-toxic
 ,	I-toxic
 is	I-toxic
@@ -278320,6 +279122,7 @@ Mark	I-toxic
 or	I-toxic
 Matthew	I-toxic
 ?	I-toxic
+
 
 What	0
 a	0
@@ -279130,6 +279933,7 @@ the	I-toxic
 cowardly	I-toxic
 muslim	I-toxic
 
+
 you	0
 would	0
 not	0
@@ -279195,7 +279999,8 @@ almost	I-toxic
 no	I-toxic
 one	I-toxic
 mentions	I-toxic
-Sen.	I-toxic
+Sen	I-toxic
+.	I-toxic
 John	I-toxic
 McCain	I-toxic
 hands	I-toxic
@@ -279253,8 +280058,8 @@ he	I-toxic
 read	I-toxic
 it	I-toxic
 .	I-toxic
-Do	I-toxic
-n't	I-toxic
+Don	I-toxic
+'t	I-toxic
 you	I-toxic
 ?	I-toxic
 .	I-toxic
@@ -279310,6 +280115,7 @@ SWAMP	I-toxic
 !	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 He	0
 wants	0
@@ -280207,8 +281013,11 @@ criticized	0
 .	0
 
 Pathetic	B-toxic
-.....	I-toxic
-another	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.another	I-toxic
 loser	I-toxic
 season	I-toxic
 for	I-toxic
@@ -280216,7 +281025,8 @@ the	I-toxic
 loser	I-toxic
 Nuggets	I-toxic
 .	I-toxic
-Kronke/McConnelly	I-toxic
+Kronke	I-toxic
+/McConnelly	I-toxic
 and	I-toxic
 Malone	I-toxic
 all	I-toxic
@@ -280224,6 +281034,7 @@ need	I-toxic
 to	I-toxic
 go	I-toxic
 .	I-toxic
+
 
 I	0
 hope	0
@@ -280281,7 +281092,9 @@ trash	B-toxic
 .	0
 
 MOOOOOOOOOOOOOOOOOOOOOOooooooooooooooooooooooooooooo	B-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 out	I-toxic
 of	I-toxic
 the	I-toxic
@@ -280304,6 +281117,7 @@ Your	I-toxic
 Airline	I-toxic
 ,	I-toxic
 Delta	I-toxic
+
 
 Trump	0
 is	0
@@ -281221,8 +282035,8 @@ class	0
 .	0
 
 Strange	B-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 good	I-toxic
 enough	I-toxic
 for	I-toxic
@@ -281233,7 +282047,8 @@ he	I-toxic
 's	I-toxic
 just	I-toxic
 a	I-toxic
-down-home	I-toxic
+down	I-toxic
+-home	I-toxic
 racist	I-toxic
 tool	I-toxic
 of	I-toxic
@@ -281258,10 +282073,12 @@ nationalist	I-toxic
 ,	I-toxic
 but	I-toxic
 a	I-toxic
-down-home	I-toxic
+down	I-toxic
+-home	I-toxic
 ignorant	I-toxic
 bible	I-toxic
 thumper	I-toxic
+
 
 I	0
 am	0
@@ -282107,10 +282924,8 @@ front	I-toxic
 page	I-toxic
 of	I-toxic
 the	I-toxic
-``	I-toxic
-news	I-toxic
-''	I-toxic
-paper	I-toxic
+"news	I-toxic
+"paper	I-toxic
 speaks	I-toxic
 volumes	I-toxic
 to	I-toxic
@@ -282126,9 +282941,11 @@ fat	I-toxic
 ,	I-toxic
 stupid	I-toxic
 ,	I-toxic
-and/or	I-toxic
+and	I-toxic
+/or	I-toxic
 lazy	I-toxic
 .	I-toxic
+
 
 I	0
 see	0
@@ -282569,6 +283386,7 @@ and	I-toxic
 Climate	I-toxic
 Change	I-toxic
 .	I-toxic
+
 
 Wow	0
 ,	0
@@ -283033,6 +283851,7 @@ others	I-toxic
 clowns	I-toxic
 .	I-toxic
 
+
 What	0
 an	0
 absolute	0
@@ -283250,8 +284069,8 @@ over	0
 ?	0
 ?	0
 
-``	B-toxic
-Trump	I-toxic
+	
+"Trump	B-toxic
 responded	I-toxic
 by	I-toxic
 saying	I-toxic
@@ -283282,13 +284101,14 @@ have	I-toxic
 been	I-toxic
 armed	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 Trump	I-toxic
 and	I-toxic
 his	I-toxic
 slobbering	I-toxic
 ,	I-toxic
-mouth-breathing	I-toxic
+mouth	I-toxic
+-breathing	I-toxic
 fans	I-toxic
 are	I-toxic
 absolute	I-toxic
@@ -283296,6 +284116,7 @@ ignorant	I-toxic
 human	I-toxic
 trash	I-toxic
 .	I-toxic
+
 
 We	0
 all	0
@@ -285347,7 +286168,13 @@ home	I-toxic
 taxed	I-toxic
 at	I-toxic
 $	I-toxic
-300,000	I-toxic
+3	I-toxic
+0	I-toxic
+0	I-toxic
+,	I-toxic
+0	I-toxic
+0	I-toxic
+0	I-toxic
 .	I-toxic
 The	I-toxic
 squatters	I-toxic
@@ -285372,8 +286199,7 @@ the	I-toxic
 squatter	I-toxic
 in	I-toxic
 charge	I-toxic
-(	I-toxic
-Eric	I-toxic
+(Eric	I-toxic
 )	I-toxic
 is	I-toxic
 making	I-toxic
@@ -285400,8 +286226,7 @@ not	I-toxic
 pay	I-toxic
 bed	I-toxic
 tax	I-toxic
-(	I-toxic
-this	I-toxic
+(this	I-toxic
 tax	I-toxic
 collection	I-toxic
 is	I-toxic
@@ -285433,6 +286258,7 @@ bunch	I-toxic
 of	I-toxic
 jerks	I-toxic
 .	I-toxic
+
 
 One	0
 thing	0
@@ -286988,8 +287814,9 @@ he	I-toxic
 opens	I-toxic
 his	I-toxic
 mouth	I-toxic
-...	I-toxic
-still	I-toxic
+.	I-toxic
+.	I-toxic
+.still	I-toxic
 a	I-toxic
 much	I-toxic
 better	I-toxic
@@ -287009,6 +287836,7 @@ has	I-toxic
 come	I-toxic
 to	I-toxic
 .	I-toxic
+
 
 You	0
 would	0
@@ -289335,6 +290163,7 @@ this	I-toxic
 crap	I-toxic
 .	I-toxic
 
+
 Why	0
 oh	0
 Why	0
@@ -289900,6 +290729,7 @@ leftist	I-toxic
 garbage	I-toxic
 .	I-toxic
 
+
 Too	0
 dumb	B-toxic
 for	0
@@ -290066,7 +290896,8 @@ as	I-toxic
 the	I-toxic
 nice	I-toxic
 ,	I-toxic
-mild-mannered	I-toxic
+mild	I-toxic
+-mannered	I-toxic
 ,	I-toxic
 Black	I-toxic
 guy	I-toxic
@@ -290141,6 +290972,7 @@ of	I-toxic
 the	I-toxic
 world	I-toxic
 .	I-toxic
+
 
 Trump	0
 is	0
@@ -291570,6 +292402,7 @@ You	I-toxic
 are	I-toxic
 shamed	I-toxic
 
+
 The	0
 Trump	0
 campaign	0
@@ -292981,6 +293814,7 @@ his	I-toxic
 truck	I-toxic
 .	I-toxic
 
+
 stale	0
 ?	0
 tedious	0
@@ -294097,6 +294931,7 @@ at	I-toxic
 all	I-toxic
 ?	I-toxic
 
+
 Deaths	0
 like	0
 this	0
@@ -295017,6 +295852,7 @@ trash	I-toxic
 parents	I-toxic
 .	I-toxic
 
+
 Many	0
 African	0
 nations	0
@@ -295612,6 +296448,7 @@ at	I-toxic
 worst	I-toxic
 .	I-toxic
 
+
 Like	0
 your	0
 own	0
@@ -295808,11 +296645,10 @@ this	I-toxic
 flea	I-toxic
 bitten	I-toxic
 fool	I-toxic
-could	I-toxic
-n't	I-toxic
-``	I-toxic
-impeach	I-toxic
-''	I-toxic
+couldn	I-toxic
+'t	I-toxic
+"impeach	I-toxic
+"	I-toxic
 a	I-toxic
 turd	I-toxic
 out	I-toxic
@@ -295821,6 +296657,7 @@ his	I-toxic
 narrow	I-toxic
 butt	I-toxic
 !	I-toxic
+
 
 Want	0
 me	0
@@ -296106,7 +296943,8 @@ C	I-toxic
 We	I-toxic
 have	I-toxic
 seen	I-toxic
-zip/nada	I-toxic
+zip	I-toxic
+/nada	I-toxic
 from	I-toxic
 them	I-toxic
 other	I-toxic
@@ -296115,11 +296953,10 @@ Mitch	I-toxic
 saying	I-toxic
 governing	I-toxic
 is	I-toxic
-``	I-toxic
-really	I-toxic
+"really	I-toxic
 really	I-toxic
 hard	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 Suck	I-toxic
 it	I-toxic
@@ -296134,6 +296971,7 @@ idiots	I-toxic
 ran	I-toxic
 on	I-toxic
 !	I-toxic
+
 
 you	0
 're	0
@@ -297064,6 +297902,7 @@ an	I-toxic
 authoritarian	I-toxic
 male	I-toxic
 .	I-toxic
+
 
 	
 "Neo	0
@@ -299519,8 +300358,10 @@ of	0
 No	B-toxic
 surprise	I-toxic
 here	I-toxic
-....	I-toxic
-these	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.these	I-toxic
 young	I-toxic
 clowns	I-toxic
 driving	I-toxic
@@ -299534,8 +300375,8 @@ and	I-toxic
 dangerous	I-toxic
 .	I-toxic
 Cops	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 seem	I-toxic
 to	I-toxic
 ever	I-toxic
@@ -299593,6 +300434,7 @@ for	I-toxic
 speeding	I-toxic
 .	I-toxic
 
+
 Oh	0
 ,	0
 gay	B-toxic
@@ -299624,7 +300466,10 @@ not	0
 sure	0
 .	0
 
-...	B-toxic
+	
+.	B-toxic
+.	I-toxic
+.	I-toxic
 you	I-toxic
 have	I-toxic
 to	I-toxic
@@ -299634,8 +300479,8 @@ mind	I-toxic
 Cheetolini	I-toxic
 supporters	I-toxic
 really	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 WANT	I-toxic
 a	I-toxic
 world	I-toxic
@@ -299677,12 +300522,11 @@ this	I-toxic
 notalent	I-toxic
 @	I-toxic
 $	I-toxic
-$	I-toxic
-clown	I-toxic
+$clown	I-toxic
 .	I-toxic
 LEADERSHIP	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 why	I-toxic
 they	I-toxic
 hired	I-toxic
@@ -299701,7 +300545,10 @@ POINT	I-toxic
 RIDICULE	I-toxic
 ,	I-toxic
 ETC	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+
 
 Time	B-toxic
 to	I-toxic
@@ -300352,8 +301199,8 @@ misery	0
 .	0
 
 And	B-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 forget	I-toxic
 the	I-toxic
 pandering	I-toxic
@@ -300376,6 +301223,7 @@ forget	I-toxic
 about	I-toxic
 that	I-toxic
 .	I-toxic
+
 
 Ohhh	0
 Margy	0
@@ -300711,6 +301559,7 @@ on	I-toxic
 ebay	I-toxic
 .	I-toxic
 
+
 These	0
 people	0
 are	0
@@ -300777,6 +301626,7 @@ whites	I-toxic
 in	I-toxic
 disguise	I-toxic
 .	I-toxic
+
 
 You	0
 must	0
@@ -303230,7 +304080,10 @@ You	I-toxic
 comparing	I-toxic
 this	I-toxic
 to	I-toxic
-1940	I-toxic
+1	I-toxic
+9	I-toxic
+4	I-toxic
+0	I-toxic
 Germany	I-toxic
 is	I-toxic
 insulating	I-toxic
@@ -303268,6 +304121,7 @@ a	I-toxic
 mental	I-toxic
 case	I-toxic
 .	I-toxic
+
 
 Is	0
 there	0
@@ -304384,6 +305238,7 @@ of	I-toxic
 garbage	I-toxic
 .	I-toxic
 
+
 Good	0
 .	0
 Go	0
@@ -304911,6 +305766,7 @@ stands	I-toxic
 Flagged	I-toxic
 .	I-toxic
 
+
 Can	0
 't	0
 fix	0
@@ -304984,8 +305840,8 @@ game	I-toxic
 .	I-toxic
 If	I-toxic
 you	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 know	I-toxic
 who	I-toxic
 is	I-toxic
@@ -304995,6 +305851,7 @@ it	I-toxic
 's	I-toxic
 you	I-toxic
 .	I-toxic
+
 
 	
 "At	0
@@ -307626,6 +308483,7 @@ the	I-toxic
 dumbo	I-toxic
 ,	I-toxic
 
+
 We	0
 don	0
 't	0
@@ -307832,9 +308690,10 @@ be	I-toxic
 used	I-toxic
 to	I-toxic
 deter	I-toxic
-people.You	I-toxic
-ca	I-toxic
-n't	I-toxic
+people	I-toxic
+.You	I-toxic
+can	I-toxic
+'t	I-toxic
 talk	I-toxic
 common	I-toxic
 sense	I-toxic
@@ -307847,17 +308706,15 @@ they	I-toxic
 know	I-toxic
 what	I-toxic
 they	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 like	I-toxic
-(	I-toxic
-getting	I-toxic
+(getting	I-toxic
 wet	I-toxic
-)	I-toxic
-but	I-toxic
+)but	I-toxic
 cats	I-toxic
-would	I-toxic
-n't	I-toxic
+wouldn	I-toxic
+'t	I-toxic
 take	I-toxic
 a	I-toxic
 golf	I-toxic
@@ -307924,8 +308781,8 @@ by	I-toxic
 law	I-toxic
 enforcement	I-toxic
 .	I-toxic
-Does	I-toxic
-n't	I-toxic
+Doesn	I-toxic
+'t	I-toxic
 matter	I-toxic
 if	I-toxic
 they	I-toxic
@@ -307937,8 +308794,8 @@ idiot	I-toxic
 Trump	I-toxic
 .	I-toxic
 This	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 really	I-toxic
 a	I-toxic
 City	I-toxic
@@ -307952,7 +308809,8 @@ It	I-toxic
 a	I-toxic
 behavioral	I-toxic
 issue	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 a	I-toxic
 societal	I-toxic
 concern	I-toxic
@@ -308008,6 +308866,7 @@ right	I-toxic
 from	I-toxic
 wrong	I-toxic
 .	I-toxic
+
 
 Hey	0
 K	0
@@ -308609,7 +309468,9 @@ trouble	I-toxic
 Just	I-toxic
 like	I-toxic
 the	I-toxic
-U.S.	I-toxic
+U	I-toxic
+.S	I-toxic
+.	I-toxic
 and	I-toxic
 other	I-toxic
 countries	I-toxic
@@ -308641,6 +309502,7 @@ fault	I-toxic
 with	I-toxic
 that	I-toxic
 .	I-toxic
+
 
 Shoot	B-toxic
 them	I-toxic
@@ -309519,6 +310381,7 @@ subsidy	I-toxic
 hog	I-toxic
 .	I-toxic
 
+
 Do	0
 you	0
 deny	0
@@ -309621,8 +310484,8 @@ it	0
 goes	0
 ?	0
 
-Would	B-toxic
-n't	I-toxic
+Wouldn	B-toxic
+'t	I-toxic
 know	I-toxic
 anything	I-toxic
 about	I-toxic
@@ -309643,6 +310506,7 @@ and	I-toxic
 tiny	I-toxic
 minds	I-toxic
 ?	I-toxic
+
 
 creating	0
 additional	0
@@ -310888,6 +311752,7 @@ Lying	I-toxic
 Pig	I-toxic
 .	I-toxic
 
+
 The	0
 writer	0
 isn	0
@@ -310949,6 +311814,7 @@ up	I-toxic
 shit	I-toxic
 creek	I-toxic
 .	I-toxic
+
 
 So	0
 you	0
@@ -311480,6 +312346,7 @@ lib	I-toxic
 troll	I-toxic
 you	I-toxic
 are	I-toxic
+
 
 ebonyeyes	0
 :	0
@@ -312996,6 +313863,7 @@ Commie	B-toxic
 suck	I-toxic
 up	I-toxic
 
+
 Sleeping,	B-toxic
 suicide	I-toxic
 or	I-toxic
@@ -313192,6 +314060,7 @@ are	I-toxic
 currently	I-toxic
 doing	I-toxic
 .	I-toxic
+
 
 Boy	0
 ,	0
@@ -314187,6 +315056,7 @@ will	I-toxic
 protect	I-toxic
 you	I-toxic
 .	I-toxic
+
 
 We	0
 are	0
@@ -316975,6 +317845,7 @@ economic	I-toxic
 stupidity	I-toxic
 .	I-toxic
 
+
 Blaming	0
 liberal	0
 commenters	0
@@ -317246,8 +318117,8 @@ maker	I-toxic
 &	I-toxic
 louder	I-toxic
 
-``	B-toxic
-I	I-toxic
+	
+"I	B-toxic
 'm	I-toxic
 really	I-toxic
 getting	I-toxic
@@ -317255,11 +318126,12 @@ tired	I-toxic
 of	I-toxic
 this	I-toxic
 constant	I-toxic
-anti-Trump	I-toxic
+anti	I-toxic
+-Trump	I-toxic
 media	I-toxic
 hysteria	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 Uh	I-toxic
 ,	I-toxic
 maybe	I-toxic
@@ -317298,6 +318170,7 @@ dark	I-toxic
 ,	I-toxic
 boomer	I-toxic
 .	I-toxic
+
 
 Damn	B-toxic
 ,	0
@@ -317691,8 +318564,7 @@ p	I-toxic
 *	I-toxic
 *	I-toxic
 *	I-toxic
-*	I-toxic
-s	I-toxic
+*s	I-toxic
 to	I-toxic
 be	I-toxic
 groped	I-toxic
@@ -317736,6 +318608,7 @@ subject	I-toxic
 Duly	I-toxic
 noted	I-toxic
 .	I-toxic
+
 
 These	B-toxic
 punks	I-toxic
@@ -317835,6 +318708,7 @@ men	I-toxic
 can	I-toxic
 rot	I-toxic
 .	I-toxic
+
 
 Chomsky	0
 playing	0
@@ -317995,8 +318869,8 @@ punks	I-toxic
 assault	I-toxic
 you	I-toxic
 ,	I-toxic
-do	I-toxic
-n't	I-toxic
+don	I-toxic
+'t	I-toxic
 complain	I-toxic
 ,	I-toxic
 just	I-toxic
@@ -318010,6 +318884,7 @@ load	I-toxic
 of	I-toxic
 shit	I-toxic
 .	I-toxic
+
 
 None	0
 of	0
@@ -319458,6 +320333,7 @@ is	I-toxic
 useless	I-toxic
 .	I-toxic
 
+
 The	0
 Mat	0
 -Su	0
@@ -320311,6 +321187,7 @@ the	I-toxic
 road	I-toxic
 .	I-toxic
 
+
 	
 "	0
 .	0
@@ -320422,7 +321299,9 @@ tax	I-toxic
 goes	I-toxic
 up	I-toxic
 $	I-toxic
-300	I-toxic
+3	I-toxic
+0	I-toxic
+0	I-toxic
 even	I-toxic
 WITHOUT	I-toxic
 another	I-toxic
@@ -320433,8 +321312,8 @@ being	I-toxic
 passed	I-toxic
 ,	I-toxic
 that	I-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 end	I-toxic
 well	I-toxic
 for	I-toxic
@@ -320553,6 +321432,7 @@ world	I-toxic
 my	I-toxic
 ass	I-toxic
 .	I-toxic
+
 
 Three	0
 times	0
@@ -321954,6 +322834,7 @@ bomb	I-toxic
 bozo	I-toxic
 .	I-toxic
 
+
 Are	0
 there	0
 really	0
@@ -322546,6 +323427,7 @@ clearly	I-toxic
 desperate	I-toxic
 doormats	I-toxic
 .	I-toxic
+
 
 Wow	0
 !	0
@@ -323763,8 +324645,8 @@ rule	0
 !	0
 
 I	B-toxic
-ca	I-toxic
-n't	I-toxic
+can	I-toxic
+'t	I-toxic
 believe	I-toxic
 this	I-toxic
 ignorant	I-toxic
@@ -323773,6 +324655,7 @@ was	I-toxic
 elected	I-toxic
 Pezident	I-toxic
 .	I-toxic
+
 
 Seriously	0
 if	0
@@ -324791,6 +325674,7 @@ in	I-toxic
 jail	I-toxic
 .	I-toxic
 
+
 You	0
 are	0
 fake	0
@@ -325796,6 +326680,7 @@ the	I-toxic
 devastation	I-toxic
 .	I-toxic
 
+
 The	0
 :Trump	0
 Chumps	B-toxic
@@ -325822,16 +326707,14 @@ slim	I-toxic
 but	I-toxic
 no	I-toxic
 transparent	I-toxic
-(	I-toxic
-and	I-toxic
+(and	I-toxic
 she	I-toxic
 was	I-toxic
 clothed	I-toxic
 )	I-toxic
 .	I-toxic
-``	I-toxic
-“	I-toxic
-I	I-toxic
+"	I-toxic
+“I	I-toxic
 saw	I-toxic
 her	I-toxic
 fall	I-toxic
@@ -325853,17 +326736,17 @@ Stephanie	I-toxic
 Simbeck	I-toxic
 said	I-toxic
 ,	I-toxic
-“	I-toxic
-and	I-toxic
+“and	I-toxic
 I	I-toxic
 saw	I-toxic
 his	I-toxic
 hand	I-toxic
 grab	I-toxic
 her	I-toxic
-ass.	I-toxic
+ass	I-toxic
+.	I-toxic
 ”	I-toxic
-''	I-toxic
+"	I-toxic
 Perhaps	I-toxic
 she	I-toxic
 was	I-toxic
@@ -325873,14 +326756,14 @@ Linda	I-toxic
 Blair	I-toxic
 move	I-toxic
 from	I-toxic
-``	I-toxic
-The	I-toxic
+"The	I-toxic
 Exercist	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 Perhaps	I-toxic
 not	I-toxic
 .	I-toxic
+
 
 Utilitas	0
 ,	0
@@ -326056,7 +326939,8 @@ they	I-toxic
 casted	I-toxic
 their	I-toxic
 votes	I-toxic
-..	I-toxic
+.	I-toxic
+.	I-toxic
 Thank	I-toxic
 you	I-toxic
 Russia	I-toxic
@@ -326099,6 +326983,7 @@ leaders	I-toxic
 Screw	I-toxic
 them	I-toxic
 !	I-toxic
+
 
 Up	0
 until	0
@@ -326241,8 +327126,8 @@ for	I-toxic
 me	I-toxic
 .	I-toxic
 Trump	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 afraid	I-toxic
 to	I-toxic
 say	I-toxic
@@ -326253,6 +327138,7 @@ they	I-toxic
 could	I-toxic
 say	I-toxic
 .	I-toxic
+
 
 This	0
 kind	0
@@ -327078,8 +327964,7 @@ McCain	I-toxic
 !	I-toxic
 !	I-toxic
 !	I-toxic
-(	I-toxic
-I	I-toxic
+(I	I-toxic
 much	I-toxic
 prefer	I-toxic
 a	I-toxic
@@ -327087,12 +327972,13 @@ piece	I-toxic
 of	I-toxic
 garbage	I-toxic
 that	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 get	I-toxic
 captured	I-toxic
 .	I-toxic
 )	I-toxic
+
 
 Wow	0
 .	0
@@ -327471,10 +328357,9 @@ for	I-toxic
 once	I-toxic
 ,	I-toxic
 Brandon	I-toxic
-``	I-toxic
-White	I-toxic
+"White	I-toxic
 Elephant	I-toxic
-''	I-toxic
+"	I-toxic
 Elefante	I-toxic
 !	I-toxic
 !	I-toxic
@@ -327500,6 +328385,7 @@ Waipahoooooooooo	I-toxic
 ?	I-toxic
 ?	I-toxic
 ?	I-toxic
+
 
 Die	0
 yuppie	0
@@ -328381,6 +329267,7 @@ taxpayers	I-toxic
 money	I-toxic
 .	I-toxic
 
+
 It	0
 's	0
 people	0
@@ -328502,9 +329389,8 @@ more	I-toxic
 willing	I-toxic
 to	I-toxic
 call	I-toxic
-``	I-toxic
-lies	I-toxic
-''	I-toxic
+"lies	I-toxic
+"	I-toxic
 on	I-toxic
 the	I-toxic
 people	I-toxic
@@ -328650,6 +329536,7 @@ a	I-toxic
 lie	I-toxic
 .	I-toxic
 
+
 Republicans	0
 are	0
 all	0
@@ -328763,6 +329650,7 @@ around	I-toxic
 the	I-toxic
 world	I-toxic
 ?	I-toxic
+
 
 Yeah	0
 this	0
@@ -329957,8 +330845,8 @@ this	0
 clown	B-toxic
 .	0
 
-``	B-toxic
-Only	I-toxic
+	
+"Only	B-toxic
 the	I-toxic
 light	I-toxic
 of	I-toxic
@@ -329978,7 +330866,7 @@ pray	I-toxic
 for	I-toxic
 peace	I-toxic
 ,	I-toxic
-''	I-toxic
+"	I-toxic
 said	I-toxic
 Bishop	I-toxic
 DiLorenzo	I-toxic
@@ -329986,8 +330874,7 @@ in	I-toxic
 his	I-toxic
 statement	I-toxic
 .	I-toxic
-``	I-toxic
-I	I-toxic
+"I	I-toxic
 pray	I-toxic
 that	I-toxic
 those	I-toxic
@@ -330007,7 +330894,7 @@ their	I-toxic
 differences	I-toxic
 respectfully	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 DiLorenzo	I-toxic
 goes	I-toxic
 the	I-toxic
@@ -330023,6 +330910,7 @@ profile	I-toxic
 in	I-toxic
 cowardice	I-toxic
 !	I-toxic
+
 
 G	0
 &M	0
@@ -330301,8 +331189,8 @@ this	I-toxic
 front	I-toxic
 .	I-toxic
 It	I-toxic
-is	I-toxic
-n't	I-toxic
+isn	I-toxic
+'t	I-toxic
 about	I-toxic
 JUST	I-toxic
 raising	I-toxic
@@ -330314,8 +331202,7 @@ It	I-toxic
 about	I-toxic
 raising	I-toxic
 income	I-toxic
-(	I-toxic
-taxes	I-toxic
+(taxes	I-toxic
 )	I-toxic
 while	I-toxic
 cutting	I-toxic
@@ -330367,8 +331254,8 @@ guy	I-toxic
 over	I-toxic
 ,	I-toxic
 but	I-toxic
-wo	I-toxic
-n't	I-toxic
+won	I-toxic
+'t	I-toxic
 even	I-toxic
 start	I-toxic
 to	I-toxic
@@ -330397,6 +331284,7 @@ die	I-toxic
 ,	I-toxic
 amirite	I-toxic
 ?	I-toxic
+
 
 Need	0
 a	0
@@ -331363,8 +332251,8 @@ be	0
 white	0
 .	0
 
-``	B-toxic
-President	I-toxic
+	
+"President	B-toxic
 Donald	I-toxic
 Trump	I-toxic
 called	I-toxic
@@ -331386,18 +332274,22 @@ national	I-toxic
 anthem	I-toxic
 protesters	I-toxic
 '	I-toxic
-''	I-toxic
+"	I-toxic
 So	I-toxic
 saith	I-toxic
 the	I-toxic
-draft-dodging	I-toxic
+draft	I-toxic
+-dodging	I-toxic
 and	I-toxic
-fake-tough-guy	I-toxic
+fake	I-toxic
+-tough	I-toxic
+-guy	I-toxic
 dotard	I-toxic
 .	I-toxic
 No	I-toxic
 ,	I-toxic
-Mr.	I-toxic
+Mr	I-toxic
+.	I-toxic
 Trump	I-toxic
 ,	I-toxic
 we	I-toxic
@@ -331407,10 +332299,12 @@ fire	I-toxic
 our	I-toxic
 treasonous	I-toxic
 ,	I-toxic
-Russia-colluding	I-toxic
+Russia	I-toxic
+-colluding	I-toxic
 president	I-toxic
 instead	I-toxic
 .	I-toxic
+
 
 Neither	0
 K	0
@@ -331688,8 +332582,8 @@ kind	I-toxic
 of	I-toxic
 an	I-toxic
 idiot	I-toxic
-does	I-toxic
-n't	I-toxic
+doesn	I-toxic
+'t	I-toxic
 know	I-toxic
 that	I-toxic
 ?	I-toxic
@@ -331704,6 +332598,7 @@ potheads	I-toxic
 out	I-toxic
 there	I-toxic
 .	I-toxic
+
 
 	
 “The	0
@@ -331807,6 +332702,7 @@ Doucet	I-toxic
 shot	I-toxic
 .	I-toxic
 
+
 Trump	B-toxic
 is	I-toxic
 morally	I-toxic
@@ -331825,7 +332721,9 @@ duty	I-toxic
 is	I-toxic
 to	I-toxic
 the	I-toxic
-U.S.	I-toxic
+U	I-toxic
+.S	I-toxic
+.	I-toxic
 Constitution	I-toxic
 ,	I-toxic
 not	I-toxic
@@ -331844,6 +332742,7 @@ conman	I-toxic
 from	I-toxic
 office	I-toxic
 .	I-toxic
+
 
 You	0
 voted	0
@@ -333071,22 +333970,20 @@ do	I-toxic
 squat	I-toxic
 cept	I-toxic
 say	I-toxic
-''	I-toxic
+"	I-toxic
 Don	I-toxic
-,	I-toxic
-i	I-toxic
+,i	I-toxic
 was	I-toxic
 ready	I-toxic
 to	I-toxic
 retire	I-toxic
-,	I-toxic
-I	I-toxic
+,I	I-toxic
 did	I-toxic
 not	I-toxic
 want	I-toxic
 this	I-toxic
 job	I-toxic
-''	I-toxic
+"	I-toxic
 !	I-toxic
 Hey	I-toxic
 dunce	I-toxic
@@ -333111,6 +334008,7 @@ a	I-toxic
 subway	I-toxic
 pedophile	I-toxic
 .	I-toxic
+
 
 another	0
 useless	B-toxic
@@ -333960,7 +334858,9 @@ meet	I-toxic
 boots	I-toxic
 for	I-toxic
 a	I-toxic
-one-on-one	I-toxic
+one	I-toxic
+-on	I-toxic
+-one	I-toxic
 scrap	I-toxic
 !	I-toxic
 Still	I-toxic
@@ -333972,10 +334872,10 @@ exhaust	I-toxic
 you	I-toxic
 little	I-toxic
 p	I-toxic
-*	I-toxic
-ssy	I-toxic
+*ssy	I-toxic
 !	I-toxic
 !	I-toxic
+
 
 You	0
 do	0
@@ -334161,12 +335061,12 @@ on	I-toxic
 their	I-toxic
 a	I-toxic
 *	I-toxic
-*	I-toxic
-es	I-toxic
+*es	I-toxic
 for	I-toxic
 the	I-toxic
 last	I-toxic
-50	I-toxic
+5	I-toxic
+0	I-toxic
 years	I-toxic
 while	I-toxic
 Republicans	I-toxic
@@ -334175,6 +335075,7 @@ carried	I-toxic
 the	I-toxic
 load	I-toxic
 .	I-toxic
+
 
 Hilarious	0
 yet	0
@@ -334471,7 +335372,8 @@ WHAT	I-toxic
 IT	I-toxic
 LOOKS	I-toxic
 LIKE	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
 -WITHOUT	I-toxic
 A	I-toxic
 PR	I-toxic
@@ -334485,12 +335387,14 @@ PR	I-toxic
 A	I-toxic
 LIVE	I-toxic
 CHICKEN	I-toxic
---	I-toxic
+-	I-toxic
+-	I-toxic
 -THEY	I-toxic
 STILL	I-toxic
 NEED	I-toxic
 SEX	I-toxic
 PARTNERS	I-toxic
+
 
 This	0
 is	0
@@ -335635,6 +336539,7 @@ into	I-toxic
 this	I-toxic
 world	I-toxic
 !	I-toxic
+
 
 Anyone	0
 who	0
@@ -337048,6 +337953,7 @@ especially	I-toxic
 the	I-toxic
 muslims	I-toxic
 
+
 A	0
 stupid	0
 comment	0
@@ -337234,6 +338140,7 @@ Welcome	I-toxic
 to	I-toxic
 hell	I-toxic
 .	I-toxic
+
 
 Alexander	0
 Durban	0
@@ -337576,13 +338483,16 @@ their	I-toxic
 Islamic	I-toxic
 heaven	I-toxic
 with	I-toxic
-72	I-toxic
+7	I-toxic
+2	I-toxic
 virgins	I-toxic
+
 
 Typical	B-toxic
 of	I-toxic
 the	I-toxic
-Bambi-brained	I-toxic
+Bambi	I-toxic
+-brained	I-toxic
 imbeciles	I-toxic
 who	I-toxic
 value	I-toxic
@@ -337603,18 +338513,19 @@ Goering	I-toxic
 declared	I-toxic
 animal	I-toxic
 experimentation	I-toxic
-``	I-toxic
-verboten	I-toxic
-''	I-toxic
+"verboten	I-toxic
+"	I-toxic
 in	I-toxic
-1933	I-toxic
+1	I-toxic
+9	I-toxic
+3	I-toxic
+3	I-toxic
 ,	I-toxic
 the	I-toxic
 latter	I-toxic
 threatening	I-toxic
 those	I-toxic
-``	I-toxic
-who	I-toxic
+"who	I-toxic
 still	I-toxic
 think	I-toxic
 of	I-toxic
@@ -337623,7 +338534,7 @@ as	I-toxic
 their	I-toxic
 inanimate	I-toxic
 property	I-toxic
-''	I-toxic
+"	I-toxic
 with	I-toxic
 concentration	I-toxic
 camp	I-toxic
@@ -337638,11 +338549,10 @@ TRUE	I-toxic
 face	I-toxic
 of	I-toxic
 the	I-toxic
-``	I-toxic
-animal	I-toxic
+"animal	I-toxic
 rights	I-toxic
 movement	I-toxic
-''	I-toxic
+"	I-toxic
 .	I-toxic
 Whales	I-toxic
 and	I-toxic
@@ -337665,14 +338575,13 @@ problem	I-toxic
 experimenting	I-toxic
 on	I-toxic
 humans	I-toxic
---	I-toxic
-of	I-toxic
+-	I-toxic
+-of	I-toxic
 certain	I-toxic
-``	I-toxic
-types	I-toxic
-''	I-toxic
---	I-toxic
-however	I-toxic
+"types	I-toxic
+"	I-toxic
+-	I-toxic
+-however	I-toxic
 much	I-toxic
 concern	I-toxic
 they	I-toxic
@@ -337702,14 +338611,14 @@ Singer	I-toxic
 PhD	I-toxic
 ,	I-toxic
 the	I-toxic
-so-called	I-toxic
-``	I-toxic
-father	I-toxic
+so	I-toxic
+-called	I-toxic
+"father	I-toxic
 of	I-toxic
 animal	I-toxic
 liberation	I-toxic
 .	I-toxic
-''	I-toxic
+"	I-toxic
 This	I-toxic
 idiot	I-toxic
 argues	I-toxic
@@ -337719,14 +338628,14 @@ dog	I-toxic
 is	I-toxic
 of	I-toxic
 greater	I-toxic
-``	I-toxic
-ethical	I-toxic
+"ethical	I-toxic
 worth	I-toxic
-''	I-toxic
+"	I-toxic
 than	I-toxic
 a	I-toxic
 two	I-toxic
-year-old	I-toxic
+year	I-toxic
+-old	I-toxic
 human	I-toxic
 child	I-toxic
 ,	I-toxic
@@ -337753,22 +338662,22 @@ that	I-toxic
 starving	I-toxic
 native	I-toxic
 Alaskans	I-toxic
---	I-toxic
-or	I-toxic
+-	I-toxic
+-or	I-toxic
 rounding	I-toxic
 them	I-toxic
 up	I-toxic
 on	I-toxic
-``	I-toxic
-reservations	I-toxic
-''	I-toxic
---	I-toxic
-is	I-toxic
+"reservations	I-toxic
+"	I-toxic
+-	I-toxic
+-is	I-toxic
 preferable	I-toxic
 to	I-toxic
 killing	I-toxic
 whales	I-toxic
 .	I-toxic
+
 
 But	0
 our	0
@@ -339084,8 +339993,8 @@ stupid	0
 people	0
 .	0
 
-``	B-toxic
-Do	I-toxic
+	
+"Do	B-toxic
 you	I-toxic
 think	I-toxic
 it	I-toxic
@@ -339101,12 +340010,15 @@ a	I-toxic
 crap	I-toxic
 what	I-toxic
 happened	I-toxic
-10	I-toxic
+1	I-toxic
+0	I-toxic
 years	I-toxic
 ago	I-toxic
-...	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 ?	I-toxic
-''	I-toxic
+"	I-toxic
 That	I-toxic
 must	I-toxic
 be	I-toxic
@@ -339143,6 +340055,7 @@ moral	I-toxic
 fortitude	I-toxic
 is	I-toxic
 .	I-toxic
+
 
 Your	0
 vote	0
@@ -341268,6 +342181,7 @@ dangerously	I-toxic
 stupid	I-toxic
 .	I-toxic
 
+
 Trump	0
 is	0
 a	0
@@ -342749,6 +343663,7 @@ psychopath	I-toxic
 attitude	I-toxic
 .	I-toxic
 
+
 Another	0
 substantial	0
 number	0
@@ -343013,6 +343928,7 @@ with	I-toxic
 the	I-toxic
 bitch	I-toxic
 Hillary	I-toxic
+
 
 Only	0
 thing	0
@@ -345273,16 +346189,14 @@ what	I-toxic
 India	I-toxic
 is	I-toxic
 a	I-toxic
-``	I-toxic
-superpower	I-toxic
-''	I-toxic
+"superpower	I-toxic
+"	I-toxic
 ?	I-toxic
 Let	I-toxic
 alone	I-toxic
-``	I-toxic
-never	I-toxic
+"never	I-toxic
 attack	I-toxic
-''	I-toxic
+"	I-toxic
 any	I-toxic
 country	I-toxic
 ?	I-toxic
@@ -345290,6 +346204,7 @@ Just	I-toxic
 ridiculous	I-toxic
 liars	I-toxic
 .	I-toxic
+
 
 Trump	B-toxic
 shares	I-toxic
@@ -345322,6 +346237,7 @@ few	I-toxic
 of	I-toxic
 them	I-toxic
 .	I-toxic
+
 
 What	0
 an	0
@@ -346432,9 +347348,11 @@ Service	0
 s%#cks	B-toxic
 !	0
 
+	
 ,	B-toxic
-...	I-toxic
-Crash	I-toxic
+.	I-toxic
+.	I-toxic
+.Crash	I-toxic
 Course	I-toxic
 channel	I-toxic
 ,	I-toxic
@@ -346444,11 +347362,17 @@ an	I-toxic
 Economics	I-toxic
 section	I-toxic
 containing	I-toxic
-35	I-toxic
-10-minute	I-toxic
+3	I-toxic
+5	I-toxic
+1	I-toxic
+0	I-toxic
+-minute	I-toxic
 segments	I-toxic
 ,	I-toxic
-....	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
+.	I-toxic
 Just	I-toxic
 to	I-toxic
 waste	I-toxic
@@ -346458,6 +347382,7 @@ time	I-toxic
 .	I-toxic
 Pointless	I-toxic
 .	I-toxic
+
 
 I	0
 bet	0
