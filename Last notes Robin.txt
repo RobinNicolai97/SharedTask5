@@ -1,0 +1,29 @@
+Hey team,
+
+I wanted to share with you the BI0 code I worked on.
+
+The output of this code is in BI0_Train.txt.
+
+Take a look at it, it might help. 
+
+I had a hard time writing this code and it's not perfect yet. 
+
+
+The code might be complicated too.. 
+
+the main issue is interpunction now. 
+
+For toxic spans, I told the sytem to do a \newline when switching from toxic to non-toxic spans. This was fairly easy.
+
+However, for non toxic spans I couldn't do that.
+This is because both the word and interpunction were non-toxic and this therefore can't be distuingished. It is also a problem in fully toxic messages '[]',
+because also there you can't check for different annotation (because all is toxic). 
+That's why I told the system to do a \newline when a character is not alphabetic.
+
+This messes up words like F*ck. Also mentions because of the @. 
+I hardcoded the model so that it would leave URL's unharmed. Those work fine now. 
+
+Hope you can manage to get this working. Good luck!
+
+
+
