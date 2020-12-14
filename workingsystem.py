@@ -40,7 +40,7 @@ def main():
 	trainx, trainy = create_binary("tsd_train.csv") #for classifying whole sentence toxic vs. part of sentence
 	#unbalance: 7454, 485
 	testx, testy = create_binary("tsd_trial.csv")
-	vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity)
+	vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(1, 2))
 	classifier = Pipeline([('vec', vec),('cls', svm.SVC(class_weight={0: 0.065, 1: 0.935}))])
 	classifier.fit(trainx, trainy)
 	Yguess = classifier.predict(testx)
