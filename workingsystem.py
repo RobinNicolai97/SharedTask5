@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
 
 
 import csv
@@ -54,14 +53,12 @@ def identity(x):
 # main() 
 
 
-# In[21]:
-
+# remove stopwords
 
 stopword=[j.strip() for j in open("stopwords.txt").readlines()]
     
 
 
-# In[29]:
 
 
 trainx, trainy = create_binary("tsd_train.csv") #for classifying whole sentence toxic vs. part of sentence
@@ -71,9 +68,8 @@ testx, testy = create_binary("tsd_trial.csv")
 testx=[" ".join([j for j in i.split(" ") if j not in stopword]) for i in testx]
 
 
-# In[30]:
 
-
+# use option for characters
 def getcharfea(trainx):
     trainx=[" ".join(list("".join(i.split(" ")))) for i in trainx]
     vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(2, 2))
@@ -81,7 +77,6 @@ def getcharfea(trainx):
     return res,vec
 
 
-# In[31]:
 
 
 train_char,vec=getcharfea(trainx)
@@ -89,13 +84,6 @@ test_char=vec.transform(testx).todense()
 test_char.shape
 
 
-# In[28]:
-
-
-train_char.shape
-
-
-# In[32]:
 
 
 vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(1, 2))
@@ -103,17 +91,15 @@ trainx_tf=vec.fit_transform(trainx)
 testx_tf=vec.transform(testx)
 
 
-# In[33]:
-
 
 trainx_tf=trainx_tf.todense()
 testx_tf=testx_tf.todense()
 trainx_tf.shape
 
 
-# In[34]:
 
 
+# Add glove embedding
 import gensim
 from glove import Glove
 from glove import Corpus
@@ -126,7 +112,6 @@ glove.fit(corpus_model.matrix, epochs=11, no_threads=1, verbose=True)
 glove.add_dictionary(corpus_model.dictionary)
 
 
-# In[35]:
 
 
 from tqdm import tqdm
@@ -155,15 +140,12 @@ glove_test=np.array(glove_test)
 glove_train.shape
 
 
-# In[37]:
-
 
 trainx=np.concatenate([trainx_tf,glove_train,train_char],axis=1)
 testx=np.concatenate([testx_tf,glove_test,test_char],axis=1)
 trainx.shape,testx.shape
 
 
-# In[ ]:
 
 
 # classifier= svm.SVC(class_weight={0: 0.065, 1: 0.935})
@@ -173,4 +155,3 @@ Yguess = classifier.predict(testx)
 evaluate(testy, Yguess)
 
 
-# In[ ]:
