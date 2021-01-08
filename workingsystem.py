@@ -72,6 +72,8 @@ testx=[" ".join([j for j in i.split(" ") if j not in stopword]) for i in testx]
 # use option for characters
 def getcharfea(trainx):
     trainx=[" ".join(list("".join(i.split(" ")))) for i in trainx]
+
+# use bigram only
     vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(2, 2))
     res=vec.fit_transform(trainx).todense()
     return res,vec
@@ -84,7 +86,7 @@ test_char=vec.transform(testx).todense()
 test_char.shape
 
 
-
+# use bigram+unigram
 
 vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(1, 2))
 trainx_tf=vec.fit_transform(trainx)
@@ -153,5 +155,5 @@ classifier = Pipeline([('cls', svm.SVC(class_weight={0: 0.065, 1: 0.935}))])
 classifier.fit(trainx, trainy)
 Yguess = classifier.predict(testx)
 evaluate(testy, Yguess)
-
+# With the addition of the above features, the results all fit into category “0”
 
