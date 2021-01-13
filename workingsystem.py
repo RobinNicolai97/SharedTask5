@@ -4,13 +4,16 @@
 
 
 import csv
-from nltk.tokenize import word_tokenize 
+from nltk.tokenize import sent_tokenize, word_tokenize 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import svm
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 from nltk import ngrams
 import re
+import gensim
+from tqdm import tqdm
+import numpy as np
 
 #I tried applying stemming to the messages. Recall for class 1 dropped 10%
 
@@ -18,17 +21,51 @@ def create_binary(file):
 	with open(file,  encoding="utf8") as csv_file:
 		messages = []
 		labels = []
-		csv_reader = csv.reader(csv_file, delimiter=',') # read csv-file         
+		tokens = []
+		csv_reader = csv.reader(csv_file, delimiter=',') # read csv-file
+		counter = 0        
 		for row in csv_reader:
-			if row[0].strip() == 'spans':
-				pass
-			span = row[0].strip('][').split(', ') 
-			if len(span) == 1: #all characters of messages belong to the toxic span if list is empty
-				labels.append(1)
+			# Sherlock, here is the counter for how many messages the program takes into account
+			# This is just for the development, so the program runs faster, and to prevent the memoryerror
+			if counter >= 50:
+				break
 			else:
-				labels.append(0)
-			messages.append(row[1].strip())
-	return messages[1:], labels[1:] #first line is gibberish 
+				if row[0].strip() == 'spans':
+					pass
+				else:
+					word_cnt = 0
+					sentences = sent_tokenize(row[1])
+					new_message = []
+					for sent in sentences:
+						words = word_tokenize(sent)
+						for word in words:
+							new_message.append(word)
+							tokens.append(word)
+							word_cnt += 1
+
+					span = row[0].strip('][').split(', ')
+
+					# All characters of messages belong to the toxic span if list is empty
+					# In these cases, we annotate every word as toxic
+					if len(span) == 1:
+						for i in range(word_cnt):
+							labels.append(1)
+
+					else:
+						bad_words = ""
+						for position in span:
+							bad_words += row[1][int(position)]
+							if str(int(position) + 1) not in span:
+								bad_words += " "
+						cuss_list = word_tokenize(bad_words)
+						for word in new_message:
+							if word in cuss_list:
+								labels.append(1)
+							else:
+								labels.append(0)
+					counter += 1
+
+	return tokens, labels #first line is gibberish
 	
 def evaluate(Ytest, Yguess):
 	print('\n accuracy score:', accuracy_score(Ytest, Yguess) )
@@ -37,123 +74,109 @@ def evaluate(Ytest, Yguess):
 	print('\n Confusion Matrix \n')
 	print(confusion_matrix(Ytest,Yguess))
 
+
+
 # a dummy function that just returns its input
 def identity(x):
-    return x	
-         
-# def main():
-# 	trainx, trainy = create_binary("tsd_train.csv") #for classifying whole sentence toxic vs. part of sentence
-# 	#unbalance: 7454, 485
-# 	testx, testy = create_binary("tsd_trial.csv")
-# 	vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(1, 2))
-# 	classifier = Pipeline([('vec', vec),('cls', svm.SVC(class_weight={0: 0.065, 1: 0.935}))])
-# 	classifier.fit(trainx, trainy)
-# 	Yguess = classifier.predict(testx)
-# 	evaluate(testy, Yguess)
-# main() 
-
-
-# remove stopwords
-
-stopword=[j.strip() for j in open("stopwords.txt").readlines()]
-    
-
-
-
-
-trainx, trainy = create_binary("tsd_train.csv") #for classifying whole sentence toxic vs. part of sentence
-#unbalance: 7454, 485
-trainx=[" ".join([j for j in i.split(" ") if j not in stopword]) for i in trainx]
-testx, testy = create_binary("tsd_trial.csv")
-testx=[" ".join([j for j in i.split(" ") if j not in stopword]) for i in testx]
+	return x	
 
 
 
 # use option for characters
 def getcharfea(trainx):
-    trainx=[" ".join(list("".join(i.split(" ")))) for i in trainx]
+	trainx=[" ".join(list("".join(i.split(" ")))) for i in trainx]
 
 # use bigram only
-    vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(2, 2))
-    res=vec.fit_transform(trainx).todense()
-    return res,vec
+	vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(2, 2))
+	res=vec.fit_transform(trainx).todense()
+	return res,vec
 
 
+def seq_vector(seq, embeddings_dict):
+	tmp=np.array([])
+	for i in seq:
+		if i in embeddings_dict:
+			tmp=np.concatenate([tmp,embeddings_dict[i]])
+	tmp=list(tmp)
+	if len(tmp)<320:
+		while len(tmp)<320:
+			tmp.append(0)
+	else:
+		tmp=tmp[:320]
+	return tmp
 
 
-train_char,vec=getcharfea(trainx)
-test_char=vec.transform(testx).todense()
-test_char.shape
+def main():
+	# remove stopwords
+
+	stopword=[j.strip() for j in open("stopwords.txt").readlines()]
+
+	#for classifying whole sentence toxic vs. part of sentence
+	trainx, trainy = create_binary("tsd_train.csv")
+
+	# Limit size of trainx for development speed purposes
+
+	#unbalance: 7454, 485
+	trainx=[" ".join([j for j in i.split(" ") if j not in stopword]) for i in trainx]
+	testx, testy = create_binary("tsd_trial.csv")
+	testx=[" ".join([j for j in i.split(" ") if j not in stopword]) for i in testx]
+
+	train_char,vec=getcharfea(trainx)
+	test_char=vec.transform(testx).todense()
+	test_char.shape
+
+	# use only unigram
+
+	vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(1, 1))
+	trainx_tf=vec.fit_transform(trainx)
+	testx_tf=vec.transform(testx)
+
+	trainx_tf=trainx_tf.todense()
+	testx_tf=testx_tf.todense()
+	trainx_tf.shape
+
+	# The following lines create a dictionary containing the glove embeddings
+	embeddings_dict = {}
+	with open("glove.6B/glove.6B.50d.txt", 'r') as f:
+	    for line in f:
+	        values = line.split()
+	        word = values[0]
+	        vector = np.asarray(values[1:], "float32")
+	        embeddings_dict[word] = vector
 
 
-# use bigram+unigram
+	glove_train=[]
 
-vec = TfidfVectorizer(preprocessor = identity, tokenizer = identity,ngram_range=(1, 2))
-trainx_tf=vec.fit_transform(trainx)
-testx_tf=vec.transform(testx)
+	for i in tqdm(trainx):
+		glove_train.append(seq_vector(i.split(" "), embeddings_dict))
 
+	glove_test=[]
+	for i in tqdm(testx):
+		glove_test.append(seq_vector(i.split(" "), embeddings_dict))
 
-
-trainx_tf=trainx_tf.todense()
-testx_tf=testx_tf.todense()
-trainx_tf.shape
-
-
-
-
-# Add glove embedding
-import gensim
-from glove import Glove
-from glove import Corpus
-corpus_model = Corpus()
-corpus_model.fit([i.split(" ") for i in trainx], window=5)
-print('Collocations: %s' % corpus_model.matrix.nnz)
-glove = Glove(no_components=10, learning_rate=0.05)
-glove.fit(corpus_model.matrix, epochs=11, no_threads=1, verbose=True)
-
-glove.add_dictionary(corpus_model.dictionary)
+	glove_train=np.array(glove_train)
+	glove_test=np.array(glove_test)
+	glove_train.shape
 
 
+	# Because of MemoryError, I have excluded glove_train and train_char for now
+	trainx=np.concatenate([trainx_tf,glove_train,train_char],axis=1)
+	#trainx=np.concatenate([trainx_tf],axis=1)
 
 
-from tqdm import tqdm
-import numpy as np
-def seq_vector(seq):
-        import numpy as np
-        tmp=np.array([])
-        for i in seq:
-            if i in glove.dictionary:
-                tmp=np.concatenate([tmp,glove.word_vectors[glove.dictionary[i]]])
-        tmp=list(tmp)
-        if len(tmp)<320:
-            while len(tmp)<320:
-                tmp.append(0)
-        else:
-            tmp=tmp[:320]
-        return tmp
-glove_train=[]
-for i in tqdm(trainx):
-    glove_train.append(seq_vector(i.split(" ")))
-glove_test=[]
-for i in tqdm(testx):
-    glove_test.append(seq_vector(i.split(" ")))
-glove_train=np.array(glove_train)
-glove_test=np.array(glove_test)
-glove_train.shape
+	testx=np.concatenate([testx_tf,glove_test,test_char],axis=1)
+	#testx=np.concatenate([testx_tf],axis=1)
+	trainx.shape,testx.shape
 
+	# classifier= svm.SVC(class_weight={0: 0.065, 1: 0.935})
+	classifier = Pipeline([('cls', svm.SVC(class_weight={0: 0.065, 1: 0.935}))])
+	print("Pipeline created")
+	classifier.fit(trainx, trainy)
+	print("Training done")
+	Yguess = classifier.predict(testx)
+	print("Predicting done")
+	evaluate(testy, Yguess)
+	# With the addition of the above features, the results all fit into category “0”
 
-
-trainx=np.concatenate([trainx_tf,glove_train,train_char],axis=1)
-testx=np.concatenate([testx_tf,glove_test,test_char],axis=1)
-trainx.shape,testx.shape
-
-
-
-
-# classifier= svm.SVC(class_weight={0: 0.065, 1: 0.935})
-classifier = Pipeline([('cls', svm.SVC(class_weight={0: 0.065, 1: 0.935}))])
-classifier.fit(trainx, trainy)
-Yguess = classifier.predict(testx)
-evaluate(testy, Yguess)
-# With the addition of the above features, the results all fit into category “0”
-
+if __name__ == '__main__':
+	main()
