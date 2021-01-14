@@ -4,7 +4,7 @@
 
 
 import csv
-from nltk.tokenize import sent_tokenize, word_tokenize 
+from nltk.tokenize import sent_tokenize, word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import svm
 from sklearn.pipeline import Pipeline
@@ -23,25 +23,26 @@ def create_binary(file):
 		labels = []
 		tokens = []
 		csv_reader = csv.reader(csv_file, delimiter=',') # read csv-file
-		counter = 0        
+		counter = 0
 		for row in csv_reader:
 			# Sherlock, here is the counter for how many messages the program takes into account
 			# This is just for the development, so the program runs faster, and to prevent the memoryerror
-			if counter >= 50:
-				break
+			# if counter >= 50:
+			# 				break
+			# 			else:
+
+			if row[0].strip() == 'spans':
+				pass
 			else:
-				if row[0].strip() == 'spans':
-					pass
-				else:
-					word_cnt = 0
-					sentences = sent_tokenize(row[1])
-					new_message = []
-					for sent in sentences:
-						words = word_tokenize(sent)
-						for word in words:
-							new_message.append(word)
-							tokens.append(word)
-							word_cnt += 1
+				word_cnt = 0
+				sentences = sent_tokenize(row[1])
+				new_message = []
+				for sent in sentences:
+					words = word_tokenize(sent)
+					for word in words:
+						new_message.append(word)
+						tokens.append(word)
+						word_cnt += 1
 
 					span = row[0].strip('][').split(', ')
 
@@ -66,7 +67,61 @@ def create_binary(file):
 					counter += 1
 
 	return tokens, labels #first line is gibberish
-	
+
+
+# New function 1:
+# Convert token evaluation parameters to character data.
+# When '' happen, nothing changed in new data.
+def token2character(Ytest, Yguess, testx):
+	length = len(Ytest)
+	Ytest_new = []
+	Yguess_new = []
+	for i in range(length):
+		if Ytest[i] == 0:
+			for j in range(len(testx[i])):
+				Ytest_new.append(0)
+		else:
+			for j in range(len(testx[i])):
+				Ytest_new.append(1)
+		if Yguess[i] == 0:
+			for j in range(len(testx[i])):
+				Yguess_new.append(0)
+		else:
+			for j in range(len(testx[i])):
+				Yguess_new.append(1)
+	return Ytest_new, Yguess_new
+
+
+# New function 1:
+# Convert token evaluation parameters to character data.
+# When '' happen, new data add one element.
+def token2character_null(Ytest, Yguess, testx):
+	length = len(Ytest)
+	Ytest_new = []
+	Yguess_new = []
+	for i in range(length):
+		if Ytest[i] == 0:
+			if len(testx[i]) == 0:
+				Ytest_new.append(0)
+			for j in range(len(testx[i])):
+				Ytest_new.append(0)
+		else:
+			if len(testx[i]) == 0:
+				Ytest_new.append(1)
+			for j in range(len(testx[i])):
+				Ytest_new.append(1)
+		if Yguess[i] == 0:
+			if len(testx[i]) == 0:
+				Yguess_new.append(0)
+			for j in range(len(testx[i])):
+				Yguess_new.append(0)
+		else:
+			if len(testx[i]) == 0:
+				Yguess_new.append(1)
+			for j in range(len(testx[i])):
+				Yguess_new.append(1)
+	return Ytest_new, Yguess_new
+
 def evaluate(Ytest, Yguess):
 	print('\n accuracy score:', accuracy_score(Ytest, Yguess) )
 	print('\n\n')
@@ -78,7 +133,7 @@ def evaluate(Ytest, Yguess):
 
 # a dummy function that just returns its input
 def identity(x):
-	return x	
+	return x
 
 
 
@@ -121,6 +176,9 @@ def main():
 	testx, testy = create_binary("tsd_trial.csv")
 	testx=[" ".join([j for j in i.split(" ") if j not in stopword]) for i in testx]
 
+	#Store original test data
+	ori_testx = testx
+
 	train_char,vec=getcharfea(trainx)
 	test_char=vec.transform(testx).todense()
 	test_char.shape
@@ -137,7 +195,7 @@ def main():
 
 	# The following lines create a dictionary containing the glove embeddings
 	embeddings_dict = {}
-	with open("glove.6B/glove.6B.50d.txt", 'r') as f:
+	with open("glove.6B/glove.6B.50d.txt", 'r', encoding='UTF-8') as f:
 	    for line in f:
 	        values = line.split()
 	        word = values[0]
@@ -175,8 +233,9 @@ def main():
 	print("Training done")
 	Yguess = classifier.predict(testx)
 	print("Predicting done")
+	#Convert the token evaluation parameters to character.
+	testy, Yguess = token2character(testy, Yguess, ori_testx)
+	#testy, Yguess = token2character_null(testy, Yguess, ori_testx)
 	evaluate(testy, Yguess)
-	# With the addition of the above features, the results all fit into category “0”
-
 if __name__ == '__main__':
 	main()
