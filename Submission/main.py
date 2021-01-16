@@ -20,7 +20,7 @@ def main():
 		line_count = 0          
 		bad_words_file = open("badwords.txt", encoding="utf8") #loading a library of bad words to identify toxicity
 		bad_words_lib = []
-		f = open("system_output.txt", "w+")
+		f = open("spans-pred.txt", "w+")
 		for line in bad_words_file.readlines(): #stemming the words in the library
 			linetext = []
 			for word in line.split():
@@ -29,21 +29,24 @@ def main():
 		bad_words_lib = set(bad_words_lib)
 
 		for row in csv_reader:
-			matches = [ word for word in word_tokenize(row[0]) if stemmer.stem(word.lower()) in bad_words_lib] #check for each word in the message if it is in our library.
-			matches += [ gram[0] + ' ' + gram[1] for gram in ngrams(word_tokenize(row[0]), 2) if stemmer.stem(gram[0].lower()) + ' ' + stemmer.stem(gram[1].lower()) in bad_words_lib ] #check for each bigram in the message if it is in our library.
-			span = []
-			for match in matches:
-				try:
-					find_matches = re.finditer(match, row[0]) #identifying the location of the matches, to be able to compare them to the gold label.
-				except:
-					pass
+			if row[0] == "text":
+				pass
+			else:
+				matches = [ word for word in word_tokenize(row[0]) if stemmer.stem(word.lower()) in bad_words_lib] #check for each word in the message if it is in our library.
+				matches += [ gram[0] + ' ' + gram[1] for gram in ngrams(word_tokenize(row[0]), 2) if stemmer.stem(gram[0].lower()) + ' ' + stemmer.stem(gram[1].lower()) in bad_words_lib ] #check for each bigram in the message if it is in our library.
+				span = []
+				for match in matches:
+					try:
+						find_matches = re.finditer(match, row[0]) #identifying the location of the matches, to be able to compare them to the gold label.
+					except:
+						pass
 
-				matches_positions = [found.start() for found in find_matches]   
-				for i in range(len(match)):
-					for pos in matches_positions:
-						span.append(pos + i )
+					matches_positions = [found.start() for found in find_matches]   
+					for i in range(len(match)):
+						for pos in matches_positions:
+							span.append(pos + i )
 
-			f.write(str(span) + "\n")
+				f.write(str(span) + "\n")
 
 		f.close()
 
