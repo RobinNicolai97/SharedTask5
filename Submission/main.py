@@ -27,7 +27,7 @@ def main():
 				linetext.append(stemmer.stem(word.strip()))
 			bad_words_lib.append(' '.join(linetext))
 		bad_words_lib = set(bad_words_lib)
-
+		line_count = 0
 		for row in csv_reader:
 			if row[0] == "text":
 				pass
@@ -46,7 +46,8 @@ def main():
 						for pos in matches_positions:
 							span.append(pos + i )
 
-				f.write(str(span) + "\n")
+				f.write(str(line_count) + '\t' + str(span) + '\n')
+				line_count += 1
 
 		f.close()
 
